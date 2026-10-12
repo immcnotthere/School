@@ -1,0 +1,1504 @@
+{
+	"nodes": [
+		{
+			"id": "81d38d5ecb3e141f",
+			"type": "group",
+			"x": 7160,
+			"y": -11200,
+			"width": 9480,
+			"height": 10080,
+			"label": "Laplace Theorem"
+		},
+		{
+			"id": "f4418ddc5619e8d8",
+			"type": "group",
+			"x": 1213,
+			"y": -10138,
+			"width": 11267,
+			"height": 3858,
+			"color": "#3ea8f9",
+			"label": "Spring-Mass Systems"
+		},
+		{
+			"id": "e1f5cb4aaedf647f",
+			"type": "group",
+			"x": -7680,
+			"y": -3760,
+			"width": 4240,
+			"height": 3440,
+			"color": "1",
+			"label": "Introduction"
+		},
+		{
+			"id": "2047187edc7968a2",
+			"type": "group",
+			"x": 1291,
+			"y": -9840,
+			"width": 5564,
+			"height": 1720,
+			"color": "5",
+			"label": "Lecture 16"
+		},
+		{
+			"id": "f43cb7b516f35b45",
+			"type": "group",
+			"x": -7291,
+			"y": -2608,
+			"width": 2100,
+			"height": 2131,
+			"color": "5",
+			"label": "L1 Terms"
+		},
+		{
+			"id": "8b471a74f3f429fe",
+			"type": "group",
+			"x": -7563,
+			"y": -3645,
+			"width": 3963,
+			"height": 703,
+			"color": "4",
+			"label": "Examples"
+		},
+		{
+			"id": "781abb4e146629bb",
+			"type": "group",
+			"x": -1355,
+			"y": -10278,
+			"width": 1590,
+			"height": 998,
+			"color": "1",
+			"label": "2nd order, linear ODEs"
+		},
+		{
+			"id": "b35a22bf45437cfc",
+			"type": "group",
+			"x": -6241,
+			"y": -1820,
+			"width": 979,
+			"height": 1228,
+			"label": "Completing the square"
+		},
+		{
+			"id": "41c403591f5cf33f",
+			"type": "group",
+			"x": -3700,
+			"y": -6500,
+			"width": 960,
+			"height": 440,
+			"label": "Week 4"
+		},
+		{
+			"id": "a0d7f019c8bb514c",
+			"type": "group",
+			"x": -3700,
+			"y": -6500,
+			"width": 960,
+			"height": 440,
+			"label": "Second Order Initial Value Problems"
+		},
+		{
+			"id": "59239cfd0c8b576b",
+			"type": "group",
+			"x": 7169,
+			"y": -9840,
+			"width": 2271,
+			"height": 1440,
+			"color": "5",
+			"label": "AM20L18"
+		},
+		{
+			"id": "d9c5c86ac6d64ef8",
+			"type": "file",
+			"file": "50 Notes/U Substitution.md",
+			"x": 3658,
+			"y": -3540,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "8c9378578fffb592",
+			"type": "file",
+			"file": "50 Notes/Inverses (math).md",
+			"x": 3658,
+			"y": -4120,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "ce803eca3be318ca",
+			"type": "file",
+			"file": "50 Notes/Constant Coefficents.md",
+			"x": 3658,
+			"y": -3080,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "c249105ef86d7dcf",
+			"type": "file",
+			"file": "50 Notes/Resonance (Physics).md",
+			"x": 3604,
+			"y": -9700,
+			"width": 392,
+			"height": 400
+		},
+		{
+			"id": "d541a63421085837",
+			"type": "file",
+			"file": "50 Notes/homogeneous.md",
+			"x": 4178,
+			"y": -3540,
+			"width": 400,
+			"height": 280
+		},
+		{
+			"id": "a5a6d926a52a0221",
+			"type": "file",
+			"file": "50 Notes/Differentials.md",
+			"x": 4698,
+			"y": -4120,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "ad4e60aff7c8d712",
+			"type": "file",
+			"file": "60 Topics/Differentiation.md",
+			"x": 5218,
+			"y": -4120,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "7197eea0519ecc5f",
+			"type": "file",
+			"file": "50 Notes/Particular Solution.md",
+			"x": 4178,
+			"y": -4120,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "38564de6b95afc50",
+			"type": "file",
+			"file": "50 Notes/Determinant.md",
+			"x": 5218,
+			"y": -3080,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "cf3c9e720b696172",
+			"type": "file",
+			"file": "50 Notes/Wronski's Rule.md",
+			"x": 4698,
+			"y": -3080,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "9e87cabe6dd7e88c",
+			"type": "file",
+			"file": "50 Notes/Cramers Rule.md",
+			"x": 4178,
+			"y": -3080,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "b6c61145f09a27ef",
+			"type": "file",
+			"file": "50 Notes/Integration By Parts.md",
+			"x": 4058,
+			"y": -4760,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "b36d3b84b49baf7a",
+			"type": "file",
+			"file": "50 Notes/Damping.md",
+			"x": 4191,
+			"y": -9700,
+			"width": 392,
+			"height": 400
+		},
+		{
+			"id": "8ce08d8894553b55",
+			"type": "file",
+			"file": "50 Notes/Overdamped.md",
+			"x": 4818,
+			"y": -9700,
+			"width": 392,
+			"height": 400
+		},
+		{
+			"id": "2738a8f8fa65a9f8",
+			"type": "file",
+			"file": "50 Notes/Variation Of Parameters.md",
+			"x": 5218,
+			"y": -3540,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "b1366158d3487676",
+			"type": "file",
+			"file": "50 Notes/Anatomy of a Function, Rule, and Map.md",
+			"x": 4698,
+			"y": -3540,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "73a8a7bc1a59a097",
+			"type": "file",
+			"file": "50 Notes/Characteristic Equation.md",
+			"x": 4578,
+			"y": -4760,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "c6a7b682672ba6bd",
+			"type": "file",
+			"file": "50 Notes/Forcing Function.md",
+			"x": 5818,
+			"y": -4120,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "0593c3726d1be0d5",
+			"type": "file",
+			"file": "50 Notes/Quadratic Equation.md",
+			"x": 3658,
+			"y": -2600,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "8093470f97835629",
+			"type": "file",
+			"file": "50 Notes/Euler's Number.md",
+			"x": 4178,
+			"y": -2600,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "145f838924ebf240",
+			"type": "file",
+			"file": "50 Notes/Eulers Identity.md",
+			"x": 4698,
+			"y": -2600,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "b7d79e27fac5e0b9",
+			"type": "file",
+			"file": "50 Notes/Existence_and_Uniqueness_Theorem.md",
+			"x": 5818,
+			"y": -3540,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "e08b8389c1c368bf",
+			"type": "file",
+			"file": "50 Notes/Basis.md",
+			"x": 5818,
+			"y": -3080,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "e3698cb79a5caaa2",
+			"type": "file",
+			"file": "50 Notes/Operations.md",
+			"x": 7494,
+			"y": -9407,
+			"width": 218,
+			"height": 138
+		},
+		{
+			"id": "325faa462a748efe",
+			"type": "file",
+			"file": "50 Notes/Laplace Transform.md",
+			"x": 7797,
+			"y": -9407,
+			"width": 218,
+			"height": 138
+		},
+		{
+			"id": "ea63b0f1af9119a6",
+			"type": "file",
+			"file": "60 Topics/Linear Algebra.md",
+			"x": 7494,
+			"y": -9214,
+			"width": 218,
+			"height": 124
+		},
+		{
+			"id": "412b202a34f96785",
+			"type": "file",
+			"file": "50 Notes/Set.md",
+			"x": 8126,
+			"y": -9214,
+			"width": 218,
+			"height": 124
+		},
+		{
+			"id": "11e1795fb56ea4f5",
+			"type": "file",
+			"file": "50 Notes/Linear Operations.md",
+			"x": 8126,
+			"y": -9012,
+			"width": 218,
+			"height": 138
+		},
+		{
+			"id": "aada37744ddb2b9a",
+			"type": "file",
+			"file": "50 Notes/Vector space.md",
+			"x": 7797,
+			"y": -9214,
+			"width": 218,
+			"height": 124
+		},
+		{
+			"id": "19c8c285b2a9109c",
+			"type": "file",
+			"file": "50 Notes/linearity.md",
+			"x": 7494,
+			"y": -9012,
+			"width": 218,
+			"height": 138
+		},
+		{
+			"id": "e690c8197d1bb554",
+			"type": "file",
+			"file": "50 Notes/Codomain.md",
+			"x": 7797,
+			"y": -9012,
+			"width": 218,
+			"height": 138
+		},
+		{
+			"id": "0cb3082b2afef761",
+			"type": "file",
+			"file": "50 Notes/Derivations Of Laplace Transforms.md",
+			"x": 7494,
+			"y": -8828,
+			"width": 218,
+			"height": 148
+		},
+		{
+			"id": "23ae4144e8fa38b3",
+			"type": "file",
+			"file": "50 Notes/Domain.md",
+			"x": 7797,
+			"y": -8828,
+			"width": 220,
+			"height": 148
+		},
+		{
+			"id": "fec77ade1a198a55",
+			"type": "file",
+			"file": "50 Notes/Newtons.md",
+			"x": 7494,
+			"y": -9813,
+			"width": 218,
+			"height": 138
+		},
+		{
+			"id": "e881203bd2936300",
+			"type": "file",
+			"file": "50 Notes/Frequency.md",
+			"x": 7494,
+			"y": -9600,
+			"width": 218,
+			"height": 138
+		},
+		{
+			"id": "6a5f3d52518640f1",
+			"type": "file",
+			"file": "50 Notes/Amplitude.md",
+			"x": 7797,
+			"y": -9600,
+			"width": 220,
+			"height": 138
+		},
+		{
+			"id": "aab13eeaf4de4200",
+			"type": "file",
+			"file": "50 Notes/Steady State Solution.md",
+			"x": 8126,
+			"y": -9600,
+			"width": 218,
+			"height": 138
+		},
+		{
+			"id": "052a6e5a7285fcbf",
+			"type": "file",
+			"file": "50 Notes/Velocity.md",
+			"x": 7799,
+			"y": -9813,
+			"width": 218,
+			"height": 138
+		},
+		{
+			"id": "a1dae08676ba1260",
+			"type": "file",
+			"file": "50 Notes/Driving Amplitude.md",
+			"x": 8126,
+			"y": -9813,
+			"width": 218,
+			"height": 138
+		},
+		{
+			"id": "e9f4e297fe7c5dc7",
+			"type": "file",
+			"file": "50 Notes/AM20L18.md",
+			"x": 7200,
+			"y": -9807,
+			"width": 240,
+			"height": 345
+		},
+		{
+			"id": "b7d7995f64b3e623",
+			"type": "file",
+			"file": "50 Notes/Group.md",
+			"x": 8440,
+			"y": -9214,
+			"width": 200,
+			"height": 124
+		},
+		{
+			"id": "a5fccc8f3b64c49a",
+			"type": "file",
+			"file": "50 Notes/Limit of a Reciprocal at Infinity.md",
+			"x": 8431,
+			"y": -9012,
+			"width": 209,
+			"height": 138
+		},
+		{
+			"id": "fc8e267c60cb2f93",
+			"type": "file",
+			"file": "50 Notes/Space (mathematics).md",
+			"x": 8720,
+			"y": -9214,
+			"width": 200,
+			"height": 124
+		},
+		{
+			"id": "04ae1f6d3c149258",
+			"type": "file",
+			"file": "50 Notes/Systems (math).md",
+			"x": 8431,
+			"y": -9813,
+			"width": 218,
+			"height": 138
+		},
+		{
+			"id": "1ecc3d141a2441aa",
+			"type": "file",
+			"file": "60 Topics/Limits.md",
+			"x": 8720,
+			"y": -9813,
+			"width": 218,
+			"height": 138
+		},
+		{
+			"id": "d7b3b9dac76683cd",
+			"type": "file",
+			"file": "50 Notes/Structure.md",
+			"x": 9040,
+			"y": -9212,
+			"width": 200,
+			"height": 122
+		},
+		{
+			"id": "9e9603220edf3944",
+			"type": "file",
+			"file": "50 Notes/Systems of Linear Equations.md",
+			"x": 8440,
+			"y": -9600,
+			"width": 218,
+			"height": 138
+		},
+		{
+			"id": "81f5dade840bff49",
+			"type": "file",
+			"file": "50 Notes/EDE W1 Reading.md",
+			"x": -8320,
+			"y": -2997,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "85cdf163db1a3bc7",
+			"type": "file",
+			"file": "50 Notes/Equilibrium (Math).md",
+			"x": -1863,
+			"y": -8938,
+			"width": 392,
+			"height": 400
+		},
+		{
+			"id": "e49d26b69f27ae81",
+			"type": "file",
+			"file": "50 Notes/AM 20 L10.md",
+			"x": -1336,
+			"y": -10258,
+			"width": 472,
+			"height": 400
+		},
+		{
+			"id": "2ad9421e25db5229",
+			"type": "file",
+			"file": "50 Notes/AM 20 L11.md",
+			"x": -825,
+			"y": -10258,
+			"width": 392,
+			"height": 400
+		},
+		{
+			"id": "84967c608115e543",
+			"type": "file",
+			"file": "50 Notes/Harmonic Motion (Physics).md",
+			"x": 2305,
+			"y": -9700,
+			"width": 392,
+			"height": 400
+		},
+		{
+			"id": "fa46094d1d3a04e2",
+			"type": "file",
+			"file": "50 Notes/Vibrations (Physics).md",
+			"x": 2428,
+			"y": -9160,
+			"width": 392,
+			"height": 400
+		},
+		{
+			"id": "53deb49f6f91e425",
+			"type": "file",
+			"file": "50 Notes/Hooke's Law.md",
+			"x": 1801,
+			"y": -9700,
+			"width": 377,
+			"height": 400
+		},
+		{
+			"id": "749901fd28982161",
+			"type": "file",
+			"file": "50 Notes/Second Law of Motion.md",
+			"x": 1786,
+			"y": -9160,
+			"width": 392,
+			"height": 400
+		},
+		{
+			"id": "35421c1400966f21",
+			"type": "file",
+			"file": "50 Notes/AM 20 L16.md",
+			"x": 1311,
+			"y": -9700,
+			"width": 392,
+			"height": 400,
+			"color": "#ff9500"
+		},
+		{
+			"id": "b16fdbbc1a83a67e",
+			"type": "file",
+			"file": "50 Notes/Frobenius Method.md",
+			"x": -640,
+			"y": -5680,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "b09e2fb2d5b8bc30",
+			"type": "file",
+			"file": "50 Notes/Dashpot.md",
+			"x": 2215,
+			"y": -9978,
+			"width": 392,
+			"height": 400
+		},
+		{
+			"id": "7eb47011d20d3b8e",
+			"type": "file",
+			"file": "50 Notes/linearity.md",
+			"x": 1720,
+			"y": -2160,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "795534d355cda178",
+			"type": "file",
+			"file": "50 Notes/Arctan.md",
+			"x": 1720,
+			"y": -2880,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "769c136169f92fc7",
+			"type": "file",
+			"file": "50 Notes/Variation Of Parameters.md",
+			"x": 1200,
+			"y": -2160,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "f7f1391a46aa4f84",
+			"type": "file",
+			"file": "50 Notes/Trigonometric identities.md",
+			"x": 1200,
+			"y": -2880,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "add0ce1c5a0a35b0",
+			"type": "file",
+			"file": "60 Topics/Integration.md",
+			"x": 2240,
+			"y": -2880,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "af8ed60ab8ac9ac5",
+			"type": "file",
+			"file": "50 Notes/AM 20 L15.md",
+			"x": 400,
+			"y": -2560,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "6adbaf58c581ca25",
+			"type": "file",
+			"file": "Abel's Theorem.md",
+			"x": -3680,
+			"y": -5680,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "10e2412c286527aa",
+			"type": "file",
+			"file": "50 Notes/Fundemental Law of Linear Systems.md",
+			"x": -3160,
+			"y": -6480,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "c27d8e8a29721fb4",
+			"type": "file",
+			"file": "50 Notes/Second Order ODE.md",
+			"x": -3680,
+			"y": -6480,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "056a27e003546744",
+			"type": "file",
+			"file": "50 Notes/AM 20 L2.md",
+			"x": -2800,
+			"y": -2480,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "f7ae806b385ec046",
+			"type": "file",
+			"file": "50 Notes/Discriminant.md",
+			"x": -2860,
+			"y": -5200,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "86cae401d032936b",
+			"type": "file",
+			"file": "50 Notes/Fundamental Pair of Solutions.md",
+			"x": -3680,
+			"y": -5140,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "a7ccab8367b4f467",
+			"type": "file",
+			"file": "50 Notes/Homogenous (Transient) Solution.md",
+			"x": -5335,
+			"y": -3285,
+			"width": 288,
+			"height": 288
+		},
+		{
+			"id": "b48a95b2210213db",
+			"type": "file",
+			"file": "50 Notes/Tacoma Narrows Bridge.md",
+			"x": 2703,
+			"y": -10100,
+			"width": 392,
+			"height": 400
+		},
+		{
+			"id": "37e1da70ff887f19",
+			"type": "file",
+			"file": "50 Notes/AM 20 L3.md",
+			"x": 2858,
+			"y": -4120,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "072ab9bfb6a99a90",
+			"type": "file",
+			"file": "50 Notes/Initial Value Problem.md",
+			"x": 2858,
+			"y": -3600,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "125ca0ccff54398a",
+			"type": "file",
+			"file": "50 Notes/Rate (Physics).md",
+			"x": -5549,
+			"y": -2550,
+			"width": 288,
+			"height": 288
+		},
+		{
+			"id": "83f72f4826249003",
+			"type": "file",
+			"file": "50 Notes/Second Order ODE.md",
+			"x": -5549,
+			"y": -2234,
+			"width": 288,
+			"height": 288
+		},
+		{
+			"id": "b61677482e0db861",
+			"type": "file",
+			"file": "50 Notes/Steady State Solution.md",
+			"x": -5681,
+			"y": -3285,
+			"width": 288,
+			"height": 288
+		},
+		{
+			"id": "5dfe3d02af4eee4d",
+			"type": "file",
+			"file": "50 Notes/Beats (Physics).md",
+			"x": 3095,
+			"y": -9700,
+			"width": 392,
+			"height": 400
+		},
+		{
+			"id": "e0b8b08733145f8b",
+			"type": "file",
+			"file": "50 Notes/Envelope (Math).md",
+			"x": 3212,
+			"y": -9160,
+			"width": 392,
+			"height": 400
+		},
+		{
+			"id": "2faa357e3ecef5aa",
+			"type": "file",
+			"file": "50 Notes/Differentials.md",
+			"x": -5894,
+			"y": -2550,
+			"width": 288,
+			"height": 288
+		},
+		{
+			"id": "2eb7c7c027b7d013",
+			"type": "file",
+			"file": "50 Notes/1st Order ODE.md",
+			"x": -5894,
+			"y": -2234,
+			"width": 288,
+			"height": 288
+		},
+		{
+			"id": "19c6ffe80e891190",
+			"type": "file",
+			"file": "50 Notes/Product Rule (Calculus).md",
+			"x": -5794,
+			"y": -841,
+			"width": 173,
+			"height": 240
+		},
+		{
+			"id": "8560145c9d02a549",
+			"type": "text",
+			"text": "Prefer Derivative when trig due to messy int by parts",
+			"x": -5816,
+			"y": -1278,
+			"width": 108,
+			"height": 36
+		},
+		{
+			"id": "16cdf8e4cc459387",
+			"type": "file",
+			"file": "50 Notes/Parameters.md",
+			"x": -6026,
+			"y": -3285,
+			"width": 288,
+			"height": 288
+		},
+		{
+			"id": "5b8dfad3870d4aca",
+			"type": "file",
+			"file": "50 Notes/Method of Undetermined Coefficients.md",
+			"x": -5950,
+			"y": -1181,
+			"width": 173,
+			"height": 240
+		},
+		{
+			"id": "ede014a8f7009087",
+			"type": "text",
+			"text": "Derivative Way",
+			"x": -5958,
+			"y": -1242,
+			"width": 108,
+			"height": 36
+		},
+		{
+			"id": "c9415b60a7b7275d",
+			"type": "file",
+			"file": "50 Notes/Completing the Square.md",
+			"x": -6164,
+			"y": -1820,
+			"width": 322,
+			"height": 144
+		},
+		{
+			"id": "e23a72a68265bae9",
+			"type": "file",
+			"file": "50 Notes/Particular Solution.md",
+			"x": -6147,
+			"y": -1566,
+			"width": 288,
+			"height": 288
+		},
+		{
+			"id": "6daf4cafa1ba6b14",
+			"type": "file",
+			"file": "50 Notes/AM 20 L4.md",
+			"x": 3458,
+			"y": -4760,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "0dd212e15efd5df2",
+			"type": "file",
+			"file": "50 Notes/Change.md",
+			"x": -6240,
+			"y": -2550,
+			"width": 288,
+			"height": 288
+		},
+		{
+			"id": "7e540e3c24e8b473",
+			"type": "file",
+			"file": "50 Notes/Linear ODE.md",
+			"x": -6240,
+			"y": -2234,
+			"width": 288,
+			"height": 288
+		},
+		{
+			"id": "9f19183042f71ec6",
+			"type": "file",
+			"file": "50 Notes/Second Law of Motion.md",
+			"x": -6372,
+			"y": -3630,
+			"width": 288,
+			"height": 288
+		},
+		{
+			"id": "b4937479533d9bcd",
+			"type": "text",
+			"text": "Behave is synonymous with derivatives",
+			"x": -6370,
+			"y": -2608,
+			"width": 180,
+			"height": 43
+		},
+		{
+			"id": "e6458c4d7fbd9fcd",
+			"type": "file",
+			"file": "50 Notes/Pendulum Equations.md",
+			"x": -6372,
+			"y": -3285,
+			"width": 288,
+			"height": 288
+		},
+		{
+			"id": "cded816ddb0830de",
+			"type": "text",
+			"text": "Integral Way",
+			"x": -6161,
+			"y": -1242,
+			"width": 108,
+			"height": 36
+		},
+		{
+			"id": "a990b4296f2c9777",
+			"type": "file",
+			"file": "50 Notes/Variation Of Parameters.md",
+			"x": -6226,
+			"y": -1181,
+			"width": 173,
+			"height": 240
+		},
+		{
+			"id": "7f4b08b1b2f90843",
+			"type": "file",
+			"file": "50 Notes/Behavior.md",
+			"x": -6586,
+			"y": -2550,
+			"width": 288,
+			"height": 288
+		},
+		{
+			"id": "7f5b39bad9d69467",
+			"type": "file",
+			"file": "50 Notes/Ordinary (Math).md",
+			"x": -6586,
+			"y": -2234,
+			"width": 288,
+			"height": 288
+		},
+		{
+			"id": "0ababdaab8a7ef28",
+			"type": "file",
+			"file": "50 Notes/Solution (math).md",
+			"x": -6586,
+			"y": -1600,
+			"width": 288,
+			"height": 288
+		},
+		{
+			"id": "10afb1dd38140074",
+			"type": "file",
+			"file": "50 Notes/Damping.md",
+			"x": -6717,
+			"y": -3630,
+			"width": 288,
+			"height": 288
+		},
+		{
+			"id": "4150d11d74120886",
+			"type": "file",
+			"file": "50 Notes/Spring Mass Dashpot.md",
+			"x": -6717,
+			"y": -3285,
+			"width": 288,
+			"height": 288
+		},
+		{
+			"id": "3e171112ef2fe0ca",
+			"type": "file",
+			"file": "50 Notes/Order.md",
+			"x": -6931,
+			"y": -1917,
+			"width": 288,
+			"height": 288
+		},
+		{
+			"id": "f497afa63e3d4c8c",
+			"type": "file",
+			"file": "50 Notes/Theory.md",
+			"x": -6931,
+			"y": -2550,
+			"width": 288,
+			"height": 288
+		},
+		{
+			"id": "8389e85f5949ebee",
+			"type": "file",
+			"file": "50 Notes/ODE.md",
+			"x": -6931,
+			"y": -2234,
+			"width": 288,
+			"height": 288
+		},
+		{
+			"id": "92973711e54e0057",
+			"type": "file",
+			"file": "50 Notes/Am 20 L1.md",
+			"x": -6989,
+			"y": -2920,
+			"width": 403,
+			"height": 285,
+			"color": "2"
+		},
+		{
+			"id": "60294fb38cd9246a",
+			"type": "file",
+			"file": "50 Notes/Initial Value Problem.md",
+			"x": -6931,
+			"y": -1600,
+			"width": 288,
+			"height": 288
+		},
+		{
+			"id": "997a4ef96600426c",
+			"type": "file",
+			"file": "50 Notes/Forcing Function.md",
+			"x": -6931,
+			"y": -1283,
+			"width": 288,
+			"height": 288
+		},
+		{
+			"id": "e55d96554326cede",
+			"type": "file",
+			"file": "50 Notes/Nonlinear ODE.md",
+			"x": -6931,
+			"y": -938,
+			"width": 288,
+			"height": 288
+		},
+		{
+			"id": "d8b08da0a82f99bd",
+			"type": "file",
+			"file": "50 Notes/Proportionality.md",
+			"x": -7063,
+			"y": -3630,
+			"width": 288,
+			"height": 288
+		},
+		{
+			"id": "b4a64109a9089712",
+			"type": "file",
+			"file": "50 Notes/Newton's Law of Cooling.md",
+			"x": -7063,
+			"y": -3285,
+			"width": 288,
+			"height": 288
+		},
+		{
+			"id": "36da445bd65213ba",
+			"type": "file",
+			"file": "60 Topics/Data.md",
+			"x": -7277,
+			"y": -2550,
+			"width": 288,
+			"height": 288
+		},
+		{
+			"id": "b148970d6e6ed98d",
+			"type": "file",
+			"file": "50 Notes/Euler's Number.md",
+			"x": -7409,
+			"y": -3630,
+			"width": 288,
+			"height": 288
+		},
+		{
+			"id": "8022947abd8466ca",
+			"type": "file",
+			"file": "50 Notes/Exponential growth.md",
+			"x": -7409,
+			"y": -3285,
+			"width": 288,
+			"height": 288
+		},
+		{
+			"id": "e58787e225f4e7d6",
+			"type": "file",
+			"file": "70 Files/Example 1 of Diff. Equation.png",
+			"x": -7563,
+			"y": -3250,
+			"width": 154,
+			"height": 220
+		}
+	],
+	"edges": [
+		{
+			"id": "262c82963f823b2a",
+			"fromNode": "af8ed60ab8ac9ac5",
+			"fromSide": "right",
+			"toNode": "f7f1391a46aa4f84",
+			"toSide": "left"
+		},
+		{
+			"id": "1e163a33b81fea74",
+			"fromNode": "f7f1391a46aa4f84",
+			"fromSide": "right",
+			"toNode": "795534d355cda178",
+			"toSide": "left"
+		},
+		{
+			"id": "5c2d55ba5e59b06e",
+			"fromNode": "af8ed60ab8ac9ac5",
+			"fromSide": "right",
+			"toNode": "769c136169f92fc7",
+			"toSide": "left"
+		},
+		{
+			"id": "4be2fcddf9ab34b3",
+			"fromNode": "c9415b60a7b7275d",
+			"fromSide": "bottom",
+			"toNode": "e23a72a68265bae9",
+			"toSide": "top"
+		},
+		{
+			"id": "04f5394f6c80aa60",
+			"fromNode": "5b8dfad3870d4aca",
+			"fromSide": "bottom",
+			"toNode": "19c6ffe80e891190",
+			"toSide": "top"
+		},
+		{
+			"id": "182168970416ce0f",
+			"fromNode": "cded816ddb0830de",
+			"fromSide": "bottom",
+			"toNode": "a990b4296f2c9777",
+			"toSide": "top"
+		},
+		{
+			"id": "e68dd8cefa1ae728",
+			"fromNode": "e23a72a68265bae9",
+			"fromSide": "bottom",
+			"toNode": "cded816ddb0830de",
+			"toSide": "top"
+		},
+		{
+			"id": "a61516ff89986bde",
+			"fromNode": "e23a72a68265bae9",
+			"fromSide": "bottom",
+			"toNode": "ede014a8f7009087",
+			"toSide": "top"
+		},
+		{
+			"id": "2d3b0de89259ad04",
+			"fromNode": "ede014a8f7009087",
+			"fromSide": "bottom",
+			"toNode": "5b8dfad3870d4aca",
+			"toSide": "top"
+		},
+		{
+			"id": "ca10b589ef561a41",
+			"fromNode": "ede014a8f7009087",
+			"fromSide": "right",
+			"toNode": "8560145c9d02a549",
+			"toSide": "left"
+		},
+		{
+			"id": "75610b9e3a91eabd",
+			"fromNode": "35421c1400966f21",
+			"fromSide": "right",
+			"toNode": "53deb49f6f91e425",
+			"toSide": "left"
+		},
+		{
+			"id": "59423a5e114ab851",
+			"fromNode": "35421c1400966f21",
+			"fromSide": "left",
+			"toNode": "f7ae806b385ec046",
+			"toSide": "top"
+		},
+		{
+			"id": "31c13996b19da670",
+			"fromNode": "53deb49f6f91e425",
+			"fromSide": "right",
+			"toNode": "84967c608115e543",
+			"toSide": "left"
+		},
+		{
+			"id": "42cda171aabbb9f6",
+			"fromNode": "84967c608115e543",
+			"fromSide": "right",
+			"toNode": "5dfe3d02af4eee4d",
+			"toSide": "left"
+		},
+		{
+			"id": "4018d76e0ec050d0",
+			"fromNode": "5dfe3d02af4eee4d",
+			"fromSide": "right",
+			"toNode": "c249105ef86d7dcf",
+			"toSide": "left"
+		},
+		{
+			"id": "3fc70d22775e09a6",
+			"fromNode": "53deb49f6f91e425",
+			"fromSide": "right",
+			"toNode": "fa46094d1d3a04e2",
+			"toSide": "left"
+		},
+		{
+			"id": "1799cedbd7a372f2",
+			"fromNode": "84967c608115e543",
+			"fromSide": "bottom",
+			"toNode": "fa46094d1d3a04e2",
+			"toSide": "top"
+		},
+		{
+			"id": "77aa5f51b2b63c53",
+			"fromNode": "fa46094d1d3a04e2",
+			"fromSide": "bottom",
+			"toNode": "f7f1391a46aa4f84",
+			"toSide": "top"
+		},
+		{
+			"id": "ccdf29cb6bc344d2",
+			"fromNode": "35421c1400966f21",
+			"fromSide": "top",
+			"toNode": "85cdf163db1a3bc7",
+			"toSide": "bottom"
+		},
+		{
+			"id": "e003dcf52acf2e10",
+			"fromNode": "35421c1400966f21",
+			"fromSide": "right",
+			"toNode": "749901fd28982161",
+			"toSide": "left"
+		},
+		{
+			"id": "e332bb71526d8f5c",
+			"fromNode": "749901fd28982161",
+			"fromSide": "right",
+			"toNode": "84967c608115e543",
+			"toSide": "left"
+		},
+		{
+			"id": "29c72a8285b77f8e",
+			"fromNode": "5dfe3d02af4eee4d",
+			"fromSide": "bottom",
+			"toNode": "e0b8b08733145f8b",
+			"toSide": "top"
+		},
+		{
+			"id": "34a40219b0e327d9",
+			"fromNode": "c249105ef86d7dcf",
+			"fromSide": "top",
+			"toNode": "b48a95b2210213db",
+			"toSide": "bottom"
+		},
+		{
+			"id": "ef6d6ca503cb73f0",
+			"fromNode": "c249105ef86d7dcf",
+			"fromSide": "top",
+			"toNode": "b09e2fb2d5b8bc30",
+			"toSide": "bottom"
+		},
+		{
+			"id": "60ad00ec557ec7e5",
+			"fromNode": "c249105ef86d7dcf",
+			"fromSide": "right",
+			"toNode": "b36d3b84b49baf7a",
+			"toSide": "left"
+		},
+		{
+			"id": "23fbf4da3778ddc3",
+			"fromNode": "b36d3b84b49baf7a",
+			"fromSide": "right",
+			"toNode": "8ce08d8894553b55",
+			"toSide": "left"
+		},
+		{
+			"id": "5a37e0dfa5e3859e",
+			"fromNode": "fec77ade1a198a55",
+			"fromSide": "right",
+			"toNode": "052a6e5a7285fcbf",
+			"toSide": "left"
+		},
+		{
+			"id": "f891e29cd908167b",
+			"fromNode": "052a6e5a7285fcbf",
+			"fromSide": "right",
+			"toNode": "a1dae08676ba1260",
+			"toSide": "left"
+		},
+		{
+			"id": "ddf92615774745aa",
+			"fromNode": "a1dae08676ba1260",
+			"fromSide": "right",
+			"toNode": "04ae1f6d3c149258",
+			"toSide": "left"
+		},
+		{
+			"id": "c645aa5be77c455f",
+			"fromNode": "04ae1f6d3c149258",
+			"fromSide": "right",
+			"toNode": "1ecc3d141a2441aa",
+			"toSide": "left"
+		},
+		{
+			"id": "56a1f687602a39a4",
+			"fromNode": "e881203bd2936300",
+			"fromSide": "right",
+			"toNode": "6a5f3d52518640f1",
+			"toSide": "left"
+		},
+		{
+			"id": "fd0ddf8c89e00610",
+			"fromNode": "6a5f3d52518640f1",
+			"fromSide": "right",
+			"toNode": "aab13eeaf4de4200",
+			"toSide": "left"
+		},
+		{
+			"id": "64948873201cef6d",
+			"fromNode": "aab13eeaf4de4200",
+			"fromSide": "right",
+			"toNode": "9e9603220edf3944",
+			"toSide": "left"
+		},
+		{
+			"id": "d99c146d07e8105e",
+			"fromNode": "fec77ade1a198a55",
+			"fromSide": "bottom",
+			"toNode": "e881203bd2936300",
+			"toSide": "top"
+		},
+		{
+			"id": "33c00f7b6bcf3f8c",
+			"fromNode": "e881203bd2936300",
+			"fromSide": "bottom",
+			"toNode": "e3698cb79a5caaa2",
+			"toSide": "top"
+		},
+		{
+			"id": "cdf52c252d57e3ad",
+			"fromNode": "e3698cb79a5caaa2",
+			"fromSide": "right",
+			"toNode": "325faa462a748efe",
+			"toSide": "left"
+		},
+		{
+			"id": "3e738b7ff5ebc2f3",
+			"fromNode": "e3698cb79a5caaa2",
+			"fromSide": "bottom",
+			"toNode": "ea63b0f1af9119a6",
+			"toSide": "top"
+		},
+		{
+			"id": "fbf5fd26b2e10649",
+			"fromNode": "ea63b0f1af9119a6",
+			"fromSide": "right",
+			"toNode": "aada37744ddb2b9a",
+			"toSide": "left"
+		},
+		{
+			"id": "395fe6aa04d2c352",
+			"fromNode": "ea63b0f1af9119a6",
+			"fromSide": "bottom",
+			"toNode": "19c8c285b2a9109c",
+			"toSide": "top"
+		},
+		{
+			"id": "b255b9ee25f233e5",
+			"fromNode": "19c8c285b2a9109c",
+			"fromSide": "bottom",
+			"toNode": "0cb3082b2afef761",
+			"toSide": "top"
+		},
+		{
+			"id": "b595d6bbec85575f",
+			"fromNode": "19c8c285b2a9109c",
+			"fromSide": "right",
+			"toNode": "e690c8197d1bb554",
+			"toSide": "left"
+		},
+		{
+			"id": "dd5474048e81e830",
+			"fromNode": "e690c8197d1bb554",
+			"fromSide": "right",
+			"toNode": "11e1795fb56ea4f5",
+			"toSide": "left"
+		},
+		{
+			"id": "9567193d43b64548",
+			"fromNode": "11e1795fb56ea4f5",
+			"fromSide": "right",
+			"toNode": "a5fccc8f3b64c49a",
+			"toSide": "left"
+		},
+		{
+			"id": "43a90d7d84ef625d",
+			"fromNode": "aada37744ddb2b9a",
+			"fromSide": "right",
+			"toNode": "412b202a34f96785",
+			"toSide": "left"
+		},
+		{
+			"id": "7145452eadbd0b44",
+			"fromNode": "412b202a34f96785",
+			"fromSide": "right",
+			"toNode": "b7d7995f64b3e623",
+			"toSide": "left"
+		},
+		{
+			"id": "d79f921f57dfa325",
+			"fromNode": "b7d7995f64b3e623",
+			"fromSide": "right",
+			"toNode": "fc8e267c60cb2f93",
+			"toSide": "left"
+		},
+		{
+			"id": "8ea6088fc7ba191f",
+			"fromNode": "fc8e267c60cb2f93",
+			"fromSide": "right",
+			"toNode": "d7b3b9dac76683cd",
+			"toSide": "left"
+		},
+		{
+			"id": "d038875842412324",
+			"fromNode": "f497afa63e3d4c8c",
+			"fromSide": "right",
+			"toNode": "7f4b08b1b2f90843",
+			"toSide": "left"
+		},
+		{
+			"id": "4eff00c3a1872204",
+			"fromNode": "7f4b08b1b2f90843",
+			"fromSide": "right",
+			"toNode": "0dd212e15efd5df2",
+			"toSide": "left"
+		},
+		{
+			"id": "4a785700e16d1e77",
+			"fromNode": "0dd212e15efd5df2",
+			"fromSide": "right",
+			"toNode": "2faa357e3ecef5aa",
+			"toSide": "left"
+		},
+		{
+			"id": "186935eb69f88c4b",
+			"fromNode": "2faa357e3ecef5aa",
+			"fromSide": "right",
+			"toNode": "125ca0ccff54398a",
+			"toSide": "left"
+		},
+		{
+			"id": "c5f9f7354d984190",
+			"fromNode": "0ababdaab8a7ef28",
+			"fromSide": "right",
+			"toNode": "e23a72a68265bae9",
+			"toSide": "left"
+		}
+	]
+}
