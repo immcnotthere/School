@@ -18,3 +18,17 @@ Status: **Needs spaced review** (2026-11-18).
 
 ## Mastery criteria
 Two correct cold attempts on different days, including one ODE-to-matrix translation and one numerical row-by-column multiplication. If incorrect, explain the mismatch and repeat with changed numbers. Keep tutoring incremental and one problem at a time.
+
+## Conceptual Step 03 — Vector-valued functions and derivative notation (2026-11-18)
+**Explicit prerequisite skill: do not assume this is implicit knowledge.**
+
+- A vector-valued function is a column of scalar functions: **x(t) = [f(t), g(t)]ᵀ**.
+- Its derivative is taken componentwise: **x′(t) = [f′(t), g′(t)]ᵀ**.
+- In **x′ = Px**, each row of P gives the instantaneous rate of change of the corresponding component; it does **not** give the component's current value.
+- Worked example: P = [[2,1],[0,-3]], x(t) = [f(t),g(t)]ᵀ implies **f′(t) = 2f(t)+g(t)** and **g′(t) = -3g(t)**.
+- Observed gap: correctly computed the right-hand expressions “2f+g; -3g” but initially wrote them as x′ rather than labeling the two component derivatives f′ and g′. After explanation, the user said this made sense and requested it be explicitly saved as a knowledge step.
+- Conceptual distinction: the state x(t) is the collection of values; x′(t) is the collection of rates. The rate of f depends on both f and g here (coupling), whereas the rate of g depends only on g.
+- **Status: understood after clarification; not yet independently demonstrated as mastered.**
+
+### Step 03 retrieval check
+Given x(t)=[u(t),v(t)]ᵀ and P=[[1,-4],[3,2]], write both scalar derivative equations with correct left-hand notation, then identify whether u′ depends on v. Require an unaided answer before marking mastery.
