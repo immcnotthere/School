@@ -1,0 +1,7 @@
+[Unit]
+Description=Refresh the School repo (notes, course files, progress) and push if anything changed
+After=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=%h/code/School/bin/school-push

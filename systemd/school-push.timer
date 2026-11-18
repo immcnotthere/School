@@ -1,0 +1,10 @@
+[Unit]
+Description=Nightly School repo push
+
+[Timer]
+OnCalendar=*-*-* 23:45
+Persistent=true
+RandomizedDelaySec=5min
+
+[Install]
+WantedBy=timers.target

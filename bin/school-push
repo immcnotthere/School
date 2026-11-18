@@ -1,0 +1,55 @@
+#!/usr/bin/env bash
+# Nightly: refresh this repo from the laptop (sync.py), commit only if something real changed, push anything unpushed.
+# Real change = new/changed notes, course files or reps. Recall decaying overnight (PROGRESS.md / progress.csv only)
+# is not a change and is thrown away. Alerts (notify-send) on any failure, and when no run has succeeded for 3 days.
+#   school-push           run now
+#   school-push status    when it last succeeded, last log lines
+set -uo pipefail
+REPO="${SCHOOL_REPO:-$HOME/code/School}"
+DIR="${SCHOOL_PUSH_STATE:-$HOME/.local/share/school-push}"
+LOG="$DIR/log"
+OK="$DIR/last-ok"
+mkdir -p "$DIR"
+log() { echo "$(date -Is) $*" >>"$LOG"; }
+alert() { notify-send -u critical -a school-push "$1" "$2" 2>/dev/null || true; }
+fail() { log "FAIL: $*"; alert "School push failed" "$* (log: $LOG)"; exit 1; }
+
+if [ "${1:-}" = status ]; then
+  echo "last success: $(cat "$OK" 2>/dev/null || echo never)"
+  tail -n 8 "$LOG" 2>/dev/null
+  exit 0
+fi
+
+exec 9>"$DIR/lock"
+flock -n 9 || exit 0
+
+# dead man's switch: say so when nothing has succeeded for 3 days
+if [ -f "$OK" ] && [ $(( $(date +%s) - $(date -d "$(cat "$OK")" +%s) )) -gt $(( 3 * 86400 )) ]; then
+  alert "School push is stale" "No successful push since $(cat "$OK")"
+fi
+
+cd "$REPO" || fail "no repo at $REPO"
+branch=$(git branch --show-current)
+[ "$branch" = main ] || fail "checkout is on '$branch', not main; skipped"
+git pull -q --ff-only origin main || fail "git pull --ff-only failed (main has diverged?)"
+python3 -I sync.py >>"$LOG" 2>&1 || fail "sync.py failed"
+
+GEN=(notes AM20 STAT132 ECON131)
+DRIFT=(AM20/PROGRESS.md AM20/progress.csv STAT132/PROGRESS.md STAT132/progress.csv ECON131/PROGRESS.md ECON131/progress.csv)
+real=$(git status --porcelain -- "${GEN[@]}" | grep -v -E '(PROGRESS\.md|progress\.csv)"?$' || true)
+if [ -n "$real" ]; then
+  n=$(echo "$real" | wc -l)
+  git add -- "${GEN[@]}" || fail "git add failed"
+  git commit -q -m "Nightly sync $(date +%F): $n changed paths" || fail "git commit failed"
+  log "committed $n changed paths"
+else
+  git restore -- "${DRIFT[@]}" 2>/dev/null
+  log "nothing new (decay-only drift discarded)"
+fi
+
+ahead=$(git rev-list --count origin/main..main)
+if [ "$ahead" -gt 0 ]; then
+  git push -q origin main >>"$LOG" 2>&1 || fail "git push failed with $ahead commit(s) waiting"
+  log "pushed $ahead commit(s)"
+fi
+date -Is >"$OK"
