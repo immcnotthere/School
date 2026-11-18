@@ -7,6 +7,9 @@ Usage:  python3 -I sync.py        # then review `git status` and commit
                      a course OR its frontmatter says `course:` one. PDFs, zips, .obsidian, .claude, 90 System skipped.
 2. <COURSE>/files/   mirror of ~/Documents/<COURSE> (lectures, homework, exams, readings, textbook, transcripts).
                      Audio/video and anything over 50 MB stay on the laptop (GitHub rejects big files).
+   Subfolders are renamed to the standard set (course-info, lectures, homework, exams, readings, textbook,
+                     recordings, review, prereqs, other) by assignments.remap.
+4. <COURSE>/assignments/  per-assignment status (hand-edited status.csv), index, dependency map (assignments.py).
 3. <COURSE>/PROGRESS.md, <COURSE>/progress.csv, <COURSE>/reps.csv
                      study progress from brain: the rep ledger `90 System/reps.csv` replayed through brain's FSRS
                      model (the installed copy in ~/.local/lib/brain), so the numbers match the Brain window.
@@ -22,6 +25,8 @@ from collections import Counter, defaultdict
 from datetime import date, datetime, timedelta
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, ROOT)
+from assignments import build as build_assignments, remap  # noqa: E402
 VAULT = os.path.expanduser("~/Documents/Second Brain")
 DOCS = os.path.expanduser("~/Documents")
 BRAIN = os.path.expanduser("~/.local/lib/brain")
@@ -82,7 +87,7 @@ def sync_files():
                 if MEDIA.search(name) or os.path.getsize(src) > MAX_BYTES:
                     left.append(f"{code}/{rel}")
                     continue
-                out = os.path.join(ROOT, code, "files", rel)
+                out = os.path.join(ROOT, code, "files", remap(rel))
                 os.makedirs(os.path.dirname(out), exist_ok=True)
                 shutil.copy2(src, out)
                 n += 1
@@ -280,3 +285,4 @@ if __name__ == "__main__":
     sync_notes()
     sync_files()
     sync_progress()
+    build_assignments(ROOT, COURSES, BRAIN)

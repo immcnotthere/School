@@ -1,10 +1,13 @@
 # AM 20 (Fall 2026)
 
-Differential equations coursework.
+Differential equations.
 
-- `lectures/`: lecture notes 01 to 15, each with its practice problem set
-- `homework/`: HW 03 (due Oct 17)
-- `files/`: everything in `~/Documents/AM20` (lectures, homework, exams, review sheets, MATLAB, textbook), refreshed by `../sync.py`
-- [PROGRESS.md](PROGRESS.md): dependency heatmap, study calendar, last studied and next due per concept (from brain)
+Standard layout (same in every class; see [../README.md](../README.md)):
 
-My Obsidian notes for this course (lecture notes, HW notes, flashcards) are synced into `../notes/` by `sync.py`; see `../notes/60 Topics/AM20.md` for the index.
+- [files/](files): course-info, lectures, homework, exams, readings, textbook, recordings, review, prereqs, other
+- [assignments/INDEX.md](assignments/INDEX.md): every assignment with status, due, readiness; one dependency map each
+  (question -> concept -> prerequisite). Edit only [assignments/status.csv](assignments/status.csv).
+- [PROGRESS.md](PROGRESS.md): concept heatmap, study calendar, due now (from brain). Also progress.csv and reps.csv.
+- [study/](study): hand-made study files (complex numbers lesson, lecture views, topic list)
+
+Obsidian notes for this course are in `../notes/` (synced by `../sync.py`).

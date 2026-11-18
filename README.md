@@ -8,6 +8,11 @@ UCSC coursework, private. One folder per class:
 | STAT 132 | [STAT132/files](STAT132/files) | [STAT132/PROGRESS.md](STAT132/PROGRESS.md) |
 | ECON 131 | [ECON131/files](ECON131/files) | [ECON131/PROGRESS.md](ECON131/PROGRESS.md) |
 
+- **Standard layout per class:** `files/{course-info,lectures,homework,exams,readings,textbook,recordings,review,prereqs,other}`,
+  `assignments/` (INDEX.md, per-assignment dependency map in `<slug>/ASSIGNMENT.md`, and `status.csv`, the one file I edit by
+  hand: todo / working / submitted / graded), `PROGRESS.md`, `progress.csv`, `reps.csv`, `README.md`. `sync.py` renames
+  the folders from `~/Documents/<COURSE>` to these names. Dependency maps come from the vault's question tables
+  (`source_map.py`) and brain's concept graph, coloured by recall.
 - `notes/` is a **generated snapshot** of the course notes in my Obsidian vault (`~/Documents/Second Brain`), the source of truth: every note whose path names a course or whose frontmatter has `course:`.
 - `<COURSE>/files/` mirrors `~/Documents/<COURSE>`. Lecture audio and anything over 50 MB stay on the laptop.
 - `<COURSE>/PROGRESS.md` (colour heatmap of the prerequisite graph, study calendar, what is due), `progress.csv`

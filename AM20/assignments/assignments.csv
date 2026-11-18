@@ -1,0 +1,10 @@
+assignment,status,due,questions,concepts_in_chain,studied,readiness_pct,weakest,gaps
+AM20 HW1,todo,2026-10-03,4,19,14,28,Set; Natural logarithm; Function,0
+AM20 HW2,todo,2026-10-10,4,20,12,22,Set; Natural logarithm; Quadratic Equation,0
+AM20 HW3,todo,2026-10-17,3,14,8,22,Set; Natural logarithm; Function,0
+AM20 HW4,todo,2026-10-24,4,23,10,16,Second Order ODE; Real numbers; Constant Coefficient ODE,1
+AM20 HW5,todo,2026-10-31,4,26,9,12,Fundamental Set of Solutions; Wronskian; Real numbers,1
+AM20 HW6,todo,2026-11-07,4,22,5,9,Set; Linear Independence; Real numbers,1
+AM20 HW7,todo,2026-11-14,3,12,4,13,Laplace Transform; Partial Fractions; Polynomial,1
+AM20 HW8,todo,2026-11-21,1,15,0,0,Homogeneous Linear System; Real numbers; Phase Plane,1
+Supplementary problems (am20-lec01-supp),todo,,16,18,14,29,Set; Real numbers; Natural logarithm,0
