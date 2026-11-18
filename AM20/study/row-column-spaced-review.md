@@ -28,7 +28,22 @@ Two correct cold attempts on different days, including one ODE-to-matrix transla
 - Worked example: P = [[2,1],[0,-3]], x(t) = [f(t),g(t)]ᵀ implies **f′(t) = 2f(t)+g(t)** and **g′(t) = -3g(t)**.
 - Observed gap: correctly computed the right-hand expressions “2f+g; -3g” but initially wrote them as x′ rather than labeling the two component derivatives f′ and g′. After explanation, the user said this made sense and requested it be explicitly saved as a knowledge step.
 - Conceptual distinction: the state x(t) is the collection of values; x′(t) is the collection of rates. The rate of f depends on both f and g here (coupling), whereas the rate of g depends only on g.
-- **Status: understood after clarification; not yet independently demonstrated as mastered.**
+- **Status: passed independently in session (2026-11-18); cold retention not yet tested.**
 
 ### Step 03 retrieval check
 Given x(t)=[u(t),v(t)]ᵀ and P=[[1,-4],[3,2]], write both scalar derivative equations with correct left-hand notation, then identify whether u′ depends on v. Require an unaided answer before marking mastery.
+
+## Conceptual Step 04 — Linearity and homogeneity (2026-11-18)
+- Independently distinguished linear homogeneous examples (A) from dependent-variable squares and independent forcing terms.
+- Correct reasoning: `t²u` and `sin(t)u` are linear in dependent variables despite time-varying coefficients; `u²` or `uv` is nonlinear.
+- Explained teacher correction: `v'=u+5` is **linear but nonhomogeneous**, and requires an additive forcing vector `g(t)`.
+- **Status: passed in session; ask for cold classification on later date.**
+
+## Conceptual Step 05 — Zero solution and superposition (2026-11-18)
+- Independently answered that derivative of an identically zero vector is zero; thus `x'=P(t)x` holds for the zero solution.
+- Asked to find derivative of `y(t)=3x(t)`; no answer yet. Superposition **must not** be marked mastered.
+- **Status: zero-solution substep passed; constant-scaling/sum proof in progress.**
+
+## Link to final skills tracker
+- [Atomic checklist](final-atomic-checkpoints.csv) (167 individually testable operations)
+- [Reconciled scope and original 121-node graph](final-concept-reconciliation.md)
