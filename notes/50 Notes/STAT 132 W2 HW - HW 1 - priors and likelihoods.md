@@ -6,7 +6,7 @@ course: "STAT 132"
 status: draft
 week: 2
 item_type: hw
-source: "STATS132/Homework and discussions/STAT132 HW 1 - priors and likelihoods (due Oct 8).pdf"
+source: "STAT132/Homework and discussions/STAT132 HW 01 - priors and likelihoods (due Oct 8).pdf"
 date: 2026-10-08
 pages: 1
 problems: 5
@@ -17,7 +17,7 @@ time_debt_min: 100
 ---
 # STAT 132 week 2 hw: HW 1 - priors and likelihoods
 
-HW dated 2026-10-08. Source: `STATS132/Homework and discussions/STAT132 HW 1 - priors and likelihoods (due Oct 8).pdf`.
+HW dated 2026-10-08. Source: `STAT132/Homework and discussions/STAT132 HW 01 - priors and likelihoods (due Oct 8).pdf`.
 
 ## Done?
 Score 0 of 5. Not started. Due Thu 10/8.

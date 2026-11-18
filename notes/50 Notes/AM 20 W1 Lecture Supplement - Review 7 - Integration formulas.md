@@ -6,7 +6,7 @@ course: "AM 20"
 status: draft
 week: 1
 item_type: lecture-supplement
-source: "AM20/Review sheets/AM20 Review 7 - Integration formulas.pdf"
+source: "AM20/Review sheets/AM20 Review 07 - Integration formulas.pdf"
 date: 2026-09-25
 pages: 5
 problems: 0
@@ -17,7 +17,7 @@ time_debt_min: 24
 ---
 # AM 20 week 1 lecture supplement: Review 7 - Integration formulas
 
-Lecture Supplement dated 2026-09-25. Source: `AM20/Review sheets/AM20 Review 7 - Integration formulas.pdf`.
+Lecture Supplement dated 2026-09-25. Source: `AM20/Review sheets/AM20 Review 07 - Integration formulas.pdf`.
 
 ## Done?
 Score 2 of 5. Done 10/2: looked back so often it felt like plugging in, not learning.

@@ -1,0 +1,485 @@
+that could be a population, 7 years, the more interesting study, maybe it's all the possible hands. Generally a population will be very large, it'll have a lot of index set, all the possible hands of poker, there's a lot of them on people in California, a lot of them, so it might be difficult to learn something about this population.
+I have to know something about very, very many individual units in that population. So often instead we work with a sample, we don't get the full population. If we had a full population, if we measured something for everyone in the state of California, we'd kind of have our answer, there'd be no need for statistics, but instead we worked with a sample, the sample is some subset of those units in the population.
+And we only get better answer data for that subset. Main idea of statistics, we only get the subset of data, the sample, we'd like to infer something about the population, it's going to be some parameter, it compares the amount of information.
+And a sample is typically random, right, you might get a different sample, a different sample, you could do a different sample procedure, randomness, uncertainty, you know, tweets, so many other things, probability.
+Some examples of samples.
+You can collect a sample, or maybe you have a bacteria that are contained on a super energy dish, and you have a sample of this population of all of the entire species.
+You might have all the customer transaction that it was on, or a small window of time, like an hour, or maybe a sort of ten hands of poker at the same time. Some subset of this population is what we get to observe.
+And, quite interested, parameters of numerical measurement describes some characteristic of this paper. Very often it's something we would like to know.
+Maybe we want to know the proportion of California residents with a college degree.
+We have access to the whole population, and we do every single person in California whether or not they have a college degree, we have our answer.
+There's no work to be done, no randomness, but instead we're going to work with a sample to infer about this proportion of California residents with a college degree, or the average mass of bacteria from some specific species.
+Or the range of Amazon transactions.
+Or the probability of a full house.
+We define a parameter here, and I also talk about probability distributions, recapping from your probability course.
+So very often we're going to choose a specific probability distribution to model some population, and when we talk about a probability distribution, we have parameters.
+And so the parameters associated with the distribution that we choose in our model may or may not be the actual parameters that we care about.
+For example, if we're talking about modeling IQ, you know that IQ follows a bell shape, so you might as well do a normal distribution by modeling IQ.
+Is the mean or the average IQ a population?
+There's a lot of ways or strategies to choosing a model, things you should think about is what is the support of the data or values, can the data take, any restrictions, things like that.
+You can look around and you want to plot your data and put in the shape of it, so you can support one probability model or another.
+That's not for a little bit, the art of statistics is learning how to choose a probability distribution.
+So let's say IQ, case of IQ, a lot of people have worked with IQ, it's kind of meant to be normally distributed, so normal is going to be a good probability distribution in this case.
+And so one thing you might be interested in is the mean or the average IQ in the population.
+If we're modeling as normal, the mean is a parameter of that normal distribution, so the thing we're interested in is directly parameterized by the model that we chose.
+That can't happen, but it doesn't always have to happen.
+For example, you might be interested in something like a probability that an IQ is greater than 140. It's a characteristic of this population, all IQs are characteristic of that, but it's not directly a parameter of normal distribution.
+Now if you model IQ well using the model distribution, you can still get an answer to that question, but it's not directly parameterized by the model, so just keep that in mind.
+It doesn't necessarily have to be the same as the parameter for the probability distribution.
+One just kind of visualizes a sample here of the population, so this first plot, a bunch of circles here, collectively these circles can make up some population.
+Maybe you have the resources to go and sample all these circles, have your answer, typically that's not easy, but we don't have the resources or we don't have the time to go and collect data on every single population unit.
+Especially if we're talking about very large populations.
+Instead, we work with a sample of these blue circles, are part of our sample, randomly selected sample here.
+Maybe we do have the resources to go and collect data on that sample, so that's the idea.
+And if you repeated that sampling procedure, you might get different blue circles, and if you did it again, you might get different blue circles.
+So there's uncertainty there, there's randomness involved in that sampling process.
+There's no randomness involved at the population level, the randomness counts for the sampling.
+Now maybe there's measurements associated with each of these, so we have numbers here, four, six, one, six, and so on.
+So one parameter that you might be interested in is the population mean.
+If you added up all the values in these circles and then divided by the number of circles that there are, that would tell you the population mean.
+In this case, it's 4.3.
+4.3 is the population mean, it's a parameter that we might care about.
+And again, if we did have all of this data for every single circle here, every unit in the population, there'd be no uncertainty.
+We'd have the answer, it's 4.3.
+There's no randomness involved, there's nothing to model, it's just 4.3.
+But instead, we work with a sample in this way.
+It just gives you blue values, you don't get to observe the rest, you don't get to observe the fact that the population has 4.3.
+But maybe working with these blue circles, we say, "Okay, what if we just take the average or the mean of these blue circles?"
+That's probably a good guess for the average of the population.
+In this case, it's 4, pretty close to 4.3.
+It is a pretty good guess here.
+That's kind of the idea of sampling.
+Hypothetically, we could go and sample all of these points, but it's not practical.
+So instead, we get some subsampled blue dots here.
+In that case, in these two plots, we had a finite population.
+There's a finite number of circles in the population.
+That doesn't have to be the case.
+The population has to be in rows, columns going on forever.
+The limit to the number of populations.
+Maybe if you're flipping a coin, thinking about the probability of coin complepads,
+you can flip that coin forever and ever and ever.
+There's no limit.
+Also, your population there is kind of the infinite sequence of coin flips.
+You can still take a sample.
+You could do 100 coin flips, take some sample from that population.
+Maybe it's a hypothetical world where you didn't have infinite time, infinite resources,
+you could sample all of those, but in the real world, that's not the case.
+You can have a population parameter.
+You might have to say the probability that the coin comes up heads.
+The probability is defined as the limit of heads occurring over the total number of gifts.
+It does exist.
+Hypothetically, you could observe it if you sampled all of these, but in the real world, you can't.
+There's no practical way to observe that population parameter,
+but we can still estimate it from sample data.
+This distinction between population and the sample is very important.
+It can lead to a lot of confusion with learning statistics if it isn't clear in your mind.
+Whenever you're looking for a problem, try to very clearly distinguish what is the population,
+what is the parameter from that population that we care about, what's our sample,
+and then anything we calculate using the sample, things like statistics.
+Keep those things clear in your mind.
+Keep the mind and the source of randomness until they come through the sample.
+I think that will help quite a bit.
+How do we do statistics?
+There's different paradigms, different ways that people do statistics.
+At its core, it's always about this idea of learning about some population parameter
+and learning about the parameter based on data from a sample.
+There's different ways that people might do this.
+There are two major philosophical viewpoints on frequentist and Bayesian persons.
+Kind of interesting, our statistics department here has a long history of specializing in Bayesian statistics,
+which is not really the norm, especially say 10 years ago.
+It's pretty a little more popular now with a lot of the recent work in AI machines.
+Especially 10 years ago, there wasn't as much Bayesian statistics.
+It was more of a specialty topic.
+A lot of departments had a lot as a collective graduate level, undergraduate will never get to see it.
+So, kind of lucky you do get to see Bayesian statistics at the undergrad level here.
+We'll talk about the difference between these two.
+Starting with frequentist statistics, which kind of aligns with the notion of probability that we define in the probability theory class.
+So, in the frequentist approach to statistics, we think about probability that some fixed unknown value.
+Going back to this slide here.
+4.3 was the unobserved population.
+It's fixed, meaning it's not random.
+I think random is just 4.3.
+It's just that constant.
+But it's not known. It's a fixed unknown value.
+That's how frequentists treat or deal with parameters.
+Particularly parameters in their probability distribution that they're modeling with.
+So, if one of those parameters is fixed, it's not random.
+We can't make probabilistic statements about the parameters.
+When we talk about interval estimates, confidence is not a parameter.
+We can't talk about the probability of a parameter being in some calculated confidence interval.
+If you calculate the confidence interval 5 to 10, you can't talk about the probability of the true parameter being that interval because the true parameter is not random.
+It's either some fixed value outside of the interval, which is the probability that the interval is zero.
+Or in some fixed value inside the interval, which is the probability that the interval is 1.
+So, we don't talk about the probability, or we can't talk about the probability of a parameter being inside a specific interval in this frequentist approach.
+We don't think the probability of a parameter being in this frequentist approach is unknown.
+So, instead we talk about confidence, which comes from this idea of long-run or asymptotic results.
+If you were to repeat our sampling procedure, randomness is coming from the sampling procedure.
+If you repeat it, we might get a different interval, maybe 6 to 10, or 7 to 11.
+If we repeat this many times, we're going to get many different intervals.
+In the long-run, over the sampling procedure, the intervals are kind of random.
+But for any given interval, we can't talk about the probability of a parameter being in the interval.
+But maybe we can think about this asymptotic idea, this long-run idea.
+If we repeated our sampling procedure many, many times, we couldn't really do it in practice.
+But if we could, what proportion of those intervals would contain the true value?
+This idea of confidence will look a lot more about this towards the end of the course.
+But again, just trying to get this idea across the frequentist statistics.
+Treats these parameters as fixed but unknown.
+Bayesians don't do that.
+They treat random variables as random.
+Sorry, they treat population parameters as random variables.
+So they do have probability decisions.
+Regardless of whether or not we think that something's not known about people, like what I know,
+we deal with them or we treat with them as random variables having probability distributions.
+So our interpretation of probability is a little bit different in this case.
+It's not this long-run, asymptotic idea of probability.
+It's reflecting our own uncertainty about the parameter at any given state of time.
+I have a question.
+Is this done because the parameter is considered to change over time?
+A parameter could or could not change over time.
+It works in both cases.
+Just like in this case where it is some fixed or unknown thing, we can still be Bayesian.
+We could still use probability distributions to model this thing that's unobserved.
+Even if we don't actually believe it's a random thing.
+We do that through this extension of Bayes rule that I alluded to earlier.
+That's what we're going to start talking about.
+But even if the parameter itself isn't changing, our knowledge of the parameter is changing.
+If we want to be collecting data, we might have some knowledge of the parameter.
+I work with soil scientists and ocean scientists.
+They have a lot of knowledge about their field.
+They have this prior information.
+So I could rely on that information as I'm estimating some parameter.
+This idea of a prior.
+It's our uncertainty about the parameter before seeing any data.
+But at some point we're going to take a sample.
+We're going to get data.
+And that data is going to tell us something about the parameter.
+So we have more knowledge about the parameter, less uncertainty about the parameter.
+We can update our beliefs.
+Which results in something called the posterior distribution.
+This prior distribution, that's the Bayesian framework.
+But at any given state of time, we have a probability distribution that encapsulates our belief about the parameter that we're interested in.
+[INAUDIBLE]
+Good question.
+[INAUDIBLE]
+One thing that a lot of people complain about is that there's subjectivity.
+Because your priors might not be the same as my priors.
+[INAUDIBLE]
+So they like this idea that if two people were to do the same analysis, they'd give the same results.
+But maybe that's not the case in the making sense.
+So that's why [INAUDIBLE]
+Now you can construct priors, but don't really inject your own beliefs into them.
+You can construct things like a fly fryer and say, if you're modeling a probability, you can do a fly fryer.
+It doesn't favor any one value or other.
+So there are kind of ways our arguments found out, but generally that's a big criticism of Bayesian models.
+[INAUDIBLE]
+Yeah, that's a great observation. Under the right conditions, as your sample size grows, your posterior will do what's called contract around the true population.
+[INAUDIBLE]
+That's an asymptotic argument. And in the real world, we only have finite sample size.
+So it's a nice property. Does it always apply to the problem we're dealing with?
+[INAUDIBLE]
+[INAUDIBLE]
+Pretty spread out, but we think five is a reasonable guess. Not the prior distribution we could use is not a very competent issue.
+So we're treating it as a random variable. Random variables have probability distributions, and that prior distribution is our belief about the parameter before we collect data.
+And then we'll go and we'll collect these sample points. And we'll update our prior distribution.
+We'll talk about how to do that. We can update our prior distribution, get a posterior distribution.
+Hopefully that posterior distribution is a little better, a little closer to the truth, a little less uncertain than our prior, right after we observe the data.
+So it doesn't really matter whether you think a parameter is fixed but unknown.
+And it might be pretty much all parameters are fixed but unknown. But I can model that with two kinds.
+[INAUDIBLE]
+Yeah, I mean, a lot of people do that. For one problem, they might use a frequent approach. For another problem, they might use a Bayesian approach.
+There's nothing that says you have to fully be in one camp or the other. What's best for the problem at hand?
+As you get into very complex models, you'll find that not in this course, but in a random level course, there's a really deep statistical modeling.
+It's in terms of talking about uncertainty, making sure all sources of uncertainty are present in the results. A lot of times that's difficult. If you have a really deep particle model with a lot of different layers and a frequentist model, a lot of times it's hard to encapsulate all the different sources of uncertainty.
+But it's a much-in-distance model. A Bayesian model kind of does that naturally. That's one advantage to it. One disadvantage is that Bayesian models are very computationally heavy.
+Modern Bayesian machinery is a tool called MCMC. While it's very expensive computational, especially as you have a lot of data on a Bayesian model, so that's one disadvantage.
+So you definitely have the freedom to pick and choose which approach you want, depending on the problem.
+[INAUDIBLE]
+Is it just because we have that fixed value?
+It's because our interpretation of probability-- so the frequentist interpretation of probability, if you have a fixed interval-- the parameter's fixed, but a fixed interval-- 5, 10. If the true parameter is 7-- you don't actually know what the parameter is, but it's 7--
+the probability that it's in this interval that we constructed this specific interval 5 and 10. What's that probability? It's 1. It's in the interval. We don't know what it is, but it is. That's the frequentist interpretation of probability.
+Whereas a Bayesian says our interpretation of probability is just our current distribution of our current belief about that. So it's not this idea of a fixed interval.
+[INAUDIBLE]
+Now, that's not a probability in terms of how the frequency of probability is. But it's sort of similar. They call it this asymptotic view of these variables.
+And then your other question was why is the Bayesian machinery more computationally expensive?
+Like I said, the modern Bayesian machinery uses a tool called MCMC or blockchain mining. It's sequential. So at every iteration, you need the value from the previous iteration.
+It's not parallelizing. You have to do things in order to do that MCMC. And basically what you're doing is you're sampling from specific distributions iteratively over and over and over and over again.
+So that sequential sampling step is what's computationally expensive.
+[INAUDIBLE]
+It's partially because it's sequential, partially because it's a sampling-based approach. So a frequentist, we won't take sampling-based approaches. They will do more of an optimization-based approach.
+We'll talk about maximum likelihood. Maximum likelihood is an optimization problem. We have this likelihood function. We're just going to optimize it. That's our best guess.
+And I might not tell us anything about the uncertainty like the sampling approach. But it's a very different procedure computation.
+All great questions. Some of us will talk about, kind of throughout the quarter, like confidence intervals and the Bayesian plot, which is called the set of order rule.
+We won't really get into MCMC. That's one of the best topics. But we will talk about more simple Bayesian models for the probability distributions that we put that in our table the other day.
+So that's the idea of the Bayesian framework. We treat these things, treat these population parameters or probability distribution parameters as random variables.
+We have a distribution that encapsulates our belief about that parameter at any given point in time.
+Typically before we observe the data and after we observe the data. But you can do it sequentially, right? You can collect more data and update again, collect more data, and you can get to this other nice feature of the Bayesian framework.
+Now there's something called the likelihood. It turns out that both of these frameworks, streamless and Bayesian, use this likelihood.
+They use it in different ways, but they both use the likelihood. Let's go ahead and talk about this likelihood.
+This is our definition of the likelihood function of theta, the likelihood function.
+So given a random sample, x1, x2, xn, each of these has a random variable. Collect the data and make up a random sample.
+So this is our definition of the probability function and the probability function.
+f(x) is a random variable. Beta is the parameter, one of the parameters, vector of parameters.
+Random sample, what does that mean? That means these are independent. x1, x2, xn are independent.
+And very often you'll see i, d, and i, i, e are shorthand for either parameter and identically distribute it.
+x1 is normal and x2 is binomial and all of that. They all come from the same distribution, they all have the same parameters, and that helps us kind of identify some things about these parameters.
+We have a random sample, x1, xn, drawn from some population, PDF or PMF, f(x) or at least remodeled.
+And the likelihood function, L of theta, is a function of theta. We talked about probability density functions, probability mass functions.
+We view them as a function of x, given theta, because likelihood function is going to be a function of theta.
+We have to find, in this way, a product over all n of these observations, from i to 1 to n, of their probability density function.
+They all have the same f, same theta, it's just the value of the random variable.
+Now, in this definition, this is only for a random sample, independent. You can construct likelihoods for non-independent data.
+It's more complicated, not something we're going to cover, but basically you lose this product.
+This product is coming from this independence assumption, and remember from probability, if you have two independent random variables,
+their joint probability distribution is the product. It's that idea being fed into our likelihood function.
+And as I said, f of x, given theta, when you work with this, has a probability density function, probability mass function.
+We're conditioning up data, and x is kind of a input function, but in statistics, when we insert the data, we don't know the value of the parameters.
+So we have to collect some data, and maybe we're taking a general rule for how to actually collect data, and we view this as a function of theta.
+So it tells us if L of theta is 5, 5 for the value of theta at 1, that's equal to 500 for the value of theta at 2.
+In some sense, 2 is a much more likely value than 1.
+And I say that very loosely without defining what would be more likely, because that's going to depend on the framework that we're using.
+So we'll get that more. It's a function of theta that tells us which values are more likely than the other in some sense.
+[INAUDIBLE]
+[INAUDIBLE]
+Yeah, there's nothing about this that treats theta as random.
+It's just a function of theta, but it's not necessarily saying theta is random.
+It's just some function of theta that we're going to use to estimate theta, and the way they do that is a little bit different.
+I'm just kind of saying that same thing, even though the mathematical expression is the same as what you talked about in the probability theory,
+we're viewing this as a function of theta in a non-parameter, right?
+The theta x in a non-parameter.
+When we look back at our table from our review last time, I brought up this idea of parameters having constraints.
+The parameter space has a constraint.
+You can use what's called an indicator function.
+[INAUDIBLE]
+In parentheses, we'll have some expression, maybe something like 0 less than or equal to P less than or equal to 1.
+This is an indicator function.
+An indicator function only returns the values 1 or 0.
+It returns the value 1 if that expression is true, and it returns the value 0 if that expression is false.
+So this indicator function here, we've written, would return 1 if 0 is less than or equal to 1.
+Let me try 0 otherwise.
+We'll go over an example of how this might look in a likelihood moment.
+Just be aware that that's what these indicator functions are.
+We use them to identify constraints for our parameter as we're working with it in likelihood.
+Let's say you have an observed independent with some coin.
+Eight of those flips are heads.
+We'd like to infer something about the true probability of heads.
+We don't know what that is.
+We'd like to learn something.
+We collect the data, but we don't know the true probability of heads.
+Let's write the likelihood function for this problem.
+The likelihood function is going to be a function of our parameter, the new parameter P in this case.
+It just comes from this equation in our definition.
+Each of these coin flips is a Bernoulli trial for new distribution.
+There's 10 of them.
+We have a product over all of our observations from i equals 1 to 10 and coin flips.
+Each of these is Bernoulli and the Bernoulli probability mass function, or PMS, PMF.
+This is a string and a variable, and it's going to be P to the xi, a random variable of i of observation.
+One minus P, but one minus xi.
+So x is one minus xi.
+If that probability mass function evaluates to P, P looks there at tails, x is zero, that probability mass function evaluates to one minus P.
+Then we're going to do this indicator function.
+The indicator of P is between zero and one.
+Now notice that if we input any value of P between zero and one, we're going to return this piece.
+It's going to tell us how likely P is.
+But if we input some value of P that's not allowed, like two, then rather than returning two, the product of two to the x times one minus two to the one minus x,
+it's just going to return zero because this indicator function evaluates to zero.
+Any value that's not allowed, the likelihood is zero, specifically because this indicator function evaluates to zero.
+The indicator function is making sure that we're respecting the parameter constraints for this specific model.
+It's a function of all of the beta ones.
+In this specific case, we can see it is going to simplify based on the number of heads.
+So for all of the ones that are heads, like I said, x is one, x is heads.
+This returns P to the one and one minus P to the zero, which is just P.
+So this is going to simplify to P to the eighth power, one minus P squared.
+This is like a more general rule for this process of flipping ten coins.
+For the process of flipping ten coins, this is the likelihood.
+And then for the specific case where we observe eight heads, this is the likelihood.
+So for this specific case, we can tell which values are more likely than others in some sense of likelihood.
+Here we treated these as ten independent Bernoulli flips.
+Now if you remember from probability theory, you have repeated independent Bernoulli draws from the same distribution.
+That's what distribution?
+What's the second one? Binomial. Now if we repeat independent Bernoulli trials, we get a binomial distribution.
+So another way we could have looked at this problem is instead of ten Bernoulli random variables, one binomial random variable.
+Let's say now yi is the sum of xi and yi is now a binomial random variable.
+We can write the likelihood function P as a product from i1 to 1.
+One turn here because we have one binomial random variable.
+And the binomial distribution has probability mass function and choose x or yi in this case.
+So this is the binomial probability mass function and in this case, I'm sure you'll write my indicator function here.
+Indicator P is here 1 and in this specific case, this evaluates to n to the 8th as P to the 8th as 1 minus P squared times our indicator function.
+It looks very similar.
+What we have here, the only difference is this term is A. But notice, times choose A is a constant, not a function of P.
+One value of P is more likely than another, but the first it will also be more likely than the other.
+Could you compare this likelihood function is not a distribution over P?
+That's why frequentists are willing to use it.
+They don't want to assume a probability distribution for the parameter, but this is not one.
+Why isn't it one? Well, it doesn't integrate to one.
+We know a probability distribution has to integrate to one.
+If you integrate this function from P equals 0 to 1, you will not get one.
+It's not a probability distribution. It doesn't meet that criteria.
+It just tells us in some sense which value is more likely than the other.
+[inaudible]
+It's outputting some notion of how likely a parameter theta is given the data we observe.
+If we look at this plot here, this is that likelihood function for those 10 coin flips with 8 heads.
+Either one. So I'm plotting this function here, from 0 to 1.
+This is the likelihood function that tells us which values of PU on the x-axis here are more or less likely given the data we observe.
+We observe 8 heads out of 10.
+So the probability of heads being 0.1 seems very, very unlikely.
+And that's what we observe here. It's a very, very low value, very close to 0.
+Now P equals 0.8, very, very likely.
+Alternatively, that makes sense. About 8 out of 10 heads, probability of 0.8 seems to be a pretty likely value for heads.
+[inaudible]
+Yeah, whether or not you divide by this 10 choose 8, or include it here, this is still going to be the highest value, these values are going to be low.
+Okay, so coin flip is modeled as a newly trialed probability of heads equal to P.
+If P is a probability, what restrictions do we have?
+[inaudible]
+So here, this is saying, for any value of P that doesn't be our restrictions, this likelihood function is going to return 0.
+There's 0 likelihood that P is negative 3. There's 0 likelihood that P is 5.
+But there's some positive likelihood that P is a value between 0.
+[inaudible]
+In the first line or the second one?
+[inaudible]
+In the second case, we've said it was a binomial random variable, only one of those binomial random variables.
+[inaudible]
+[inaudible]
+Yeah, you can update the likelihood function, what you do with the likelihood function after that, whether or not it's valid to update that process as well as going to the minimum of that process.
+But you can certainly flip the next coin and you can add, you can update this to 11 choose 9, P to the 9.
+There's a question next here.
+Oh, sorry. Do I have this backwards? The likelihood is the part of the phase theorem where it's the probability of the data given a parameter.
+When we extend phase theorem and talk about the probability distribution parameter, then just the probability, yeah, it will be the probability of the data given a parameter.
+Okay, but we're creating the parameter into the function and then trying to multiply it all together because of the parameter.
+Yeah, but we haven't talked about phase theorem for this yet. Right now, we're just defining what the likelihood function is.
+So we haven't committed to the Bayesian or frequent-esque case yet. We're just saying this is the likelihood function and we'll talk about what to do with it in Bayes' rule.
+Mostly Thursday, but for now it's just a function of P or of theta.
+Yeah, because our probability model, the probability distribution we're using to model the data is Bernoulli.
+The Bernoulli parameter, which we call P, has the restriction between 0 and 1. Our indicator has to reflect that specific parameter.
+If we were modeling something as Poisson, like Poisson parameter lambda has to be positive, greater than 0. So there we have an indicator that lambda is greater than 0.
+So it's just reflecting whatever parameter restrictions we have for a given probability distribution.
+And again, the likelihood function is not a probability distribution. It's not integrated to 1. In fact, we should go ahead and try this. Take this function and integrate out P from 0 to 1.
+We won't get 1, so it's not a probability distribution.
+But it does give us some sense of which parameter values it might be more likely to generate the data that we happen to see.
+We happen to see 8 out of 10 coins return heads. These values are much more likely than these values.
+That's kind of the idea between the likely ones.
+We're not really doing anything with it yet. We're just saying, this is a general notion of something is more likely than the other.
+A couple more examples. So let's say the scores from some specific personality test are normally distributed.
+And that normal distribution has a mean mu. We don't know mu. It has a standard deviation of 10. Let's say for now we do know the standard deviation.
+There's really only one unknown parameter here. The model distribution has two parameters. So mu is unknown. We'd like to learn something about it.
+We randomly select three individuals, the same size of three, and we measure their scores. Let's see if we get 45, 55, and 50.
+It tells us something about this parameter mu. Let's go ahead and write the likelihood function for this problem.
+We go back to our definition of the likelihood function. We're going to have a product with a random sample. We're going to have a product, and we're going to need to know what this function f is.
+f is our probability mass function, our probability density function.
+Well, we were told that these are normally distributed, so f is going to be the normal PEA. Well, the probability density function.
+So you could go ahead and look that up in the table. In this case, some xi could be 1, 2, or 3, but any of these would matter. Given our parameter, we're going to write mu here instead of beta because we're calling our parameter mu.
+This probability density function is the normal probability density function, which is 1 over the square root of 2 times pi times sigma squared.
+So the square is the variance of the normal distribution. We weren't given the variance. We were given the standard deviation. But we know that the variance of the square is the standard deviation.
+100 times e to the negative x minus the mean squared over 2 times the variance.
+Is everyone familiar with this notation?
+So this is the normal probability density function when the variance is 100 plus standard deviation. So this is a PDF of one single observation. So now we go to write our likelihood function for mu.
+It's going to be a product over our three observations. I equals 1, 3, f, xi, mu, which we just defined.
+This is the product. I equals 1, 3, 1 over the square root 2 times pi times 100 times e to the negative xi minus mu squared.
+Since we have a product of these three exponential terms, we know that they collect additively inside the exponent.
+We can simplify this a bit. Three of these constant terms multiply together, or 1 over the square root of 2 times pi times 100 times the third power.
+So we have e to the negative sum now. I equals 1, 3, xi, minus mu squared over 2 times.
+In this case, mu doesn't have any parameter restrictions. It could be any value between state and entity. You could write an indicator function of mu between state and entity, but it will always return 1.
+If it helps you to write it in that case to remember to write it, go ahead. But if there's no restriction, it's not strictly necessary.
+We haven't talked about maximum likelihood yet. We will in a couple weeks, but whether or not we will apply by this 10th of a Tuesday term here, the maximum is still going to be here.
+And we'll talk about that when we talk about maximum likelihood.
+And then the last thing here is we have actual values for x.
+x1 is 45, x2 is 55, x2 is 80. We can go ahead and plug those in as well. For the specific data we observe, this likelihood function is going to be 1 over the square root of 2 times pi times 100 times the third power.
+Pi times e, negative 45, times mu squared, plus 55, times mu squared, plus 50, times mu squared, all over 200.
+The likelihood function is 1 mu, give them a data, 3 data points are observed. You can plot this if you wanted to.
+But right now we're just trying to make sure we know how to write down a likelihood function for a given problem. We're not really doing anything else here yet.
+That's the likelihood function. Again, both frequencies and Bayesians use the likelihood function.
+But now let's talk about the...
+We're just going to touch on it today. We'll really get into it more on Thursday.
+So let's suppose we have some statistical model or probability distribution for our data with parameter theta.
+If we're going to be Bayesian, we're going to treat theta as random.
+Then the distribution that we assigned to it, assigned to theta before observing theta, is what we call prior distribution.
+And this notation is what we use for the prior distribution. Pi, I have theta. It's just symbolic for the prior distribution for our parameter theta.
+It could be either a PDF or a PMM, depending on whether this parameter is continuous or discrete.
+Most cases, parameters are continuous, but they don't necessarily happen.
+Let's look at an example. We have theta to know the probability of obtaining a head when some coin is tossed.
+The only thing we know about this coin is that it's either fair or it has a head on each side. That's all we know about the coin.
+What's an appropriate prior distribution for this case?
+0.75, what?
+So our parameter is the probability of obtaining heads. So we'd like to put a prior on that parameter, the probability of obtaining heads.
+Remember, really?
+We only have two choices. There's only two possible values for theta.
+There's only possible values with theta or parameter space.
+Only two possible values are 0.5, if it's a fair coin, or one.
+It has heads on both sides. It can't have a probability of 0.75 because it's either a fair coin or has heads on both sides.
+Only two possible values.
+So our prior should reflect that. Our prior should have the form of something like this, pi theta, our prior probability mass function in this case,
+or PMS, because we're talking about something that's discrete. It should look like something A, some value A with A equals 1.
+Some other value B with A equals 0.5. It should return 0 otherwise.
+It should look like this, where it's a valid probability distribution, P and F, so A plus B, it's on the 1, and A and B, which won't be there.
+So something that looks like this is an appropriate prior distribution. One example might be something like this.
+For collecting E data, we think, "Oh, there's a fairly small probability that it has heads on both sides. Coins aren't usually like that."
+So maybe only 0.2 probability that theta is 1. We probably think there's a larger probability that it's a fair coin, because most coins that become across are fair.
+So 0.8 and 0. This is a reasonable prior for this case. It reflects the fact that our parameter is discrete in this case. It only has two possible values.
+So it reflects our parameter restrictions, and maybe it reflects our prior knowledge that fair coins are more common than not fair coins.
+It doesn't have to be 0.2 and 0.8. You can pick your own values, but something along these lines is a reasonable prior exchange.
+Similar example now. Let's say that theta represents the origin of defective iPhones in an apple bear.
+So now our parameter space is going to be 0 to 1. The origin is going to be between 0 and 1. It's now continuous instead of discrete.
+Let's say we don't really have any prior knowledge. We have absolutely no idea what a reasonable value of theta is,
+other than it has to be in this interval. It has to be our restriction.
+In that case, we might choose a uniform prior on this end.
+So this probability density function now is uniform, and the uniform distribution is 1, or any value between 0 and 1, and 0 otherwise.
+So this is the probability density function. You could even plot this.
+Let's say our x-axis represents theta, y-axis represents the PDF of theta. What would this look like?
+We have a value of 1, or anything between 0 and 1, and we have a value of 0, or anything outside of our probability density function in this example,
+where we put a uniform prior to this proportion.
+A uniform prior can be a great type of prior when you have a bounded parameter like this, and you don't really have any prior information to go off.
+In other cases, you might have prior information. Maybe you're working with a scientist, and they know something about a parameter,
+or maybe you have prior experience with a lot of it. In this case, you might want to construct a prior with a specific standard deviation.
+You have a low uncertainty with selective prior knowledge. Let's look at an example of that.
+Suppose with a lifetime of hours of some fluorescent lamp, it would be absorbed, and a lifetime of any particular lamp has an exponential distribution of parameter theta.
+We don't know what theta is, it's unknown, but maybe we do have some prior knowledge, and that prior knowledge tells us we're going to use a gamma prior distribution,
+a specific mean, mean 0.0002, and we want the standard deviation.
+Whenever a prior knowledge tells us 0.0002, the reasonable value will center our prior knowledge,
+and we'll have relatively low uncertainty, a pretty small prior standard deviation.
+We want to write pi of theta, our probability density function now for this problem.
+We know it's going to be a gamma distribution, but what are the specific parameters of that gamma distribution?
+This is the probability density function for the gamma, and how do these parameters beta and alpha?
+But beta and alpha are not the mean or the standard deviation. We're given mean and the standard deviation, like how do we find the appropriate beta and alpha to represent our prior knowledge.
+We're going to have some gamma, prior distribution, we're going to have parameters, we're going to call it alpha 0, beta 0, alpha 1, beta 1, whatever you want,
+but we want to find out what these parameters are.
+What do we know about the gamma distribution?
+Well, we know the mean, or if we didn't know the mean, we could look it up on our table.
+Mean is alpha over beta, and we know the variance, or we can look up what that is, and it's alpha over beta squared.
+Now we have something that translates from what we are given, the mean and the variance, into what we'd like, which is the parameters of this prior distribution.
+So in our case, the mean, alpha 0, over beta 0, we want that to be 0.0002.
+And we're talking about the standard deviation, not the variance.
+Standard deviation is the square root of the variance.
+Standard deviation, or square root, is 0.00.
+That's 0.00.
+Now we've got two equations, two unknowns.
+Two equations we can solve for alpha 0, and beta 0, and get the appropriate prior distribution for this problem.
+So go ahead and do that, solving, and take this equation, multiply both sides, and that'll be 0.
+We have square root of alpha 0, 0.0001, beta 0, or alpha 0, 0.001, squared, beta 0, squared.
+Now let's go ahead and take this, plug it into our first equation.
+We have 0.0001, squared, times beta squared, over beta, times 0.002, or solve it for beta 0, which is 0.0002, over 0.0001,
+squared, just 20,000.
+So now we know the value of beta, 0, is 20,000.
+Go ahead and take that now, plug it back into equation 1, solve for alpha 0.
+Alpha 0 over 20,000 is equal to 0.0002, and that gives us alpha 0 equal to 4.
+We know in this case our prior distribution, this parameter, gamma distribution, the parameter's 4, and 20,000.
+And we know what the probability density function for a gamma distribution is, so we can actually write out the PDEA for this parameter.
+It's just this gamma distribution as a function of beta, plugging in the alpha and beta that we solved for.
+Theta, our prior distribution probability density function for theta, is beta to the alpha, 20,000 to the fourth power,
+over gamma of alpha.
+Remember, gamma of an integer is that integer minus 1 factorial, or 3 factorial in this case.
+And then we have x to the alpha minus 1, in this case we're talking about theta, the distribution of theta, not x, so we have theta to the alpha minus 1, or theta to the third power.
+And then we have e to the negative x theta, or in our case, e to the negative theta times theta, theta is our random variable, e to the negative 20,000 times theta.
+And just to kind of recap here on prior distributions, I have a little bit of some important rules here.
+One, I mentioned whether your parameter is discrete or continuous, your prior should reflect that.
+We saw in the case where you don't really have any prior information to go off of, in cases where a uniform distribution makes sense, that could be a nice prior that doesn't reflect any of your own beliefs.
+It's just uniform and flat.
+In other cases, you might have prior information to go off of.
+Typically, we think about information in terms of center and spread or mean variance, or a distribution kind of gamma.
+It's not directly parameterized by the mean and the variance of a mean standard deviation.
+How we can use our own prior knowledge of a mean standard deviation to find the appropriate parameter values for such a distribution.
+So we said the exponential distribution of the data is the model we assume for the data.
+But our prior is we use the data, so we didn't need that information.
+But later, when we talk about the posterior distribution, we update our beliefs after inserting the data, we would use that.
+We use both the prior and the likelihood of the distribution of data to get some type of posterior distribution, which is what we'll talk about Thursday.
+So as I just said, we'll talk about the posterior distribution Thursday, which actually gives us a way to do Bayesian inference now.
+And again, I'll stick down for a bit.
+Thank you.

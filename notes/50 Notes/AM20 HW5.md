@@ -4,7 +4,7 @@ parent: "[[AM20]]"
 domain: math
 course: "AM 20"
 status: draft
-source: "~/Documents/AM20/Homework and discussions/AM20 HW 5 (due Oct 31).pdf"
+source: "~/Documents/AM20/Homework and discussions/AM20 HW 05 (due Oct 31).pdf"
 uses:
   - "[[Fundamental Set of Solutions]]"
   - "[[Wronskian]]"

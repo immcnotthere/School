@@ -1,0 +1,396 @@
+so all of this in general I've discovered that there are in different continents. So this gives rise to the next future of this market. This current market will be in continuous operation.
+When the London market is off, the Tokyo market is off since all of these major locations are so dispersed.
+So this is why at any point of time in the day, you can always find one location in operation that will make it easy for you to buy and sell the currency.
+So this currency market is in continuous operation. Anytime you want to buy a currency, you can make it happen.
+And lastly, the currency market will feature long margins of profit. This may be surprising to some of you. What do you think about the market?
+The new products being sold on the current market will be home in continuous. In sense that a dollar is a dollar, a euro is a euro, by full effort to create it.
+So this whole genius market makes it almost impossible for any financial institution to charge a higher price than others because the product itself is the same.
+So this is why most of the currencies, especially the new currencies, there is a very long market market. So this gives rise to the next future.
+So these are the major characteristics. Any questions?
+In fact, we can move on to talk about the price. Yes, so for instance, when you buy a dollar from a POA from a chase, their funds will be almost the same because no single institution can charge a higher price.
+So the result of these homogenous goods is a lack of competitive advantage for each firm that trades in currency.
+So how is it then that these firms find a sort of advantage despite the fact that there are homogenous goods? What is the niche that it makes?
+The major participants in the foreign market will be large international banks.
+So the large international banks will make up the intro bank market for the foreign countries.
+And the trading that takes place in the intro bank market will come from more than 50% of all the currency trades.
+So you can think of this as the wholesale part of the foreign market. That's why the major participants in the foreign market will be the banks.
+And besides these large international banks, there are many other trades of the foreign countries. One of them will be the central banks.
+Another central bank actually buys and sells currencies very frequently in order to include the currency drive.
+So we'll talk about this in detail. Why do you do that? Why do you do that? Is that the central banks? We also have multinational banks.
+To conduct international business of course they need to convert currencies all the time. And all of that will take place on the currency drive.
+We also have some smaller institutional investors. In particular, we have French banks, which benefit from speculating on currency movements.
+If their speculation is right, if they take a wide strategy, they can make more than some dollars. You may have a friend of the name Joe Solis.
+He's a legendary hedge fund manager who made hundreds of dollars from currency trading.
+So we will see what is the strategy, how did that happen, and what is the consequence of these hedge funds calculation.
+Actually, there are many, many examples of these things.
+So, all of these institutions, whether they are hedge funds, wealth funds, multinational companies, central banks, will participate very actively in the currency market in addition to the large international markets.
+What will be the financial instruments they will be using? On your handout, that is set for most common instruments used in currency trading. The first one is spot trading.
+You can pick up a spot market as a place where you have an immediate exchange between currencies.
+You don't need any sophisticated contract. For instance, if I buy the dollar, sell the euro, if I buy the euro, sell the dollar, we directly trade with each other now at the current exchange between the dollar and the euro.
+So this is an immediate exchange.
+Even though it is very simple, it is very direct, I will say this is the most common type of instrument used in currency trading.
+Another common word will be a forward trade.
+So a forward contract will allow a buyer and a seller to agree that an exchange rate will sound late in the future.
+In other words, a forward contract, if used in the current market, will allow you to not hit the exchange rate for future development.
+For example, you demonstrate how the forward works.
+Suppose I buy the dollar, sell the dollar, and in 10 days, you do the offset by the euro, sell the dollar, in 10 days.
+Since it is not spot trading, it is not an immediate exchange, you and I can sign a forward contract that says you will trade the currencies in 10 days at 12 dollars.
+And when 10 days is up, we will deliver the currency and it is really becoming 1 dollar a euro, regardless of what the future exchange rate will be.
+So this forward contract will allow you to not hit the exchange rate, even though the delivery of the currency will happen in the future.
+So this is what a forward contract does.
+Yes, please.
+Is it a strange way to set an ending law in the current exchange rate, or is that just an agreement or an agreement?
+This is not agreement.
+Usually, you and the other kind of party will fall past with each other.
+And depending on that, you can stand to the forward contract.
+Good question.
+Any questions?
+Moving forward, let's talk about some financial derivatives, including the SWAP and the auction.
+So for SWAP, the two parties will exchange currency for a certain amount of time, and the three to reverse the transaction at the future exchange rate.
+So this is a very useful contract for a multinational company to catch ideas to change their contractions. We will spend some time talking about this, so today I'm just giving you some questions.
+For the auction, you have the right but not the obligation to buy or sell a currency at the future exchange rate.
+So this is what an auction will be able to do.
+Now, after learning the features, the participants, and the instruments of the foreign market, let's only have lives that don't have exchange rates.
+So the exchange rate is measuring the value of a currency.
+Most of the exchange rate is always in relative terms.
+You cannot say a dollar is equal to five, but you can say a dollar is equal to five times.
+It is always in relative terms.
+So remember that some of the major currencies will be very useful because you know the single from the US dollar looks like this.
+And for the euro, which is another important international currency, the single will look like this.
+So if you see, two hyphens, this is the euro.
+And then, we have the British dollar.
+The symbol is like this, it's like a lowercase f with a little f at the bottom.
+For Japanese yen, the symbol looks like this.
+It's like Y with two hyphens.
+And many people will also use the symbol to denote the Chinese yen.
+So make sure when you see the symbol, you can tell whether that person is referring to the Japanese yen or the Chinese yen because they share these things.
+Let's note the symbols of major currencies that's trying to express the exchange rate with these symbols.
+If it takes 100 yen to purchase one dollar, how can we express the exchange rate between the dollar and the yen?
+So here, you will have the yen symbol first, and then the number 100 slash.
+So this is how we can express the bilateral exchange rate between the yen.
+In this exchange rate, you can take the slash as a divider to represent how many first currencies are needed to purchase one unit of second currency.
+So when reading this, you can tell that it takes 100 yen to buy one dollar.
+In a different textbook, sometimes people, they write with numbers first, so this is also correct.
+But I will be consistent with the textbook by making the yen in front of the dollar.
+So this is how we can express the exchange rate.
+So this is read as 100 yen per dollar.
+Well, with holding exchange rates, there are two methods. The first one is called the direct one.
+For the direct one, you are holding with the domestic currency first.
+So in our case, that's a singularized space in the U.S., so the domestic currency is a dollar.
+A direct one will look like 0.01 dollars a yen.
+So this is the direct one. You have the domestic currency in front of the foreign currency.
+Unfortunately, you can also consider indirect one. For the indirect one, you will have the foreign currency first.
+So 100 yen per dollar will be a good example for the indirect one, because we are holding the yen on the foreign currency first in front of the domestic currency.
+And it is not that difficult to find the direct ones, and indirect ones are always the first of each other.
+The direct one is equal to one divided by the indirect one.
+In our example, if we have the direct vote, we know that 0.01 dollars is equal to one yen.
+This is what the direct vote tells us.
+Then, if we multiply both the left hand side and the right hand side by 100, we will get 1 dollar being equal to 100 yen, which is exactly what the indirect vote tells us.
+So you can always convert the direct vote to the indirect vote and indirect vote to the direct vote by knowing that these two will be the inverse of each other.
+So learning about different quotes on the exchange rate, let's see how we can use the exchange rate to do some calculation.
+On your handout, there is an example.
+Suppose you were in the UK and you wanted to travel to Germany.
+If you thought you may need 1,000 euros on a trip, you may be curious as to how many pounds does it take to purchase 1,000 euros.
+So this is a very practical situation where you are traveling and making these calculations.
+Your goal in this example is to convert the foreign currency amount into the domestic currency amount.
+Your foreign currency amount is in the unit of the euro, and your domestic currency amount is in the unit of the price.
+Let's see how we can do this conversion with exchange rate quoted in the example.
+In part of one example, you know the dollar price of the euro is 0.9.
+So in other words, you are given the direct vote in the unit of the euro.
+Now, in this case, you only need to multiply the foreign currency amount by this direct vote in order to get the domestic currency amount.
+That's finding the numbers.
+So the foreign currency amount is 1,000 euro, and the direct vote is 0.9 pounds per euro, and then you will get 900 pounds.
+So you multiply the foreign currency amount by the direct vote to get the equivalent foreign currency. This is how we can use direct vote to do the calculation.
+Now, let's see. In part two of this example, exchange rate is an indirect vote because it is quoted with the euro.
+So when you are given the indirect vote, you will need to divide the foreign currency amount by the indirect vote to get the equivalent domestic currency.
+So 1,000 euro is the foreign currency amount divided by 2 euro per dollar, the indirect vote, and you will get 500 pounds.
+So depending on whether you have the direct vote or indirect vote, your operation will be different.
+For the direct vote, you multiply for the indirect vote, you divide.
+So some of you may find it quite simple, and you want to memorize this to multiply when you divide. So this is a very nice trick to make our calculations easier.
+Check the currency units.
+Once you check the currency units, you can easily figure out whether you should multiply or divide.
+For instance, if for part one of the question you multiply, 1,000 euro has the unit euro, and you multiply the direct vote whose unit is pound per euro.
+Then you find that this euro unit cancels out very nicely with the euro in the denominator of the exchange rate so that at the end of the day, you will have the pound as the final unit, which is the right amount of the domestic currency.
+If instead you want to try to divide, if you divide the euro amount by this exchange rate in the unit of pound per euro, you will find that you will get something very strange as euro squared per pound, which has no economic meaning.
+So this is how you rule out the decisions. You have to multiply to cancel out the euros in order to get the price as the final term.
+So checking the currency unit can make you decide whether you should multiply or divide.
+Similarly, let's use the same trick and apply it to the second question.
+If you divide, this euro cancels out with the euro in the numerator of the exchange rate, then you end up with the dot as the final unit, which is current.
+If you instead multiply, you get euro squared divided by the pound per yen, which doesn't have any economic meaning.
+So you shouldn't multiply based on what the unit tells you. So check the units to make sure your correlation is correct.
+So far, we have been talking about the level of exchange rate. Now let's see how we can describe the change of exchange rate.
+So there are some terminology I'm going to introduce here. If we say a currency depreciates, it means the value of the currency increases or decreases in terms of another.
+So if we find that the exchange rate between the yen and the dollar changes from 120 yen per dollar to 100 yen per dollar.
+Because now it takes fewer yen to purchase one unit of dollar. We can say that the yen has strengthened or appreciated relative to the dollar.
+Because one dollar is worth doing.
+How can we say that the yen strengthened and that the dollar didn't weaken?
+These two have to happen. Thank you for the preview.
+So I'm going to say that the dollar has weakened or depreciated relative to the dollar.
+It turns appreciation or depreciation typically are used for currencies that are freely floating.
+Meaning that the market power, the supply and demand of the currency in the works market will make the currency stronger or weaker.
+And there are some other terms that will be related to it.
+If we say a currency devalues or rewrites, it also refers to the change of the currency value that these two terms will be typically used to describe the change of a managed floating or fixed currency.
+For instance, China is a country that is known to change the currency value a lot by letting the central bank be a player in the currency market.
+So if China is selling a lot of Chinese yuan in the currency market, it would devalue the currency. In this context, devalue would be a better word than depreciate for the currency because it is changed deliberately by the government.
+If the Chinese government is lowering the supply of the yuan so that the yuan value increases, we say the Chinese yuan is revalued in this context.
+So the words devalue or revalue are typically used to describe a currency that is fixed or cracked or changed deliberately by the government.
+So you may be curious as to why countries like China want to intervene in the currency market to influence the currency value.
+The main reason is that China wants to keep the exchange rate at a level to boost its exports. So I'm going to make a very important claim.
+With currency devaluations, exports will become cheaper and the imports will become more expensive.
+So this is the main reason, the main rationale for the Chinese central bank to influence its currency value in the currency market.
+It wants to keep the exchange rate, the currency value, at a low level in order to make its exports more competitive in the international goods market.
+Let me use some numerical values to prove this is true.
+Suppose China exports a shirt to the US.
+The original price of the shirt is 100 yuan in China.
+If the exchange rate is 4 yuan per dollar, then the price of the shirt to the US will be 100 yuan divided by 4 yuan per dollar.
+And you'll get 25 dollars.
+So in this step, you can use our trick, check the currency units, to decide whether you should modify or divide exchange rate.
+If you divide, you'll find that dollar is the final unit, which is the unit you want. So 25 dollars is what the price of the shirt is under exchange rate 4 yuan per dollar.
+Now, let's suppose the yuan is devalued so that the new exchange rate becomes 5 yuan per dollar. 1 dollar now is converted to 5 yuan.
+The yuan becomes cheaper relative to the dollar.
+Then, under this new exchange rate, the price of the shirt will become 20 dollars, which is a lower value compared to 25, the old value, under the old exchange rate.
+So through this very simple example, you can tell that once you have the currency devaluation, your exports will become cheaper.
+And suppose you are a US consumer walking into the grocery store, you're faced with so many choices, shirts from China, shirts from Latin America, shirts from Europe. You care about the price of the dollar.
+If the Chinese price is the lowest, you're more likely to choose the Chinese shirt over other options.
+So this is why, by doing this currency devaluation, you can improve the competitiveness of your exports in the international market.
+And this is a strategy China has used in the past three decades. Its exchange rate policy is closely linked to its exports-oriented industrial strategy.
+It generates a lot of revenue from exports in order to boost economic growth, boost employment within the domestic economy.
+So exchange rate policy has played a very important role in facilitating this exports-oriented growth model.
+And needless to say, this exchange rate policy is very controversial.
+No other government were elected. For instance, during the 2008, it was a racial campaign. This is a very hard topic.
+Both candidates believed that this exchange rate policy was giving China very unfair advantage when competing with other countries.
+So that's why both candidates were very aggressive, very assertive, so that the Chinese government decided to change its exchange rate policy.
+It used to be a case that one dollar is equal to a fixed amount of Chinese yuan, 8.28, for almost 10 years.
+it used to be the case that $1 is equal to a fixed amount of Chinese RIA 8.28 for almost 10 years.
+After that, China let go this fixed rate, now it is under managed floating.
+Meaning that the government still participates in the forex market to influence the currency value,
+if the currency value deviates too much from its objective value.
+But at least it is not completely fixed, completely hacked to another currency.
+So this is a compromise by the Chinese government in order to address the conflict pressure from other countries.
+Any questions about this?
+So far I have proved that with currency devaluations, exports will become cheaper.
+Now, let me also show you why the currency devaluation will make imports more expensive.
+So if you are looking at this example, if your original price is $100, maybe your cost in China is $80.
+So if you can collect this revenue from the world, it's true that the price in one currency is smaller,
+but here you can increase the quantity by having this very attractive price.
+Maybe the whole money will be reduced, that's their fault.
+Does that answer your question?
+Yeah, so I feel this exchange rate policy will be more intellectual because it covers all the exports, right?
+They will always be traded at each currency.
+If you have a price ceiling or a price targeted level, then for each industry it's very hard to do that calculation
+because they have different production costs, different margins of profit,
+and this is going to be a universal impact on all the Chinese goods.
+Now, let me show you why currency devaluation will make the imports more expensive.
+Suppose China imports a computer from U.S.
+whose original price in the U.S. is $200, then given the old exchange rate,
+4 yuan per dollar, the price of the computer in China is $200 multiplied by 4 yuan per dollar,
+which gives you 800 yuan.
+Now, with currency devaluation where the exchange rate becomes 5 yuan per dollar,
+then the price of the computer in China is going to be 1,000.
+This is how you can see that currency devaluation will make the imports, which is the computer from the U.S. in this example, more expensive.
+So currency devaluation always benefits exporters who seem to harm the computers, including the households, because now they need to make a higher price for the employee goods.
+First of all, we have been talking about the direction of currency devaluation.
+Now, let's see how we can calculate the magnitude of the exchange rate changes.
+When we calculate the change to the exchange rate, we just have the new rate minus the other rate divided by the old rate.
+This seems very simple. However, make sure you know that when you are using this formula to calculate the rate of change to the exchange rate,
+you are referring to the currency in the denominator of the exchange rate.
+Suppose the exchange rate between the dollar and the pound increases from $2 per pound to $2.5 per pound.
+Then what is the rate of change to the pound value relative to the dollar?
+So the pound is already in the denominator of the exchange rate, so you can use the formula directly.
+$2.5 per pound minus $2 per pound divided by $2 per pound will give you 25%.
+All appreciated relative to the dollar by 25%.
+So this is how we can quantify the rate of change to the currency value.
+However, based on this calculation, we cannot say that the dollar has depreciated relative to the pound by 25%.
+Actually, the calculation will be more complicated than that. Because when we use this formula, we want to make sure the currency we are interested in is in the denominator of the exchange rate.
+The first step will convert the quoted exchange rate in a different way, such that the currency we are interested in is in the denominator.
+$2 per pound is equivalent to $0.5 per pound, direct quotes and indirect quotes at numbers.
+Similarly, $2.5 per pound is equal to $0.4 per pound.
+So once the dollar is in the denominator, we can use the formula to quantify the rate of change to its value.
+So we have 0.4 pound per dollar minus 0.5 pound per dollar divided by 0.5 pound per dollar, and that will give you negative 20%.
+The dollar has depreciated relative to the pound by 20%.
+So this is how we can quantify the magnitude of exchange rate change. Make sure the currency we are interested in is in the denominator of exchange rate.
+So these are hypothetical values. Next, I want to show you something.
+So this is a snapshot from June 23, 2016. And here we are looking at the value of the pound.
+So within one day, you find that the pound value has decreased by 16% by using that formula.
+What triggered this massive change? Yes?
+Thank you so much. So this is the day when Brexit happened. Basically, that was the day where the referendum result was announced.
+I think the Prime Minister of the UK at that time held this referendum, not necessarily to push the UK out of the European Union,
+but maybe just a way to boost his own popularity. So it took many people by huge surprise that most of the voters actually voted for Brexit.
+So what Brexit means for UK is that this country, which is a small open economy, suddenly will lose its access to the EU as a single market.
+A single market refers to the area where there is no trade tariff, no tariff, no voter, no other forms of policy.
+So when you are trading within this area, it's like you are trading within a single country.
+And what the EU membership buys the UK is the access to the single market.
+But the UK is no longer part of the EU. All the tariff, all the trade policies will need to shift dramatically.
+Since the UK is so heavily reliant on its exports and imports with other EU countries, people started to worry about the likelihood of recession.
+If recession happens, then the UK asset value, of course, is going to plummet. So as a result, a lot of investors on that single day started to sell the part, sell the UK assets.
+Whatever one is doing that, then the price of the asset money. So this is why on a single day, which is a very important currency, lost 16% of its value.
+And after 2016, many things were going on within the UK.
+So there are two major groups. The first group was left by Theresa May. She was a pro-be-o.
+Meaning that she would like to put in all the effort she could in order to negotiate the terms with other EU members in order to retain as many access to single market as possible so that the Brexit is not as devastating as people would think.
+So this is the pro-be-o group led by Theresa May. However, Theresa May was defeated within the UK campaign, so the no-be-o group has unmatched.
+And this no-be-o group was led by Boris Johnson. So this is why the Brexit roller coaster persisted for a very long time, between 2016 and 2019.
+What is very, very interesting is that if we plot the likelihood of a no-be-o outcome, meaning that the UK government failed to negotiate its trade terms with the EU,
+against the pound value, we find that these two are almost like the mirror image of each other. Whenever the likelihood of no-be-o increases, the value of the pound decreases.
+So this is a very nice picture. The currency value can be a perfect barometer for people's optimism about a country's growth. If people believe the economy is going wrong, the Brexit is going to be so devastating, of course they sell the pound, sell the UK asset, and as a result, the value of the asset is declined.
+So this is why the two track each other perfectly in the opposite direction.
+So if you want to bet on the currency, it is very important to know about the macro-economics country you're looking at, because how people think about the country, when they grow good, when they grow well, when they grow very poorly, is going to be reflected in the currency value.
+And after looking at the Brexit, let's look at a more recent event, which is hopefully more interesting for us to take a look at.
+Let's see what happens to the two important currencies, US dollar and Chinese yen, after the 2025 Round 2 trade war study.
+Not one war, but a trade war. So to give you some background, in April 2024, the trade war Round 2 started, Trump suddenly announced that the US is going to increase its tariff rate.
+It covers many countries, including China.
+And how does that influence the US and China's currency values?
+So let's take a very deep dive into this event study.
+So this is the preview of the outcome. Both currencies plummeted against all the other major currencies in the world.
+The dollar lost its value, also the Chinese yen lost its value, and I will say the magnitude of the loss of value will be very comparable.
+Both of the currencies lost 10% of its value within several months after the support started. Even though the direction and the magnitude of the currency movement are very comparable, the underlying mechanism behind these trade changes will be fundamentally different.
+For the US case, why the dollar lost its value? This is mainly driven by the demand side in the currency movement.
+So in other words, it is a result for the decline in the demand for the dollar assets.
+When the US started the trade war, the international investors were shocked. What will happen to the US economy?
+So it used to be the case that the US assets, especially the US government bonds, are the safe haven assets. But once the US started the trade war, people start to do hard-to-safety and seek out alternatives.
+As a result, the demand from international investors for the dollar decreased the demand. If the demand is low, then it only selling money is fine enough to cost the dollar a lot of money.
+So this is the driving force for the dollar charge. And you can say this is a reaction to the market dynamics.
+If the US dollar is driven by a demand shock, then the Chinese yen is more influenced by a supply shock.
+After the trade war, people find that the supply of the Chinese yen increased in the forex market.
+And this increase, this supply of the yen doesn't come from nowhere. Actually, it is driven by China's power change.
+The Chinese central bank decided to sell the yen in the forex market at that time.
+The Chinese central bank was aggressively selling the yen. The supply of the yen suddenly increased during that period.
+We have a huge supply, of course, that's going to dampen the price of the currency.
+So the reason behind the yen is actually a supply shock. The reason behind the dollar is a demand shock.
+The international investors lose their confidence or appetite for the dollar assets. So if you have a weak demand that is buying it, the dollar value increased.
+State management, meaning that Chinese government deliberately used the policy to influence the economy, so after influence the buying of the currency.
+So to recover some of the losses, Chinese governments want to keep each other at the federal level to make sure that exports will be affordable,
+so as to reduce the demand of the tax. So this is why we took this policy movement in order to change the price.
+So this is the fundamental logic. Let's go to some of the details.
+Behind the dollar punch, which is 10-11% with the amount, and that's huge, right?
+People will mainly worry about the recession risk. If you look at the 1929 Great Depression, the cause of that was the trade war.
+So people will be worried whether the history will repeat itself again. If it has such a great trade war, it's going to be very devastating for the US to come.
+If the recession risk is going to be high, then whether the US assets is going to hold up its value is very questionable. And another concern international investors will have is the huge fiscal deficits.
+So a lot of expenditures will be coming, but whether the US government bonds will be valuable down the road, whether it may be possible for the US to default on its government bonds.
+If people are no longer holding the bonds at the same currency, the demand for dollars to access the bonds will vary. And the third piece people have been talking a lot about is the eroding institutional credibility.
+We briefly discussed this in our first lecture in the beginning, right? We know that the Fed's independence was constantly under attack.
+Whether the Fed can, you know, polligate independence is no longer so certain. If the Fed will likely, under pressure, just be printing money recklessly, then of course the US assets may lose its value.
+So all of these are very valid, shared, concerned by international investors that can account for the road demand for dollars. On the other side, if you look at the Chinese picture, you'll find that, even from the, you know, staggered value chart, it is a very managed, very well-led currency.
+The net currency devaluation. The main goal, as a customer, is to keep the exports competitive, affordable, despite the high terror.
+In addition to actively managing exchange rate through buying and selling in the currency market, the Chinese government also has some verbal warnings that will set forward guidance, forward expectations for international investors so that the movement of the currency bond is going to align with their path.
+So this is Chinese strategy. If we put the Chinese picture side by side, we have this very nice summary, we talked about most of this already.
+After learning about the mechanism, learning about why, let's see the consequence of these change rate changes.
+We mentioned that currency devaluation will make the exports cheaper, in towards more expensive.
+So for many of the American households, including you and me, we probably have felt the impact of terror.
+When you look on Amazon, Walmart, we went to grocery stores, actually you find that the price of many goods has gone down already this year, over the previous two years.
+So these are the people who may suffer from terror.
+And Trump and his supporters may claim that this terror can offer some protection, some key industries. For instance, the steel and aluminum producers did benefit from terror. They faced tremendous competition from Canada, from Mexico, not just the terror, they can retake some of their revenue, some of their jobs.
+So for them, it is an issue. It is true that by imposing terrorists, you can bring back some business, bring back some jobs, as Trump claimed.
+But the economic cost of doing that is so high.
+For instance, since I have a young child, I really care about the toy industry, and if you know about the industry, most of the toys in the world market is actually produced in China.
+So in the U.S., I think nowadays there are only maybe 100 jobs in the U.S. manufacturing industry or toy. So if you impose terror on Chinese toys, true, this 100 can increase to 150 or 200, right?
+But it is estimated that the cost of bringing back one job in the toy industry is $80,000. Is it really worth it?
+On the other hand, there are many toy retailers. For instance, in every town like Santa Cruz, around the street corner, you may see a mom and pop shop selling toys. Most of the products themselves are actually produced in China. When the Chinese products become so expensive, like the consumers are no longer going to these shops, all these retailers have to go bankrupt.
+And how many retailers are there? I would say more than $20,000. Unlike some big retailers, Walmart, Amazon, they can not absorb the terror, right?
+Whatever the terror rate is, they have to look back in the past, then they're not going to generate any revenue compared to big retailers. So these are the people whose loss may have been ignored or not that I've discussed much.
+So this is just to say that it's true that it brings some job, but the cost of bringing back the job may be more than a benefit. So it's a very important topic.
+First of all, the question is whether it's really worth the high-type policy we are implementing. Now let's look at the impact on the Chinese economy.
+So China is a country that has benefited from expo-oriented model, right? When you retire with U.S. in a very important market for China, of course a lot of these labor intensive loan workers are going to suffer tremendous losses.
+So they are under huge pressure in the two years. Many of them love their jobs. So the country wanted to transform its old model to a new model.
+Instead of relying on these traditional labor intensive manufacturing exports, instead the country should focus more on high-margin, innovative sectors.
+If you follow the news, you know that besides the trade war, there's an AI war between China and the U.S. too. People know AI is the future.
+So if the country can actively subsidize the growth of those highly innovative sectors, maybe its past dependence on manufacturing sectors can be smaller.
+But before that happens, it's a very prolonged, very painful process because many of the jobs will be gone.
+Whether the new jobs created in that small sector is sufficient. I highly doubt that.
+So it's a very uncertain situation right now. The industrial plan sounds good, but the cost of implementing that plan may be higher than what the Chinese government wanted.
+So this is the impact on the Chinese economy.
+So hopefully from this suggestion, we have learned about what drives the Chinese movement and what is the impact the Chinese movement will have on both the U.S economy and the Chinese economy.
+If we look forward, right now, in 2026, $1 is about 6.8, 6.7, the Chinese U.S.
+The Chinese U.S. average rate is pretty weak at this point.
+But whether it is a reaction to the market dynamics or a labor policy change, I think it's the matter.
+So there is no reason for the U.S. to be happy or to promote it about the situation, because it is the government's plan.
+But for the U.S. dollar, right, it's very dynamic. If you hold the dollar, obviously hold the dollar.
+You can bet on the dollar movement to see whether it's any way to another challenge. Many people are pessimistic about the dollar money, because China has some very dramatic policy changes, right?
+So if you want to bet on that, actually you can set dollars right now.
+And then buy it back. Once uncertainty has been resolved, then you will be very likely to get a huge fortune from it.
+So currency trading is something you definitely can try after taking this class.
+You know all the fundamentals, you know all the strategy, and it's very easy to set up in a comfortable country.
+So I would encourage you to give it a try.
+Once you have a small account, you develop a habit of doing investment, and then you get closer to the financial system.
+Okay. So this is what I want to say about this event study. Any questions or comments?
+So I mentioned earlier, you will have a currency report.
+So if you want to write about the dollar or write about the Chinese yen, these are some of the mechanisms you want to touch upon.
+If you look at other policies, the mechanisms will be very different.
+So I encourage you to do a lot of research and do a very comprehensive analysis of the currency that's right above.
+So after doing this event study, let's get back to our original literature materials, our handout.
+Next, we have some Japanese history. The first one is the vehicle currency.
+So what is a vehicle currency? It is a currency that is actually used in many international financial transactions.
+And the default vehicle currency in the world right now is the dollar, which accounts for 90% of all the transactions.
+When you are trading currency, not with the vehicle currency, then exchange it between these two currencies.
+For instance, if a trading currency in the New York market where those currencies are not expressed in the dollar, the vehicle currency, then this is the cost rate.
+So this concept will be very useful when we analyze the time to arbitrage, which is a very important topic for the next lecture.
+So what is a time to arbitrage? It is an arbitrage process involving three currencies.
+It occurs when one can trade these three currencies and make a profit when the exchange rates don't line up.
+It may be easier if we just take a look at the example on your handout to understand how this time to arbitrage works.
+You are given three exchange rates among three currencies. In our case, we have 1.2 euro a pound, 0.8 euro a dollar, and 2,000 a pound.
+If these are exchange rates, can we make a profit with 10 euros to start with?
+So on handout, it gives you the three steps you can take. Let's see whether after taking these three steps, we will earn more money or less money than 10 euros to start with.
+In the first step, we will sell the euro by the pound.
+So if we start with 10 euros, we want to sell these 10 euros and buy the pounds.
+So the exchange rate used in this step will be the exchange rate between the euro and the pound, which is 1.2 euro per pound.
+So this is the first step. When we convert the euro into the pound, how much can we earn? We will have 8.33 pounds.
+So in this step, if you are not sure whether you should multiply or divide, again, check the currency units.
+By dividing, you find that the currency units will be pumped. If you multiply, you will get euro squared divided by the pound.
+So this is how you can roll that out.
+In the second step, you will sell the pound you have obtained and buy the dollar.
+So 8.33 is how much you start with and you want to convert that pump into the dollar so that the exchange rate you will use is $2 per pound.
+You will have $16.67.
+And in step 3, you will sell the dollar you have and buy the euro.
+So in this step, you will multiply 16.67 by the exchange rate between the euro and the dollar to get 13.34 euro.
+So this is how you lay out the steps to see how much you can earn from this 3-step time your average price.
+We will compare the amount you end up with, 13.34 euro and the amount you start with, 10 euro.
+So the rate of return from this time your average price is going to be 13.34 minus 10 divided by 10, which is 33.4%.
+So this is how you can generate a pretty good return from time to time.
+It happens when the 3 exchange rates don't line up to give you this arbitrage opportunity.
+So we are learning about the basics, let's do some further analysis.
+We can show you a triangle out of touch by drawing a triangle.
+But the exchange rate in dollar per pound is smaller than the exchange rate in euro per dollar multiplied by dollar per pound.
+1.2 is less than 0.8 times 2.
+On the right-hand side, you have 1.6, which is greater than the left-hand side.
+Since the left-hand side is not equal to the right-hand side, it is possible to earn a return from this time your average price.
+And here, I will use the arrow to suggest the direction of the current situation.
+In step 1, you convert the euro to the pound, step 2, convert the pound into dollar, and step 3, convert the dollar back to the euro.
+We always circle around the whole triangle to calculate the rate of return.
+Let me ask you a slightly more difficult question.
+What is the rate of return from this triangle arbitrage if we don't start with 10 euro?
+Instead, we start with 10,000 dollars.
+Any volunteer?
+Yes, please.
+If we care about the real return into some ratio, yes.
+Since the rate of return from the triangle arbitrage is always a ratio, it's the amount to end up with minus the amount of dollar divided by the amount of dollar.
+It is units, which tells you that it doesn't matter which currency you struggle with, it doesn't matter how many currencies you struggle with, you will end up with the same rate of return under the same changes.
+So if I say I start with 10,000 dollars or I start with 1 billion in the pound, the rate of return from the triangle arbitrage is now a change.
+In real life contexts, isn't there such a thing as slippage to where large quantities of money will kind of correct the market and so if we were to invest...
+So after learning about how to calculate the rate of return, let's see how we can decide on the direction of trading if the exchange rate is different.
+Suppose, instead, dollar per pound exchange rate has a larger value than euro per dollar multiplied by dollar per pound.
+For instance, on the left hand side, if we don't have 1.2, we actually have 2, then the left hand side will be greater than the left hand side.
+If you draw the triangle again, in which direction should you equate the triangle?
+Yes?
+That's excellent, thank you so much. If the left hand side is greater than the right hand side, then we will go the other direction.
+Meaning that in the first step, you will sell the euro by the dollar, then in the second step, you sell the dollar by the pound, and then in the last step, you sell the pound by the euro.
+So the comparison of exchange rate can actually tell you which direction you should go for this triangle arbitrage.
+If you don't believe me, you can always try both directions, only one of them is going to give you a positive rate of return.
+And lastly, this is related to your question, "Is the rainbow of opportunity from triangular arbitrage sustainable?"
+It is triangular arbitrage sustainable. The answer is no, because if everyone spots this arbitrage of opportunity, everyone knows that if it follows these steps, you can earn a 33.4% return.
+All the rational investors will take these steps.
+Once all of them take actions, the supply and demand of currencies in the market will shift to change the value of the change rate.
+But how does this happen?
+If everyone is converting the euro into the pound, then the demand of pound increases relative to the euro.
+So the pound will become more expensive relative to the euro, so that one pound converts to more euro.
+So this is what happens when everyone is taking step 1. What about step 2? In step 2, everyone is converting the pound into the dollar.
+So on the right-hand side, this is going to change. One pound will convert to fewer dollars, because non-dollars become more expensive.
+And lastly, when everyone is converting the dollar into the euro, selling the dollar by the euro, therefore, one dollar will become less expensive.
+So this is what happens when the left-hand side exchange rate is smaller than the product of the exchange rate on the right-hand side.
+The left-hand side will go up, the right-hand side will go down, and this movement continues until the left-hand side is exactly equal to the right-hand side.
+The LHS is left-hand side, exchange rate between the euro and the pound, and the right-hand side is equal to the product of the exchange rate.
+So once the left-hand side is equal to the right-hand side, there is no more arbitrage opportunities.
+There are zero problems from trying your arbitrage opportunity. So this is why trying your arbitrage opportunity is not sustainable. When the opportunity exists, all the rational investors will respond to that.
+When they do, they change the supply and demand of currency to change the exchange rate, so that at the end of the day, the exchange rate will make sure that the return from the arbitrage is actually lower arbitrage opportunity.
+So this is how we can understand how time to apply arbitrage with this. Any questions or thoughts?
+If not, I think I have a few minutes left.
+I'll see you on Thursday.
+Thank you.

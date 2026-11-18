@@ -6,7 +6,7 @@ course: "ECON 131"
 status: draft
 week: 1
 item_type: lecture
-source: "Econ131/Lectures/ECON131 Lecture 1 - Globalization and multinationals.pdf"
+source: "ECON131/Lectures/ECON131 Lecture 01 - Globalization and multinationals.pdf"
 date: 2026-09-24
 pages: 21
 problems: 0
@@ -17,7 +17,7 @@ time_debt_min: 36
 ---
 # ECON 131 week 1 lecture: Lecture 1 - Globalization and multinationals
 
-Lecture dated 2026-09-24. Source: `Econ131/Lectures/ECON131 Lecture 1 - Globalization and multinationals.pdf`.
+Lecture dated 2026-09-24. Source: `ECON131/Lectures/ECON131 Lecture 01 - Globalization and multinationals.pdf`.
 
 ## Done?
 Score 2 of 5. One of the two lectures that made sense to you.

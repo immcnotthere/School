@@ -6,23 +6,23 @@ course: "AM 20"
 status: draft
 week: 2
 item_type: lecture
-source: "AM20/Lectures/AM20 Lecture 2 - Classifying differential equations.pdf"
+source: "AM20/Lectures/AM20 Lecture 02 - Classifying differential equations.pdf"
 date: 2026-09-28
 pages: 6
 problems: 0
-score: 1
+score: 5
 recording: "none"
 time_full_min: 90
-time_debt_min: 72
+time_debt_min: 0
 ---
 # AM 20 week 2 lecture: Lecture 2 - Classifying differential equations
 
-Lecture dated 2026-09-28. Source: `AM20/Lectures/AM20 Lecture 2 - Classifying differential equations.pdf`.
+Lecture dated 2026-09-28. Source: `AM20/Lectures/AM20 Lecture 02 - Classifying differential equations.pdf`.
 
 ## Done?
-Score 1 of 5. Attended; did not land. No supplementary sheet downloaded for Lectures 2-4 (check Canvas).
+Score 5 of 5. Completed 2026-10-18 (Lecture 2 done before Exam 1). Classification check: order, linear/nonlinear, ODE/PDE all correct.
 
-Time: 90 min to do it fully; about 72 min left at this score.
+Time: 90 min to do it fully; 0 min left.
 
 ## Vocab
 Draft, pulled from the bold terms in the source. You decide which matter; add one-line meanings as you learn them.

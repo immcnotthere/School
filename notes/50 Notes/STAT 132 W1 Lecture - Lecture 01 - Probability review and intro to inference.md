@@ -6,18 +6,18 @@ course: "STAT 132"
 status: draft
 week: 1
 item_type: lecture
-source: "STATS132/Lectures/STAT132 Lecture 01 - Probability review and intro to inference.pdf"
+source: "STAT132/Lectures/STAT132 Lecture 01 - Probability review and intro to inference.pdf"
 date: 2026-09-24
 pages: 6
 problems: 0
 score: 1
-recording: "STATS132/Recordings/STAT132 Lecture 01-02 - recording 2026-09-29.m4a (80 min) + transcript"
+recording: "STAT132/Recordings/STAT132 Lecture 01-02 - recording 2026-09-29.m4a (80 min) + transcript"
 time_full_min: 120
 time_debt_min: 96
 ---
 # STAT 132 week 1 lecture: Lecture 01 - Probability review and intro to inference
 
-Lecture dated 2026-09-24. Source: `STATS132/Lectures/STAT132 Lecture 01 - Probability review and intro to inference.pdf`.
+Lecture dated 2026-09-24. Source: `STAT132/Lectures/STAT132 Lecture 01 - Probability review and intro to inference.pdf`.
 
 ## Done?
 Score 1 of 5. Did not land.

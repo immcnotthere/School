@@ -6,18 +6,18 @@ course: "STAT 132"
 status: draft
 week: 2
 item_type: lecture
-source: "STATS132/Lectures/STAT132 Lecture 02 - Frequentist vs Bayesian, likelihood, priors.pdf"
+source: "STAT132/Lectures/STAT132 Lecture 02 - Frequentist vs Bayesian, likelihood, priors.pdf"
 date: 2026-09-29
 pages: 8
 problems: 0
 score: 1
-recording: "STATS132/Recordings/STAT132 Lecture 01-02 - recording 2026-09-29.m4a (80 min) + transcript"
+recording: "STAT132/Recordings/STAT132 Lecture 01-02 - recording 2026-09-29.m4a (80 min) + transcript"
 time_full_min: 120
 time_debt_min: 96
 ---
 # STAT 132 week 2 lecture: Lecture 02 - Frequentist vs Bayesian, likelihood, priors
 
-Lecture dated 2026-09-29. Source: `STATS132/Lectures/STAT132 Lecture 02 - Frequentist vs Bayesian, likelihood, priors.pdf`.
+Lecture dated 2026-09-29. Source: `STAT132/Lectures/STAT132 Lecture 02 - Frequentist vs Bayesian, likelihood, priors.pdf`.
 
 ## Done?
 Score 1 of 5. Did not land.

@@ -4,7 +4,7 @@ parent: "[[AM20]]"
 domain: math
 course: "AM 20"
 status: draft
-source: "~/Documents/AM20/Homework and discussions/AM20 HW 4 (due Oct 24).pdf"
+source: "~/Documents/AM20/Homework and discussions/AM20 HW 04 (due Oct 24).pdf"
 uses:
   - "[[Second Order ODE]]"
   - "[[Characteristic Equation]]"

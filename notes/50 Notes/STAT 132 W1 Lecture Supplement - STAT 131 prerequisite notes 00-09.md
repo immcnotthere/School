@@ -6,7 +6,7 @@ course: "STAT 132"
 status: draft
 week: 1
 item_type: lecture-supplement
-source: "STATS132/STAT 131 prereq notes/ (10 PDFs)"
+source: "STAT132/STAT 131 prereq notes/ (10 PDFs)"
 date: 2026-09-24
 pages: 0
 problems: 0
@@ -17,7 +17,7 @@ time_debt_min: 0
 ---
 # STAT 132 week 1 lecture supplement: STAT 131 prerequisite notes 00-09
 
-Lecture Supplement dated 2026-09-24. Source: `STATS132/STAT 131 prereq notes/ (10 PDFs)`.
+Lecture Supplement dated 2026-09-24. Source: `STAT132/STAT 131 prereq notes/ (10 PDFs)`.
 
 ## Done?
 Score 1 of 5. 9/30: copied 8 distribution sheets (Bernoulli to Uniform) into your own table. Background only; not counted.

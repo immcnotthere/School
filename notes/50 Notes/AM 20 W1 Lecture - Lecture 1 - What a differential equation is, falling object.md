@@ -6,7 +6,7 @@ course: "AM 20"
 status: draft
 week: 1
 item_type: lecture
-source: "AM20/Lectures/AM20 Lecture 1 - What a differential equation is, falling object.pdf"
+source: "AM20/Lectures/AM20 Lecture 01 - What a differential equation is, falling object.pdf"
 date: 2026-09-25
 pages: 8
 problems: 0
@@ -17,7 +17,7 @@ time_debt_min: 36
 ---
 # AM 20 week 1 lecture: Lecture 1 - What a differential equation is, falling object
 
-Lecture dated 2026-09-25. Source: `AM20/Lectures/AM20 Lecture 1 - What a differential equation is, falling object.pdf`.
+Lecture dated 2026-09-25. Source: `AM20/Lectures/AM20 Lecture 01 - What a differential equation is, falling object.pdf`.
 
 ## Done?
 Score 2 of 5. Attended; one of the two lectures that made sense to you.

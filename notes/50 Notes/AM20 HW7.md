@@ -4,7 +4,7 @@ parent: "[[AM20]]"
 domain: math
 course: "AM 20"
 status: draft
-source: "~/Documents/AM20/Homework and discussions/AM20 HW 7 (due Nov 14).pdf"
+source: "~/Documents/AM20/Homework and discussions/AM20 HW 07 (due Nov 14).pdf"
 uses:
   - "[[Laplace Transform]]"
   - "[[Partial Fractions]]"

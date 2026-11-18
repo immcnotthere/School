@@ -4,7 +4,7 @@ parent: "[[STAT 132]]"
 domain: stats
 course: "STAT 132"
 status: draft
-source: "~/Documents/STATS132/Homework and discussions/STAT132 HW 1 - priors and likelihoods (due Oct 8).pdf"
+source: "~/Documents/STAT132/Homework and discussions/STAT132 HW 01 - priors and likelihoods (due Oct 8).pdf"
 due: 2026-10-08
 uses:
   - "[[Gamma Distribution]]"

@@ -4,7 +4,7 @@ parent: "[[AM20]]"
 domain: math
 course: "AM 20"
 status: draft
-source: "~/Documents/AM20/Homework and discussions/AM20 HW 6 (due Nov 7).pdf"
+source: "~/Documents/AM20/Homework and discussions/AM20 HW 06 (due Nov 7).pdf"
 uses:
   - "[[Existence and Uniqueness]]"
   - "[[Linear Independence]]"

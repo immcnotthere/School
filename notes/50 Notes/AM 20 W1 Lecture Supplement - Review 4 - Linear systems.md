@@ -6,7 +6,7 @@ course: "AM 20"
 status: draft
 week: 1
 item_type: lecture-supplement
-source: "AM20/Review sheets/AM20 Review 4 - Linear systems.pdf"
+source: "AM20/Review sheets/AM20 Review 04 - Linear systems.pdf"
 date: 2026-09-25
 pages: 4
 problems: 0
@@ -17,7 +17,7 @@ time_debt_min: 60
 ---
 # AM 20 week 1 lecture supplement: Review 4 - Linear systems
 
-Lecture Supplement dated 2026-09-25. Source: `AM20/Review sheets/AM20 Review 4 - Linear systems.pdf`.
+Lecture Supplement dated 2026-09-25. Source: `AM20/Review sheets/AM20 Review 04 - Linear systems.pdf`.
 
 ## Done?
 Score 0 of 5. No evidence.

@@ -4,7 +4,7 @@ parent: "[[AM20]]"
 domain: math
 course: "AM 20"
 status: draft
-source: "~/Documents/AM20/Homework and discussions/AM20 HW 3 (due Oct 17).pdf"
+source: "~/Documents/AM20/Homework and discussions/AM20 HW 03 (due Oct 17).pdf"
 uses:
   - "[[Existence and Uniqueness]]"
   - "[[Interval of Validity (First-Order Linear ODE)]]"

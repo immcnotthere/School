@@ -6,18 +6,18 @@ course: "ECON 131"
 status: draft
 week: 2
 item_type: lecture
-source: "Econ131/Lectures/ECON131 Lecture 2 - Exchange rates.pdf"
+source: "ECON131/Lectures/ECON131 Lecture 02 - Exchange rates.pdf"
 date: 2026-09-29
 pages: 2
 problems: 0
 score: 1
-recording: "Econ131/Recordings/ECON131 Lecture 2 - recording 2026-09-29.m4a (86 min) + transcript"
+recording: "ECON131/Recordings/ECON131 Lecture 02 - recording 2026-09-29.m4a (86 min) + transcript"
 time_full_min: 90
 time_debt_min: 72
 ---
 # ECON 131 week 2 lecture: Lecture 2 - Exchange rates
 
-Lecture dated 2026-09-29. Source: `Econ131/Lectures/ECON131 Lecture 2 - Exchange rates.pdf`.
+Lecture dated 2026-09-29. Source: `ECON131/Lectures/ECON131 Lecture 02 - Exchange rates.pdf`.
 
 ## Done?
 Score 1 of 5. Did not land; your class notes are in 'ECON131 Lecture 2 - Exchange rates (my class notes).pdf'.

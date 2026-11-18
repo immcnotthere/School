@@ -1,0 +1,625 @@
+ts,node,kind,outcome,seconds,source,note,ref
+2026-09-29T16:08:30-07:00,Random Experiment,card,again,4,decks,STAT 132 Cards - Lecture_01,decks:log_1790723310165_7b53yrg8l
+2026-09-29T16:08:36-07:00,Sample Space and Events,card,again,6,decks,STAT 132 Cards - Lecture_01,decks:log_1790723316656_xw44tsr4c
+2026-09-29T16:10:35-07:00,Sample Space and Events,card,again,119,decks,STAT 132 Cards - Lecture_01,decks:log_1790723435490_1i38wnep0
+2026-09-29T16:12:15-07:00,Random Experiment,card,again,100,decks,STAT 132 Cards - Lecture_01,decks:log_1790723535331_man97vekw
+2026-09-29T16:12:28-07:00,Sample Space and Events,card,again,13,decks,STAT 132 Cards - Lecture_01,decks:log_1790723548549_83vsgwo2x
+2026-09-29T16:12:41-07:00,Sample Space and Events,card,again,12,decks,STAT 132 Cards - Lecture_01,decks:log_1790723561035_qw6wqle3t
+2026-09-29T16:12:57-07:00,Axioms of Probability,card,again,17,decks,STAT 132 Cards - Lecture_01,decks:log_1790723577989_hxz14zo2g
+2026-09-29T16:13:06-07:00,Axioms of Probability,card,again,9,decks,STAT 132 Cards - Lecture_01,decks:log_1790723586921_g8eb8n3w8
+2026-09-29T16:13:19-07:00,Conditional Probability,card,again,12,decks,STAT 132 Cards - Lecture_01,decks:log_1790723599270_s6owqw9b0
+2026-09-29T16:13:23-07:00,Conditional Probability,card,again,4,decks,STAT 132 Cards - Lecture_01,decks:log_1790723603482_m3hwyidf2
+2026-09-29T16:13:40-07:00,Bayes' Rule,card,again,17,decks,STAT 132 Cards - Lecture_01,decks:log_1790723620509_ct6zpd82p
+2026-09-29T16:13:56-07:00,Bayes' Rule,card,again,16,decks,STAT 132 Cards - Lecture_01,decks:log_1790723636345_5tba63ube
+2026-09-29T16:15:57-07:00,Random variable,card,again,121,decks,STAT 132 Cards - Lecture_01,decks:log_1790723757893_wboar02jd
+2026-09-29T16:16:16-07:00,Axioms of Probability,card,again,19,decks,STAT 132 Cards - Lecture_01,decks:log_1790723776694_cez4ucncw
+2026-09-29T16:16:20-07:00,Axioms of Probability,card,good,4,decks,STAT 132 Cards - Lecture_01,decks:log_1790723780665_syzd3krqu
+2026-09-29T16:16:36-07:00,Conditional Probability,card,again,16,decks,STAT 132 Cards - Lecture_01,decks:log_1790723796897_01b02dpj9
+2026-09-29T16:17:46-07:00,Conditional Probability,card,again,70,decks,STAT 132 Cards - Lecture_01,decks:log_1790723866658_yr7bycpvu
+2026-09-29T16:18:06-07:00,Bayes' Rule,card,again,20,decks,STAT 132 Cards - Lecture_01,decks:log_1790723886899_yuj310cov
+2026-09-29T16:18:28-07:00,Bayes' Rule,card,again,22,decks,STAT 132 Cards - Lecture_01,decks:log_1790723908647_yzuo2kxj4
+2026-09-29T16:18:38-07:00,Random variable,card,again,10,decks,STAT 132 Cards - Lecture_01,decks:log_1790723918962_8q56yr3m2
+2026-09-29T16:18:56-07:00,Discrete vs Continuous Random Variable,card,again,18,decks,STAT 132 Cards - Lecture_01,decks:log_1790723936669_u5ro6v9ab
+2026-09-29T16:19:02-07:00,"PMF, PDF and CDF",card,again,6,decks,STAT 132 Cards - Lecture_01,decks:log_1790723942841_7efuyrmzb
+2026-09-29T16:19:08-07:00,"PMF, PDF and CDF",card,again,5,decks,STAT 132 Cards - Lecture_01,decks:log_1790723948036_mwugugrh8
+2026-09-29T16:19:12-07:00,"PMF, PDF and CDF",card,again,4,decks,STAT 132 Cards - Lecture_01,decks:log_1790723952487_oatmkp75v
+2026-09-29T16:19:16-07:00,Expectation and Variance,card,again,4,decks,STAT 132 Cards - Lecture_01,decks:log_1790723956534_ab2e8ilc3
+2026-09-29T16:19:19-07:00,Expectation and Variance,card,again,3,decks,STAT 132 Cards - Lecture_01,decks:log_1790723959934_sct05k4fb
+2026-09-29T16:19:23-07:00,Expectation and Variance,card,again,3,decks,STAT 132 Cards - Lecture_01,decks:log_1790723963104_vk07rh2mx
+2026-09-29T16:19:25-07:00,Common Distributions,card,again,2,decks,STAT 132 Cards - Lecture_01,decks:log_1790723965613_3i8nhfs5g
+2026-09-29T16:19:27-07:00,Common Distributions,card,again,2,decks,STAT 132 Cards - Lecture_01,decks:log_1790723967709_g857lhe3r
+2026-09-29T16:19:29-07:00,Common Distributions,card,again,2,decks,STAT 132 Cards - Lecture_01,decks:log_1790723969723_ulvfifp76
+2026-09-29T16:19:30-07:00,Common Distributions,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790723970868_o2hchf078
+2026-09-29T16:19:31-07:00,Gamma and Beta Functions,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790723971931_g2e3wcq9i
+2026-09-29T16:19:32-07:00,Gamma and Beta Functions,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790723972950_x9bnbad9e
+2026-09-29T16:19:33-07:00,Gamma and Beta Functions,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790723973888_5pgjrcl6c
+2026-09-29T16:19:35-07:00,Law of Large Numbers,card,again,2,decks,STAT 132 Cards - Lecture_01,decks:log_1790723975658_0qrncx1zj
+2026-09-29T16:19:42-07:00,Central Limit Theorem,card,again,7,decks,STAT 132 Cards - Lecture_01,decks:log_1790723982355_8w7trwnt3
+2026-09-29T16:19:44-07:00,Central Limit Theorem,card,again,2,decks,STAT 132 Cards - Lecture_01,decks:log_1790723984467_skzyhs96z
+2026-09-29T16:20:12-07:00,What Is Statistical Inference,card,again,28,decks,STAT 132 Cards - Lecture_01,decks:log_1790724012428_p39jujs2u
+2026-09-29T16:20:39-07:00,Discrete vs Continuous Random Variable,card,again,27,decks,STAT 132 Cards - Lecture_01,decks:log_1790724039294_lbj5h8cg8
+2026-09-29T16:20:41-07:00,"PMF, PDF and CDF",card,again,2,decks,STAT 132 Cards - Lecture_01,decks:log_1790724041239_cq3cwlu2y
+2026-09-29T16:20:42-07:00,"PMF, PDF and CDF",card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724042515_1zvuciyeq
+2026-09-29T16:20:43-07:00,"PMF, PDF and CDF",card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724043466_4rpke9z36
+2026-09-29T16:20:44-07:00,Expectation and Variance,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724044737_vic6w4ex4
+2026-09-29T16:20:45-07:00,Expectation and Variance,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724045471_ysevqfv17
+2026-09-29T16:20:46-07:00,Expectation and Variance,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724046301_udbd5q9pa
+2026-09-29T16:20:47-07:00,Common Distributions,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724047218_ub4jpfkgq
+2026-09-29T16:20:47-07:00,Common Distributions,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724047857_n48ekfu6y
+2026-09-29T16:20:48-07:00,Common Distributions,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724048571_am4qp6qm9
+2026-09-29T16:20:49-07:00,Common Distributions,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724049402_91gv8zrrh
+2026-09-29T16:20:50-07:00,Gamma and Beta Functions,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724050671_h5ahmyjl8
+2026-09-29T16:20:51-07:00,Gamma and Beta Functions,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724051420_76xgf85y6
+2026-09-29T16:20:52-07:00,Gamma and Beta Functions,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724052176_4hsihsj50
+2026-09-29T16:20:53-07:00,Law of Large Numbers,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724053014_z2wt0lvp0
+2026-09-29T16:20:53-07:00,Central Limit Theorem,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724053783_f1b3wvyoc
+2026-09-29T16:20:54-07:00,Central Limit Theorem,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724054686_iseaxb9a9
+2026-09-29T16:20:55-07:00,What Is Statistical Inference,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724055815_pncgshkzg
+2026-09-29T16:20:56-07:00,Probability vs Inference,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724056902_g4btmfuz9
+2026-09-29T16:20:57-07:00,Probability vs Inference,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724057807_gdummlopq
+2026-09-29T16:21:00-07:00,Parametric vs Nonparametric,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724060940_0dnydtrwo
+2026-09-29T16:21:02-07:00,Parametric vs Nonparametric,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724062072_rwi4s099n
+2026-09-29T16:21:02-07:00,Parametric vs Nonparametric,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724062970_5a35ojaq2
+2026-09-29T16:21:05-07:00,Population parameter,card,again,3,decks,STAT 132 Cards - Lecture_01,decks:log_1790724065838_ge3lt532q
+2026-09-29T16:21:08-07:00,Population parameter,card,again,2,decks,STAT 132 Cards - Lecture_01,decks:log_1790724068218_h3bkh8khw
+2026-09-29T16:21:10-07:00,Population parameter,card,again,2,decks,STAT 132 Cards - Lecture_01,decks:log_1790724070356_po6y6eyg5
+2026-09-29T16:21:13-07:00,Statistic (inference),card,again,3,decks,STAT 132 Cards - Lecture_01,decks:log_1790724073177_av73atiyr
+2026-09-29T16:21:14-07:00,What Is Statistical Inference,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724074572_at1mslsws
+2026-09-29T16:21:15-07:00,Statistic (inference),card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724075923_2g4fhgomb
+2026-09-29T16:21:18-07:00,Sample Mean and Sample Variance,card,again,2,decks,STAT 132 Cards - Lecture_01,decks:log_1790724078228_quhf0wfdt
+2026-09-29T16:21:19-07:00,Sample Mean and Sample Variance,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724079342_38xnnd805
+2026-09-29T16:21:20-07:00,Sample Mean and Sample Variance,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724080780_p9zi088ty
+2026-09-29T16:21:32-07:00,Point Estimate vs Interval Estimate,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724092453_ya7rreh34
+2026-09-29T16:21:33-07:00,Estimation and Prediction,card,again,0,decks,STAT 132 Cards - Lecture_01,decks:log_1790724093016_6kz7ywbjw
+2026-09-29T16:21:33-07:00,Hypothesis Testing,card,again,0,decks,STAT 132 Cards - Lecture_01,decks:log_1790724093573_m4732qpz6
+2026-09-29T16:21:34-07:00,Null and Alternative Hypotheses,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724094161_wfnd5zlvo
+2026-09-29T16:22:04-07:00,What Is Statistical Inference,card,again,6,decks,STAT 132 Cards - Lecture_01,decks:log_1790724124950_9t6nkdu9w
+2026-09-29T16:22:06-07:00,Probability vs Inference,card,again,2,decks,STAT 132 Cards - Lecture_01,decks:log_1790724126847_iuqygfe0o
+2026-09-29T16:22:07-07:00,Probability vs Inference,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724127803_q52fewivv
+2026-09-29T16:22:10-07:00,Parametric vs Nonparametric,card,again,2,decks,STAT 132 Cards - Lecture_01,decks:log_1790724130619_czc95rmmp
+2026-09-29T16:22:21-07:00,Parametric vs Nonparametric,card,again,11,decks,STAT 132 Cards - Lecture_01,decks:log_1790724141541_ol38eqtmk
+2026-09-29T16:22:25-07:00,Parametric vs Nonparametric,card,again,4,decks,STAT 132 Cards - Lecture_01,decks:log_1790724145660_zcrthwhpk
+2026-09-29T16:22:26-07:00,Population parameter,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724146702_aiuw5aisr
+2026-09-29T16:22:29-07:00,Population parameter,card,again,2,decks,STAT 132 Cards - Lecture_01,decks:log_1790724149017_beubi9bi6
+2026-09-29T16:22:33-07:00,Population parameter,card,again,4,decks,STAT 132 Cards - Lecture_01,decks:log_1790724153268_aycg24h7l
+2026-09-29T16:22:34-07:00,Statistic (inference),card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724154621_iah8asau1
+2026-09-29T16:22:48-07:00,Random Experiment,card,again,14,decks,STAT 132 Cards - Lecture_01,decks:log_1790724168730_gszdtcajc
+2026-09-29T16:22:49-07:00,Statistic (inference),card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724169809_clec6fxpc
+2026-09-29T16:22:51-07:00,Sample Mean and Sample Variance,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724171055_sa2p00436
+2026-09-29T16:22:51-07:00,Sample Mean and Sample Variance,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724171996_haf4cewfu
+2026-09-29T16:22:53-07:00,Sample Mean and Sample Variance,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724173515_y02dtso8h
+2026-09-29T16:22:54-07:00,Sample Space and Events,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724174648_haf3aieqy
+2026-09-29T16:22:56-07:00,Point Estimate vs Interval Estimate,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724176168_jmh6ydgg1
+2026-09-29T16:23:00-07:00,Estimation and Prediction,card,again,4,decks,STAT 132 Cards - Lecture_01,decks:log_1790724180570_rds6agff6
+2026-09-29T16:23:02-07:00,Hypothesis Testing,card,again,2,decks,STAT 132 Cards - Lecture_01,decks:log_1790724182403_a8tjdwwl8
+2026-09-29T16:23:03-07:00,Null and Alternative Hypotheses,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724183458_nfgo996j6
+2026-09-29T16:23:06-07:00,Sample Space and Events,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724186229_2z4ru1qlf
+2026-09-29T16:23:09-07:00,Population,card,again,1,decks,STAT 132 Cards - Lecture_02,decks:log_1790724189272_inzwoijcb
+2026-09-29T16:23:10-07:00,Population,card,again,1,decks,STAT 132 Cards - Lecture_02,decks:log_1790724190825_lklf8n9jh
+2026-09-29T16:23:16-07:00,Sample in statistics,card,again,5,decks,STAT 132 Cards - Lecture_02,decks:log_1790724196187_expd7qgnf
+2026-09-29T16:23:17-07:00,Sample in statistics,card,again,2,decks,STAT 132 Cards - Lecture_02,decks:log_1790724197908_ikptdmmzc
+2026-09-29T16:23:19-07:00,Population parameter,card,again,1,decks,STAT 132 Cards - Lecture_02,decks:log_1790724199054_d57x22j3p
+2026-09-29T16:26:21-07:00,Quantity of Interest,card,again,183,decks,STAT 132 Cards - Lecture_02,decks:log_1790724381802_qh4n9otyd
+2026-09-29T16:26:26-07:00,Population,card,again,3,decks,STAT 132 Cards - Lecture_02,decks:log_1790724386653_rrsp0meyi
+2026-09-29T16:26:27-07:00,Population,card,again,1,decks,STAT 132 Cards - Lecture_02,decks:log_1790724387962_2cbfnhe26
+2026-09-29T16:26:31-07:00,Sample in statistics,card,again,3,decks,STAT 132 Cards - Lecture_02,decks:log_1790724391379_kk727s2ih
+2026-09-29T16:26:33-07:00,Sample in statistics,card,again,2,decks,STAT 132 Cards - Lecture_02,decks:log_1790724393055_3f88rl5v6
+2026-09-29T16:26:44-07:00,Population parameter,card,hard,11,decks,STAT 132 Cards - Lecture_02,decks:log_1790724404332_wjyw51fcj
+2026-09-29T16:26:45-07:00,Axioms of Probability,card,again,2,decks,STAT 132 Cards - Lecture_01,decks:log_1790724405893_ls85lkzhb
+2026-09-29T16:26:49-07:00,Conditional Probability,card,again,4,decks,STAT 132 Cards - Lecture_01,decks:log_1790724409703_5txz1xd98
+2026-09-29T16:29:54-07:00,Frequentist Approach,card,again,185,decks,STAT 132 Cards - Lecture_02,decks:log_1790724594898_ycdh0z4g7
+2026-09-29T16:29:56-07:00,Quantity of Interest,card,again,1,decks,STAT 132 Cards - Lecture_02,decks:log_1790724596235_taby1eiee
+2026-09-29T16:30:04-07:00,Conditional Probability,card,again,9,decks,STAT 132 Cards - Lecture_01,decks:log_1790724604849_ite1c68x2
+2026-09-29T16:30:16-07:00,Bayes' Rule,card,again,11,decks,STAT 132 Cards - Lecture_01,decks:log_1790724616369_lz4x33bvx
+2026-09-29T16:32:35-07:00,Bayes' Rule,card,again,139,decks,STAT 132 Cards - Lecture_01,decks:log_1790724755324_gxzyib4i6
+2026-09-29T16:32:36-07:00,Random variable,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724756840_ercicjune
+2026-09-29T16:32:37-07:00,Discrete vs Continuous Random Variable,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724757847_m3je1haas
+2026-09-29T16:32:39-07:00,"PMF, PDF and CDF",card,again,2,decks,STAT 132 Cards - Lecture_01,decks:log_1790724759404_ofittcsbo
+2026-09-29T16:32:41-07:00,"PMF, PDF and CDF",card,again,2,decks,STAT 132 Cards - Lecture_01,decks:log_1790724761482_8nvtz8ekq
+2026-09-29T16:32:43-07:00,"PMF, PDF and CDF",card,again,2,decks,STAT 132 Cards - Lecture_01,decks:log_1790724763266_nba5w21ym
+2026-09-29T16:32:45-07:00,Expectation and Variance,card,again,3,decks,STAT 132 Cards - Lecture_01,decks:log_1790724765853_3jtjxnojh
+2026-09-29T16:32:47-07:00,Expectation and Variance,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724767278_dv40dfudc
+2026-09-29T16:32:48-07:00,Expectation and Variance,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724768273_dw5j1l5le
+2026-09-29T16:32:50-07:00,Common Distributions,card,again,2,decks,STAT 132 Cards - Lecture_01,decks:log_1790724770042_4b0xegiel
+2026-09-29T16:32:52-07:00,Common Distributions,card,again,2,decks,STAT 132 Cards - Lecture_01,decks:log_1790724772359_ohqwbeew7
+2026-09-29T16:32:54-07:00,Common Distributions,card,again,2,decks,STAT 132 Cards - Lecture_01,decks:log_1790724774193_7a1h1uw4o
+2026-09-29T16:32:55-07:00,Common Distributions,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724775689_id7k0eiuh
+2026-09-29T16:32:57-07:00,Gamma and Beta Functions,card,again,2,decks,STAT 132 Cards - Lecture_01,decks:log_1790724777699_osfkkj8vl
+2026-09-29T16:32:59-07:00,Gamma and Beta Functions,card,again,2,decks,STAT 132 Cards - Lecture_01,decks:log_1790724779556_fu280959d
+2026-09-29T16:33:00-07:00,Gamma and Beta Functions,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724780537_dtlf22ox1
+2026-09-29T16:33:01-07:00,Law of Large Numbers,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724781763_210qhlurp
+2026-09-29T16:33:02-07:00,Central Limit Theorem,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724782898_opzzn1yw6
+2026-09-29T16:33:03-07:00,Central Limit Theorem,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724783813_y1t31ce6f
+2026-09-29T16:33:09-07:00,Frequentist Approach,card,good,6,decks,STAT 132 Cards - Lecture_02,decks:log_1790724789958_d9e35oeb9
+2026-09-29T16:33:12-07:00,What Is Statistical Inference,card,again,2,decks,STAT 132 Cards - Lecture_01,decks:log_1790724792087_i1tony2ie
+2026-09-29T16:33:13-07:00,What Is Statistical Inference,card,again,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790724793756_qzkxdegd5
+2026-09-29T22:08:43-07:00,Probability vs Inference,card,again,8,decks,STAT 132 Cards - Lecture_01,decks:log_1790744923969_y8jwoowjf
+2026-09-29T22:08:49-07:00,Probability vs Inference,card,again,6,decks,STAT 132 Cards - Lecture_01,decks:log_1790744929683_s0nvk5ta8
+2026-09-29T22:09:03-07:00,Parametric vs Nonparametric,card,again,9,decks,STAT 132 Cards - Lecture_01,decks:log_1790744943670_skrkgeskg
+2026-09-29T22:09:10-07:00,Parametric vs Nonparametric,card,again,7,decks,STAT 132 Cards - Lecture_01,decks:log_1790744950647_vbqjebgsk
+2026-09-29T22:09:23-07:00,Parametric vs Nonparametric,card,again,13,decks,STAT 132 Cards - Lecture_01,decks:log_1790744963306_iucg1teke
+2026-09-29T22:09:36-07:00,Population parameter,card,again,13,decks,STAT 132 Cards - Lecture_01,decks:log_1790744976724_daxcweeiq
+2026-09-29T22:09:46-07:00,Population parameter,card,again,10,decks,STAT 132 Cards - Lecture_01,decks:log_1790744986421_4beh338ox
+2026-09-29T22:09:57-07:00,Population parameter,card,again,11,decks,STAT 132 Cards - Lecture_01,decks:log_1790744997683_kk194aizd
+2026-09-29T22:10:03-07:00,Statistic (inference),card,again,6,decks,STAT 132 Cards - Lecture_01,decks:log_1790745003351_v91kbtqsb
+2026-09-29T22:10:06-07:00,Random Experiment,card,again,4,decks,STAT 132 Cards - Lecture_01,decks:log_1790745006896_0jae20dbj
+2026-09-29T22:10:13-07:00,Statistic (inference),card,again,6,decks,STAT 132 Cards - Lecture_01,decks:log_1790745013354_4edz9gux3
+2026-09-29T22:10:25-07:00,Sample Mean and Sample Variance,card,again,12,decks,STAT 132 Cards - Lecture_01,decks:log_1790745025672_hkvxwudz6
+2026-09-29T22:10:33-07:00,Sample Mean and Sample Variance,card,again,7,decks,STAT 132 Cards - Lecture_01,decks:log_1790745033147_aaw24mk64
+2026-09-30T16:21:39-07:00,Bernoulli Distribution,card,again,9,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790810499372_ukn3tu3ho
+2026-09-30T16:25:42-07:00,Sample Mean and Sample Variance,card,again,3,decks,STAT 132 Cards - Lecture_01,decks:log_1790810742573_odw7b746j
+2026-09-30T16:25:53-07:00,Sample Space and Events,card,easy,11,decks,STAT 132 Cards - Lecture_01,decks:log_1790810753572_35yq42mjd
+2026-09-30T16:25:56-07:00,Point Estimate vs Interval Estimate,card,again,3,decks,STAT 132 Cards - Lecture_01,decks:log_1790810756954_j7b6idpwt
+2026-09-30T16:26:01-07:00,Estimation and Prediction,card,again,5,decks,STAT 132 Cards - Lecture_01,decks:log_1790810761951_mmac80anj
+2026-09-30T16:26:04-07:00,Hypothesis Testing,card,again,2,decks,STAT 132 Cards - Lecture_01,decks:log_1790810764405_jzsyltdzx
+2026-09-30T16:26:10-07:00,Null and Alternative Hypotheses,card,hard,1,decks,STAT 132 Cards - Lecture_01,decks:log_1790810770745_uufr8s2gp
+2026-09-30T16:26:58-07:00,Sample Space and Events,card,good,18,decks,STAT 132 Cards - Lecture_01,decks:log_1790810818916_gv0icltko
+2026-09-30T17:12:24-07:00,Bernoulli Distribution,card,again,6,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813544544_j2cix7mkw
+2026-09-30T17:12:26-07:00,Poisson Distribution,card,again,2,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813546363_65s3oqjkt
+2026-09-30T17:12:28-07:00,Poisson Distribution,card,again,2,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813548446_m9sx9fpi0
+2026-09-30T17:12:30-07:00,Exponential distribution,card,again,2,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813550289_v3ves8gzy
+2026-09-30T17:12:31-07:00,Exponential distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813551449_djb0eiypk
+2026-09-30T17:12:32-07:00,Gamma Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813552773_jqu57t4d8
+2026-09-30T17:12:34-07:00,Gamma Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813554308_q3gd6p87m
+2026-09-30T17:12:35-07:00,Gamma Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813555565_6gfo6sdjk
+2026-09-30T17:12:37-07:00,Gamma Distribution,card,again,2,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813557760_j98a3bmkz
+2026-09-30T17:12:39-07:00,Beta Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813559162_bgllwqc5x
+2026-09-30T17:12:40-07:00,Beta Distribution,card,again,2,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813560892_s8tsdej3c
+2026-09-30T17:12:41-07:00,Beta Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813561605_m63gan564
+2026-09-30T17:12:43-07:00,Beta Distribution,card,again,2,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813563987_lt88m6w1v
+2026-09-30T17:12:45-07:00,Beta Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813565098_cbkgrvj72
+2026-09-30T17:12:46-07:00,Normal distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813566230_sbwmfv9w7
+2026-09-30T17:12:47-07:00,Prior Parameters from Mean and Variance,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813567554_yk3rwksjk
+2026-09-30T17:12:48-07:00,Prior Parameters from Mean and Variance,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813568949_av67yc64v
+2026-09-30T17:12:49-07:00,Prior Parameters from Mean and Variance,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813569786_jug2nlzrr
+2026-09-30T17:12:50-07:00,Prior Parameters from Mean and Variance,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813570586_tr646ndsa
+2026-09-30T17:12:51-07:00,Prior Parameters from Mean and Variance,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813571234_6k6meu9zo
+2026-09-30T17:12:57-07:00,Prior Parameters from Mean and Variance,card,again,6,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813577441_6x85tcghw
+2026-09-30T17:12:58-07:00,Prior Parameters from Mean and Variance,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813578316_ylvuzt4vf
+2026-09-30T17:13:03-07:00,Prior Parameters from Mean and Variance,card,again,6,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813583914_fuiuz0uh1
+2026-09-30T17:13:04-07:00,Prior Parameters from Mean and Variance,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813584638_u6f4ct00n
+2026-09-30T17:13:05-07:00,Prior Parameters from Mean and Variance,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813585502_6319kxt4q
+2026-09-30T17:13:08-07:00,Likelihood Function,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813588038_2t7vqngo5
+2026-09-30T17:13:08-07:00,Likelihood Function,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813588668_5leo4v1h3
+2026-09-30T17:13:09-07:00,Likelihood Function,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813589240_xe30e14y6
+2026-09-30T17:13:09-07:00,Likelihood Function,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813589789_oln5tyaqn
+2026-09-30T17:13:10-07:00,Likelihood Function,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813590344_an831jb47
+2026-09-30T17:13:10-07:00,Likelihood Function,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813590879_hp2vnackq
+2026-09-30T17:13:11-07:00,Likelihood Function,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813591446_v73cptkuc
+2026-09-30T17:13:12-07:00,Likelihood Function,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813592156_j0tri5mzk
+2026-09-30T17:13:12-07:00,Likelihood Function,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813592815_4iu7c0kkl
+2026-09-30T17:13:13-07:00,Likelihood Function,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813593643_pubshpflk
+2026-09-30T17:13:14-07:00,Likelihood Function,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813594587_j2olp89mh
+2026-09-30T17:13:19-07:00,Prior Distribution,card,again,2,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813599901_ttp52xddr
+2026-09-30T17:13:21-07:00,Prior Distribution,card,again,2,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813601616_mntuqs3tl
+2026-09-30T17:13:23-07:00,Kernel of a Distribution,card,again,2,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813603710_msoeetvfv
+2026-09-30T17:13:24-07:00,Kernel of a Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813604626_ny6uqvq9y
+2026-09-30T17:13:25-07:00,Kernel of a Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813605387_s5lf1mrg0
+2026-09-30T17:13:26-07:00,Kernel of a Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813606176_xq9qzg732
+2026-09-30T17:13:28-07:00,Posterior Distribution,card,again,2,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813608558_h5uo8f064
+2026-09-30T17:13:29-07:00,Poisson Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813609747_m2674i69d
+2026-09-30T17:13:30-07:00,Poisson Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813610379_1it8k4dvh
+2026-09-30T17:13:30-07:00,Exponential distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813610994_10bzcleac
+2026-09-30T17:13:31-07:00,Posterior Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813611573_pcecuwwkw
+2026-09-30T17:13:32-07:00,Exponential distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813612445_tmgv4t1dx
+2026-09-30T17:13:37-07:00,Posterior Distribution,card,again,5,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813617143_dugxh7mbh
+2026-09-30T17:13:38-07:00,Gamma Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813618065_xpfyxtcms
+2026-09-30T17:13:38-07:00,Gamma Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813618705_rjdbez9r5
+2026-09-30T17:13:39-07:00,Gamma Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813619257_8nkjd4zj5
+2026-09-30T17:13:39-07:00,Gamma Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813619807_qo1nyzjgf
+2026-09-30T17:13:40-07:00,Beta Distribution,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813620329_9wmpaz5bl
+2026-09-30T17:13:40-07:00,Beta-Bernoulli Update,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813620989_su5z50k0q
+2026-09-30T17:13:41-07:00,Beta Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813621585_momaxlspj
+2026-09-30T17:13:42-07:00,Beta Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813622135_omet4q9jb
+2026-09-30T17:13:42-07:00,Gamma-Poisson Update,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813622698_sgyog3v7q
+2026-09-30T17:13:43-07:00,Bernoulli Distribution,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813623265_2sbwixx7x
+2026-09-30T17:13:43-07:00,Bernoulli Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813623850_uq77k8ec1
+2026-09-30T17:13:44-07:00,Bernoulli Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813624419_fb5xxu0zf
+2026-09-30T17:13:45-07:00,Beta Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813625035_sfw8qcvvn
+2026-09-30T17:13:45-07:00,Bernoulli Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813625643_r1rirk06p
+2026-09-30T17:13:46-07:00,Beta Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813626390_uj6pa7ogl
+2026-09-30T17:13:46-07:00,Normal distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813627005_3mzp6n81n
+2026-09-30T17:13:47-07:00,Bernoulli Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813627579_h4hnxojna
+2026-09-30T17:13:48-07:00,Prior Parameters from Mean and Variance,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813628220_5oykyf1f8
+2026-09-30T17:13:48-07:00,Binomial Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813628772_oad66ojzf
+2026-09-30T17:13:49-07:00,Binomial Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813629382_a8raqffm1
+2026-09-30T17:13:50-07:00,Prior Parameters from Mean and Variance,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813630067_8ceccn20x
+2026-09-30T17:13:50-07:00,Prior Parameters from Mean and Variance,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813630780_46bwk20p3
+2026-09-30T17:13:51-07:00,Prior Parameters from Mean and Variance,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813631365_g1isf3bb8
+2026-09-30T17:13:52-07:00,Prior Parameters from Mean and Variance,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813632088_9nn9jslu9
+2026-09-30T17:13:52-07:00,Binomial Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813632737_hq6kzeqw7
+2026-09-30T17:13:53-07:00,Binomial Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813633391_jwfpm7244
+2026-09-30T17:13:54-07:00,Binomial Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813634084_9ub1y7fb7
+2026-09-30T17:13:54-07:00,Binomial Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813634838_4e547ri0d
+2026-09-30T17:13:55-07:00,Poisson Distribution,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813635413_bg12scwjh
+2026-09-30T17:13:56-07:00,Poisson Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813636059_2k2mffkpx
+2026-09-30T17:13:56-07:00,Poisson Distribution,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813636623_4q2zroymj
+2026-09-30T17:13:57-07:00,Poisson Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813637226_u23875u35
+2026-09-30T17:13:57-07:00,Exponential distribution,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813637739_wyvi41n4i
+2026-09-30T17:13:58-07:00,Prior Parameters from Mean and Variance,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813638408_zt7gy4say
+2026-09-30T17:13:58-07:00,Prior Parameters from Mean and Variance,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813638960_ebtmu2cwm
+2026-09-30T17:13:59-07:00,Exponential distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813639566_g1ctlpvde
+2026-09-30T17:14:00-07:00,Exponential distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813640671_hn8tyb453
+2026-09-30T17:14:01-07:00,Exponential distribution,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813641258_nkwn77270
+2026-09-30T17:14:02-07:00,Gamma Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813642528_df30jx663
+2026-09-30T17:14:03-07:00,Gamma Distribution,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813643066_fqefrm7js
+2026-09-30T17:14:05-07:00,Gamma and Beta Functions,card,again,2,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813645286_rmer14f8x
+2026-09-30T17:14:07-07:00,Prior Parameters from Mean and Variance,card,again,2,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813647130_n86pl6uht
+2026-09-30T17:14:07-07:00,Prior Parameters from Mean and Variance,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813647871_iwtnv2m2n
+2026-09-30T17:14:09-07:00,Prior Parameters from Mean and Variance,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813649033_qbwzd09t5
+2026-09-30T17:14:10-07:00,Likelihood Function,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813650929_v9r5xvxie
+2026-09-30T17:14:11-07:00,Likelihood Function,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813651517_h33iznnbr
+2026-09-30T17:14:12-07:00,Likelihood Function,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813652102_wmyb6pjr8
+2026-09-30T17:14:12-07:00,Likelihood Function,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813652746_rgujk1j5d
+2026-09-30T17:14:13-07:00,Likelihood Function,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813653328_2f9thrveo
+2026-09-30T17:14:13-07:00,Likelihood Function,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813653924_1cl4zz4cc
+2026-09-30T17:14:14-07:00,Likelihood Function,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813654747_3vlfsz1fa
+2026-09-30T17:14:15-07:00,Likelihood Function,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813655343_bhx73ajea
+2026-09-30T17:14:15-07:00,Likelihood Function,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813655961_7vzl6kr6z
+2026-09-30T17:14:16-07:00,Likelihood Function,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813656577_n7jw4o9cw
+2026-09-30T17:14:17-07:00,Likelihood Function,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813657197_53wog94nh
+2026-09-30T17:14:19-07:00,Beta Distribution,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813659595_4kkci6qbv
+2026-09-30T17:14:32-07:00,Prior Distribution,card,again,2,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813672690_k9mzflh83
+2026-09-30T17:14:33-07:00,Prior Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813673291_crc22ozih
+2026-09-30T17:14:33-07:00,Kernel of a Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813673970_965dttg50
+2026-09-30T17:14:34-07:00,Kernel of a Distribution,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813674457_werhznkue
+2026-09-30T17:14:34-07:00,Kernel of a Distribution,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813674885_3usgpf88l
+2026-09-30T17:14:35-07:00,Kernel of a Distribution,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813675295_x5wpykvhq
+2026-09-30T17:14:35-07:00,Posterior Distribution,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813675692_mifycimc2
+2026-09-30T17:14:36-07:00,Posterior Distribution,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813676109_9c42n768d
+2026-09-30T17:14:36-07:00,Beta Distribution,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813676526_yx42k0t3l
+2026-09-30T17:14:36-07:00,Beta Distribution,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813676957_ollbflg9m
+2026-09-30T17:14:37-07:00,Beta Distribution,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813677349_va0ezt4b0
+2026-09-30T17:14:37-07:00,Posterior Distribution,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813677746_ts2waztbq
+2026-09-30T17:14:38-07:00,Normal distribution,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813678155_lcan25hh4
+2026-09-30T17:14:38-07:00,Normal distribution,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813678546_ggs0rkxfb
+2026-09-30T17:14:38-07:00,Normal distribution,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813678959_kj4atoiwz
+2026-09-30T17:14:39-07:00,Uniform distribution,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813679335_s9p42ue2e
+2026-09-30T17:14:39-07:00,Uniform distribution,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813679711_guhfjk657
+2026-09-30T17:14:40-07:00,Uniform distribution,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813680086_lag6y5eih
+2026-09-30T17:14:40-07:00,"PMF, PDF and CDF",card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813680465_ffc94qqi8
+2026-09-30T17:14:40-07:00,"PMF, PDF and CDF",card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813680840_4yg8rv26u
+2026-09-30T17:14:41-07:00,"PMF, PDF and CDF",card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813681237_pk8vdmj62
+2026-09-30T17:14:41-07:00,Beta-Bernoulli Update,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813681777_zij011xnh
+2026-09-30T17:14:42-07:00,"PMF, PDF and CDF",card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813682157_o6wrheql8
+2026-09-30T17:14:42-07:00,"PMF, PDF and CDF",card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813682516_f3xjc23bg
+2026-09-30T17:14:42-07:00,"PMF, PDF and CDF",card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813682867_tf27xzv76
+2026-09-30T17:14:43-07:00,Gamma-Poisson Update,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813683222_g7p70qtmp
+2026-09-30T17:14:43-07:00,"PMF, PDF and CDF",card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813683591_u3kwaujq6
+2026-09-30T17:14:43-07:00,Bernoulli Distribution,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813683969_abt8sznrn
+2026-09-30T17:14:44-07:00,Bernoulli Distribution,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813684330_klsbpjfk8
+2026-09-30T17:14:44-07:00,Probability distribution,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813684681_ws3emrqra
+2026-09-30T17:14:45-07:00,Bernoulli Distribution,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813685075_sr4ylxwvm
+2026-09-30T17:14:45-07:00,Common Distributions,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813685417_6itecd1f4
+2026-09-30T17:14:45-07:00,Common Distributions,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813685789_bsxsekqi7
+2026-09-30T17:14:46-07:00,Bernoulli Distribution,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813686201_t1tbl06gk
+2026-09-30T17:14:46-07:00,Common Distributions,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813686568_ls8yaq9bs
+2026-09-30T17:14:46-07:00,Common Distributions,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813686904_u7qrmfa6r
+2026-09-30T17:14:47-07:00,Common Distributions,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813687307_6m245qwta
+2026-09-30T17:14:47-07:00,Common Distributions,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813687598_5vux3kk0k
+2026-09-30T17:14:47-07:00,Bernoulli Distribution,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813687967_u0uqpqaa1
+2026-09-30T17:14:48-07:00,Common Distributions,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813688319_tf7vd9pwe
+2026-09-30T17:14:48-07:00,Common Distributions,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813688683_lvykjjeeb
+2026-09-30T17:14:49-07:00,Common Distributions,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813689049_bowjedsku
+2026-09-30T17:14:49-07:00,Binomial Distribution,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813689403_59fm3w9l6
+2026-09-30T17:14:49-07:00,Binomial Distribution,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813689759_k86vfhtsh
+2026-09-30T17:14:50-07:00,Common Distributions,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813690160_qz7013n7y
+2026-09-30T17:14:50-07:00,Common Distributions,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813690522_28d3c4mdn
+2026-09-30T17:14:50-07:00,Common Distributions,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813690898_h3s0l9um0
+2026-09-30T17:14:51-07:00,Common Distributions,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813691259_ivqqfdifj
+2026-09-30T17:14:58-07:00,Binomial Distribution,card,again,2,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813698805_g17mt1e8z
+2026-09-30T17:15:00-07:00,Binomial Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813700183_aqlxkqoeq
+2026-09-30T17:15:02-07:00,Binomial Distribution,card,again,2,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813702466_4f9iaifub
+2026-09-30T17:15:06-07:00,Binomial Distribution,card,again,4,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813706894_pt0l5gsii
+2026-09-30T17:15:09-07:00,Poisson Distribution,card,again,3,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813709736_u193d5ge0
+2026-09-30T17:15:11-07:00,Poisson Distribution,card,again,2,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813711959_2xgf9hn4c
+2026-09-30T17:15:13-07:00,Poisson Distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813713290_pnkw34kfq
+2026-09-30T17:15:16-07:00,Poisson Distribution,card,again,3,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813716124_538k49ng1
+2026-09-30T17:15:18-07:00,Exponential distribution,card,again,3,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813718827_w95jo3hcc
+2026-09-30T17:15:19-07:00,Exponential distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813719716_pawcbmtwn
+2026-09-30T17:15:20-07:00,Exponential distribution,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813720521_hfbzfxrl5
+2026-09-30T17:15:21-07:00,Exponential distribution,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813721008_iq9b26wer
+2026-09-30T17:15:21-07:00,Gamma Distribution,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813721391_oq1rkb71h
+2026-09-30T17:15:21-07:00,Gamma Distribution,card,good,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813721952_el98z2cwx
+2026-09-30T17:15:23-07:00,Gamma and Beta Functions,card,again,1,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813723189_71yjwyjm1
+2026-09-30T17:15:23-07:00,Beta Distribution,card,again,0,decks,STAT 132 Cards - Waterline Week 2,decks:log_1790813723623_4ogbowipr
+2026-09-30T17:44:42-07:00,Fractions and Decimals,card,good,13,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790815482806_vih1n60sw
+2026-09-30T17:44:49-07:00,Fractions and Decimals,card,again,6,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790815489022_6545tr8am
+2026-09-30T17:47:10-07:00,Fractions and Decimals,card,easy,5,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790815630071_63ub81a8x
+2026-09-30T17:47:17-07:00,Sum and Product Notation,card,easy,7,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790815637381_1zcyg4aje
+2026-09-30T17:50:02-07:00,Sum and Product Notation,card,again,9,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790815802785_o92hfgdsy
+2026-09-30T17:50:09-07:00,Sum and Product Notation,card,again,6,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790815809058_b5hu92vza
+2026-09-30T17:50:32-07:00,Sum and Product Notation,card,good,24,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790815832616_gf34fdyxd
+2026-09-30T17:51:49-07:00,Sum and Product Notation,card,again,60,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790815909634_klmpxbcwo
+2026-09-30T17:51:51-07:00,Sum and Product Notation,card,easy,2,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790815911751_jv4n0dhly
+2026-09-30T17:52:00-07:00,Sum and Product Notation,card,good,9,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790815920904_pn55l0tgd
+2026-09-30T17:52:18-07:00,Sum and Product Notation,card,again,18,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790815938824_uy0yuhw84
+2026-09-30T17:52:33-07:00,Sum and Product Notation,card,again,15,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790815953729_zeopp3bic
+2026-09-30T17:53:18-07:00,Sum and Product Notation,card,again,45,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790815998939_aiwzy8bme
+2026-09-30T17:54:06-07:00,Sum and Product Notation,card,again,47,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790816046300_cu8ic0813
+2026-09-30T17:54:21-07:00,Sum and Product Notation,card,easy,15,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790816061140_lrk6mjty4
+2026-09-30T17:54:30-07:00,Sum and Product Notation,card,easy,10,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790816070745_20iozi2is
+2026-09-30T17:55:28-07:00,Sum and Product Notation,card,again,58,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790816128553_inttklaw2
+2026-09-30T17:56:08-07:00,Sum and Product Notation,card,again,40,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790816168738_33fjvw78j
+2026-09-30T17:56:13-07:00,Sum and Product Notation,card,good,5,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790816173593_hhwv3dgkg
+2026-09-30T17:56:23-07:00,Sum and Product Notation,card,good,9,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790816183072_qz7te9cxc
+2026-09-30T17:57:59-07:00,Sum and Product Notation,card,hard,87,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790816279235_sxl8js614
+2026-09-30T17:58:06-07:00,Sum and Product Notation,card,again,7,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790816286717_v7iln41sh
+2026-09-30T17:58:20-07:00,Sum and Product Notation,card,good,14,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790816300253_w092x56ao
+2026-09-30T17:58:30-07:00,Sum and Product Notation,card,good,10,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790816310127_vifx1dpuj
+2026-09-30T17:58:36-07:00,Sum and Product Notation,card,good,6,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790816316013_q6xru5uf5
+2026-09-30T17:58:44-07:00,Sum and Product Notation,card,good,8,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790816324452_fckgb3ere
+2026-09-30T17:59:11-07:00,Sum and Product Notation,card,again,27,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790816351405_xyn8v910g
+2026-09-30T17:59:23-07:00,Sum and Product Notation,card,easy,12,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790816363590_an4ja3wh1
+2026-09-30T17:59:26-07:00,Sum and Product Notation,card,easy,3,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790816366485_066ht4all
+2026-09-30T18:25:24-07:00,Sum and Product Notation,card,good,24,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790817924463_bm92nhdfj
+2026-09-30T18:25:28-07:00,Sum and Product Notation,card,easy,4,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790817928352_f6y18ppwo
+2026-09-30T18:25:30-07:00,Sum and Product Notation,card,good,2,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790817930720_s94fdap6i
+2026-09-30T18:25:33-07:00,Sum and Product Notation,card,good,3,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790817933507_jq6fixn39
+2026-09-30T18:25:39-07:00,Sum and Product Notation,card,good,6,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790817939322_d3i35zjvp
+2026-09-30T18:26:04-07:00,Sum and Product Notation,card,good,25,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790817964215_phhwj53wy
+2026-09-30T18:26:28-07:00,Sum and Product Notation,card,good,24,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790817988671_7fzdnjmrn
+2026-09-30T18:26:39-07:00,Sum and Product Notation,card,good,10,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790817999206_u480o611s
+2026-09-30T18:29:25-07:00,Sum and Product Notation,card,good,11,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790818165444_guur9ze5l
+2026-09-30T18:29:39-07:00,Sum and Product Notation,card,good,14,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790818179663_pfiw1nb3t
+2026-09-30T18:29:45-07:00,Sum and Product Notation,card,good,6,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790818185403_8mcjqkolp
+2026-09-30T18:29:51-07:00,Sum and Product Notation,card,good,6,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790818191652_je22k8wjg
+2026-09-30T18:30:34-07:00,Sum and Product Notation,card,good,43,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790818234604_dtwe5s772
+2026-09-30T18:32:28-07:00,Sum and Product Notation,card,good,5,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790818348858_gojnjq687
+2026-09-30T18:32:32-07:00,Sum and Product Notation,card,good,3,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790818352234_fws3r60tt
+2026-09-30T18:32:34-07:00,Sum and Product Notation,card,good,3,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790818354801_srxjtpyu9
+2026-09-30T18:32:36-07:00,Sum and Product Notation,card,easy,1,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790818356142_4ne3faa62
+2026-09-30T18:32:55-07:00,Sample Space and Events,card,good,10,decks,STAT 132 Cards - Ladder 01 Probability,decks:log_1790818375241_7oxgdhmlu
+2026-09-30T18:35:26-07:00,Sample Space and Events,card,good,146,decks,STAT 132 Cards - Ladder 01 Probability,decks:log_1790818526895_swahdn1mw
+2026-09-30T18:36:45-07:00,Sample Space and Events,card,good,78,decks,STAT 132 Cards - Ladder 01 Probability,decks:log_1790818605046_xi06fg1td
+2026-09-30T18:38:36-07:00,Sample Space and Events,card,good,112,decks,STAT 132 Cards - Ladder 01 Probability,decks:log_1790818716839_50gju66qv
+2026-09-30T18:38:49-07:00,Axioms of Probability,card,good,12,decks,STAT 132 Cards - Ladder 01 Probability,decks:log_1790818729397_347fq6cro
+2026-09-30T18:40:06-07:00,Axioms of Probability,card,easy,77,decks,STAT 132 Cards - Ladder 01 Probability,decks:log_1790818806409_hbnmci4l6
+2026-09-30T18:40:14-07:00,Axioms of Probability,card,good,8,decks,STAT 132 Cards - Ladder 01 Probability,decks:log_1790818814789_rqvszvyf7
+2026-09-30T18:47:35-07:00,Independent Events,card,good,78,decks,STAT 132 Cards - Ladder 01 Probability,decks:log_1790819255486_3ptbbk5p0
+2026-09-30T18:47:39-07:00,Sample Space and Events,card,easy,4,decks,STAT 132 Cards - Ladder 01 Probability,decks:log_1790819259258_pj7lx1v0h
+2026-09-30T18:48:33-07:00,Properties of Probability Measures,card,good,54,decks,STAT 132 Cards - Ladder 01 Probability,decks:log_1790819313746_jor8lyb8r
+2026-09-30T18:51:12-07:00,Independent Events,card,good,159,decks,STAT 132 Cards - Ladder 01 Probability,decks:log_1790819472856_yew6z3461
+2026-09-30T18:51:17-07:00,Independent Events,card,good,5,decks,STAT 132 Cards - Ladder 01 Probability,decks:log_1790819477675_6wf24did1
+2026-09-30T18:51:24-07:00,Independent Events,card,easy,6,decks,STAT 132 Cards - Ladder 01 Probability,decks:log_1790819484157_szlhhwno5
+2026-09-30T18:51:26-07:00,Independent Events,card,easy,3,decks,STAT 132 Cards - Ladder 01 Probability,decks:log_1790819486980_zlyjzlogo
+2026-09-30T18:51:38-07:00,Independent Events,card,good,11,decks,STAT 132 Cards - Ladder 01 Probability,decks:log_1790819498137_lq7cyaj32
+2026-09-30T18:51:42-07:00,Independent Events,card,good,4,decks,STAT 132 Cards - Ladder 01 Probability,decks:log_1790819502298_ahedxhsju
+2026-09-30T18:51:44-07:00,Independent Events,card,good,2,decks,STAT 132 Cards - Ladder 01 Probability,decks:log_1790819504668_qjy5v059r
+2026-09-30T18:54:29-07:00,Function,card,good,46,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790819669813_jynzn9ydv
+2026-09-30T18:57:47-07:00,Random variable,card,good,198,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790819867856_pl2n6depx
+2026-09-30T18:59:19-07:00,Random variable,card,good,92,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790819959601_idtgvvz0m
+2026-09-30T18:59:24-07:00,Random variable,card,good,5,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790819964658_l7ywz9mrb
+2026-09-30T18:59:30-07:00,Random variable,card,good,6,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790819970283_eb399bmbf
+2026-09-30T19:01:19-07:00,Random variable,card,good,109,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790820079013_o35cib1px
+2026-09-30T19:01:21-07:00,Random variable,card,good,2,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790820081220_i7eswx5am
+2026-09-30T19:01:56-07:00,Random variable,card,again,35,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790820116237_a05b6ndjp
+2026-09-30T19:02:08-07:00,Function,card,good,12,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790820128276_atln34m6c
+2026-09-30T19:02:12-07:00,Function,card,good,4,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790820132349_hpam6rv1b
+2026-09-30T19:02:16-07:00,Function,card,good,4,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790820136264_2atnbvrcq
+2026-09-30T19:02:27-07:00,Function,card,good,12,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790820147985_q2ks8qw1p
+2026-09-30T19:02:56-07:00,Function,card,good,29,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790820176731_bnkc2wm8b
+2026-09-30T19:03:55-07:00,Random variable,card,again,58,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790820235105_y8b08kdqp
+2026-09-30T19:04:36-07:00,Random variable,card,good,41,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790820276585_9oehkyz1f
+2026-09-30T19:04:41-07:00,Random variable,card,good,5,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790820281269_3t4noa7x7
+2026-09-30T19:04:42-07:00,Random variable,card,good,1,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790820282807_4e6iukr3c
+2026-09-30T19:04:46-07:00,Random variable,card,good,4,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790820286892_egppt7ofn
+2026-09-30T19:04:49-07:00,Random variable,card,good,3,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790820289965_t7onpkunp
+2026-09-30T19:04:53-07:00,Random variable,card,good,4,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790820293979_9egnpdlns
+2026-09-30T19:06:01-07:00,Random variable,card,again,68,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790820361988_lbgj1asij
+2026-09-30T19:06:43-07:00,Random variable,card,good,41,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790820403175_5pp2tdjx8
+2026-09-30T19:06:47-07:00,Random variable,card,again,5,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790820407966_xtftxwnum
+2026-09-30T19:06:50-07:00,Random variable,card,again,3,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790820410576_b6r714362
+2026-09-30T19:07:46-07:00,Random variable,card,good,8,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790820466345_mtx6xi9kj
+2026-09-30T19:08:07-07:00,Function Notation,card,good,17,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790820487119_2g3d0bdqw
+2026-09-30T19:09:42-07:00,Function Notation,card,good,95,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790820582023_x9m20sgue
+2026-09-30T19:16:03-07:00,Function Notation,card,again,382,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790820963599_wzw36thyl
+2026-09-30T19:18:57-07:00,Probability Notation,card,again,173,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790821137046_48xt23wdn
+2026-09-30T19:19:57-07:00,Function Notation,card,again,60,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790821197261_nsjojcrxi
+2026-09-30T19:20:00-07:00,Probability Notation,card,good,3,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790821200080_zptgjutf4
+2026-09-30T19:21:28-07:00,Probability Notation,card,again,89,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790821288749_8gisufno8
+2026-09-30T19:22:13-07:00,Probability Notation,card,again,44,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790821333239_keluoj7hb
+2026-09-30T19:22:28-07:00,Probability Notation,card,again,15,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790821348089_ulp51uusj
+2026-09-30T19:23:16-07:00,Probability Notation,card,again,49,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790821396797_6nc0eem30
+2026-09-30T19:23:21-07:00,Probability Notation,card,again,4,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790821401025_9lq8b4h1d
+2026-09-30T19:23:30-07:00,Probability Notation,card,again,10,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790821410642_1oxdql559
+2026-09-30T19:23:36-07:00,Probability Notation,card,again,6,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790821416548_qthik7h2t
+2026-09-30T19:23:39-07:00,Probability Notation,card,again,3,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790821419927_plre36uuh
+2026-09-30T19:23:41-07:00,Probability Notation,card,again,2,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790821421882_97l30soqh
+2026-09-30T19:23:43-07:00,Probability Notation,card,again,1,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790821423146_dhmo6om56
+2026-09-30T19:23:44-07:00,Probability Notation,card,again,1,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790821424241_49nmt98og
+2026-09-30T19:23:45-07:00,Probability Notation,card,again,1,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790821425215_925lig783
+2026-09-30T19:23:45-07:00,Probability Notation,card,again,1,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790821425969_vsg3q34cu
+2026-09-30T19:23:47-07:00,Probability Notation,card,again,1,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790821427066_zq76s6ev2
+2026-09-30T19:23:49-07:00,Probability Notation,card,again,2,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790821429441_a0uwui6cw
+2026-09-30T19:23:50-07:00,Probability Notation,card,again,1,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790821430495_6dz7ulxvh
+2026-09-30T19:23:51-07:00,Probability Notation,card,again,1,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790821431501_f4ejdz9vp
+2026-09-30T21:53:50-07:00,Random variable,card,again,8,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790830430156_osu5y08ol
+2026-09-30T21:53:59-07:00,Random variable,card,again,9,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790830439473_mty4dm727
+2026-09-30T21:54:14-07:00,Random variable,card,again,15,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790830454648_gghrgiobe
+2026-09-30T21:54:24-07:00,Sum and Product Notation,card,again,7,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790830464517_bwik5fzqf
+2026-09-30T21:54:30-07:00,Sum and Product Notation,card,again,6,decks,STAT 132 Cards - Ladder 00 Arithmetic,decks:log_1790830470388_claso3mn9
+2026-09-30T21:56:00-07:00,Probability Notation,card,again,80,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790830560688_s8t25m6zy
+2026-09-30T21:56:22-07:00,Probability Notation,card,again,22,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790830582973_spxvkva1s
+2026-09-30T21:56:51-07:00,Probability Notation,card,again,29,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790830611640_92kar6r94
+2026-09-30T21:57:11-07:00,Probability Notation,card,again,17,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790830631905_l3u99obgz
+2026-09-30T21:57:20-07:00,Probability Notation,card,good,9,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790830640567_399hgub93
+2026-09-30T21:58:10-07:00,Probability Notation,card,again,49,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790830690074_kbzl6rudz
+2026-09-30T21:58:31-07:00,Probability Notation,card,good,22,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790830711875_cf0rer9pp
+2026-09-30T22:19:43-07:00,Probability Notation,card,again,55,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790831983771_7wc992vd0
+2026-09-30T22:20:11-07:00,Probability Notation,card,good,15,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790832011696_9lp1e39ld
+2026-09-30T22:20:27-07:00,Probability Notation,card,good,15,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790832027110_fd2zwe8ld
+2026-09-30T22:20:57-07:00,Function Notation,card,again,31,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790832057875_n9o5boyrv
+2026-09-30T22:21:47-07:00,Probability Notation,card,again,49,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790832107024_urmehtzu0
+2026-09-30T22:22:09-07:00,Probability Notation,card,good,22,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790832129299_awe4jtkuj
+2026-09-30T22:22:45-07:00,Probability Notation,card,again,37,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790832165902_ess46hw10
+2026-09-30T22:23:17-07:00,Probability Notation,card,hard,32,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790832197588_s0p7fi0wl
+2026-09-30T22:23:35-07:00,Probability Notation,card,good,18,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790832215181_hvlmnvx8v
+2026-09-30T22:24:28-07:00,Probability Notation,card,good,53,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790832268642_ervtkbjun
+2026-09-30T22:25:33-07:00,Probability Notation,card,good,65,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790832333421_8696qeqf3
+2026-09-30T22:25:37-07:00,Probability Notation,card,good,4,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790832337294_tabjnzna0
+2026-09-30T22:25:45-07:00,Sample Space and Events,card,good,8,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790832345519_6thstfxel
+2026-09-30T22:26:16-07:00,Probability Notation,card,good,3,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790832376444_yp2d8f0ft
+2026-09-30T22:26:25-07:00,Probability Notation,card,good,9,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790832385479_hmcgjps55
+2026-09-30T22:27:04-07:00,Probability Notation,card,again,1,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790832424762_0seaax0aj
+2026-09-30T22:28:03-07:00,Probability Notation,card,good,31,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790832483687_fvca5qr16
+2026-09-30T22:28:15-07:00,Probability Notation,card,good,11,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790832495191_i3sva5w03
+2026-09-30T22:28:24-07:00,Probability Notation,card,good,10,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790832504830_bk5trdkec
+2026-09-30T22:28:45-07:00,Sample Space and Events,card,good,2,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790832525104_g2aieszs4
+2026-09-30T22:29:02-07:00,"PMF, PDF and CDF",card,again,7,decks,STAT 132 Cards - Ladder 04 PMF,decks:log_1790832542087_im2y6sl1t
+2026-09-30T22:29:31-07:00,"PMF, PDF and CDF",card,hard,29,decks,STAT 132 Cards - Ladder 04 PMF,decks:log_1790832571406_w4ecwac2t
+2026-09-30T22:29:34-07:00,"PMF, PDF and CDF",card,good,3,decks,STAT 132 Cards - Ladder 04 PMF,decks:log_1790832574816_quvgzjc9y
+2026-09-30T22:30:25-07:00,"PMF, PDF and CDF",card,good,51,decks,STAT 132 Cards - Ladder 04 PMF,decks:log_1790832625396_pxyvi1l32
+2026-09-30T22:30:31-07:00,"PMF, PDF and CDF",card,good,6,decks,STAT 132 Cards - Ladder 04 PMF,decks:log_1790832631587_aw4e7ypa7
+2026-09-30T22:30:44-07:00,"PMF, PDF and CDF",card,hard,13,decks,STAT 132 Cards - Ladder 04 PMF,decks:log_1790832644163_fnsuaduhs
+2026-09-30T22:31:58-07:00,"PMF, PDF and CDF",card,good,75,decks,STAT 132 Cards - Ladder 04 PMF,decks:log_1790832718835_341k7mgeg
+2026-09-30T22:32:26-07:00,"PMF, PDF and CDF",card,good,27,decks,STAT 132 Cards - Ladder 04 PMF,decks:log_1790832746098_z7h4txlui
+2026-09-30T22:32:50-07:00,"PMF, PDF and CDF",card,again,24,decks,STAT 132 Cards - Ladder 04 PMF,decks:log_1790832770097_c0iaywtkk
+2026-09-30T22:32:52-07:00,"PMF, PDF and CDF",card,again,2,decks,STAT 132 Cards - Ladder 04 PMF,decks:log_1790832772261_c2ibhbcom
+2026-09-30T22:33:10-07:00,Probability distribution,card,again,18,decks,STAT 132 Cards - Ladder 04 PMF,decks:log_1790832790514_fqbhc7hvy
+2026-09-30T22:33:22-07:00,Population parameter,card,again,7,decks,STAT 132 Cards - Ladder 05 Parameters,decks:log_1790832802107_f8fivpm2n
+2026-09-30T22:33:51-07:00,Population parameter,card,again,29,decks,STAT 132 Cards - Ladder 05 Parameters,decks:log_1790832831631_u56j3iied
+2026-09-30T22:34:01-07:00,Population parameter,card,good,10,decks,STAT 132 Cards - Ladder 05 Parameters,decks:log_1790832841599_nuv9836sd
+2026-09-30T22:34:06-07:00,Population parameter,card,good,5,decks,STAT 132 Cards - Ladder 05 Parameters,decks:log_1790832846985_a64u3d6ft
+2026-09-30T22:34:11-07:00,Population parameter,card,good,5,decks,STAT 132 Cards - Ladder 05 Parameters,decks:log_1790832851596_l9dbxczsr
+2026-09-30T22:34:45-07:00,Population parameter,card,good,34,decks,STAT 132 Cards - Ladder 05 Parameters,decks:log_1790832885994_3r7d7i7nj
+2026-09-30T22:34:48-07:00,Population parameter,card,good,2,decks,STAT 132 Cards - Ladder 05 Parameters,decks:log_1790832888332_ccxexn8e5
+2026-09-30T22:35:00-07:00,Population parameter,card,good,12,decks,STAT 132 Cards - Ladder 05 Parameters,decks:log_1790832900827_nd4bjeeef
+2026-09-30T22:35:28-07:00,Population parameter,card,good,28,decks,STAT 132 Cards - Ladder 05 Parameters,decks:log_1790832928498_d91o1c3d4
+2026-09-30T22:35:32-07:00,Population parameter,card,hard,4,decks,STAT 132 Cards - Ladder 05 Parameters,decks:log_1790832932551_ezfhcv71c
+2026-09-30T22:35:49-07:00,Bernoulli Distribution,card,good,11,decks,STAT 132 Cards - Ladder 06 Bernoulli,decks:log_1790832949427_css4y4c1w
+2026-09-30T22:35:53-07:00,Bernoulli Distribution,card,good,5,decks,STAT 132 Cards - Ladder 06 Bernoulli,decks:log_1790832953995_ff2ub8e1d
+2026-09-30T22:35:56-07:00,Bernoulli Distribution,card,good,2,decks,STAT 132 Cards - Ladder 06 Bernoulli,decks:log_1790832956481_kk18edu9b
+2026-09-30T22:36:57-07:00,Bernoulli Distribution,card,again,61,decks,STAT 132 Cards - Ladder 06 Bernoulli,decks:log_1790833017824_nmhrb4vxt
+2026-09-30T22:37:14-07:00,Bernoulli Distribution,card,again,16,decks,STAT 132 Cards - Ladder 06 Bernoulli,decks:log_1790833034171_relxjrpb5
+2026-09-30T22:38:12-07:00,Bernoulli Distribution,card,good,58,decks,STAT 132 Cards - Ladder 06 Bernoulli,decks:log_1790833092273_j3ese4y97
+2026-09-30T22:38:42-07:00,Bernoulli Distribution,card,hard,30,decks,STAT 132 Cards - Ladder 06 Bernoulli,decks:log_1790833122405_zvk75iko9
+2026-09-30T22:39:24-07:00,Bernoulli Distribution,card,good,42,decks,STAT 132 Cards - Ladder 06 Bernoulli,decks:log_1790833164179_i7zqfpv34
+2026-09-30T22:39:51-07:00,Bernoulli Distribution,card,good,27,decks,STAT 132 Cards - Ladder 06 Bernoulli,decks:log_1790833191689_45l2dis8t
+2026-09-30T22:43:27-07:00,Bernoulli Distribution,card,again,216,decks,STAT 132 Cards - Ladder 06 Bernoulli,decks:log_1790833407591_sf7n1fa00
+2026-09-30T22:43:36-07:00,Bernoulli Distribution,card,good,8,decks,STAT 132 Cards - Ladder 06 Bernoulli,decks:log_1790833416032_i38e42d8e
+2026-09-30T22:43:43-07:00,Bernoulli Distribution,card,good,7,decks,STAT 132 Cards - Ladder 06 Bernoulli,decks:log_1790833423179_h7wiw9bzh
+2026-09-30T22:45:09-07:00,Likelihood Function,card,again,25,decks,STAT 132 Cards - Ladder 07 Likelihood,decks:log_1790833509914_1992bp8jv
+2026-09-30T22:45:28-07:00,Likelihood Function,card,again,19,decks,STAT 132 Cards - Ladder 07 Likelihood,decks:log_1790833528610_o677f3kwk
+2026-09-30T22:45:44-07:00,Likelihood Function,card,good,16,decks,STAT 132 Cards - Ladder 07 Likelihood,decks:log_1790833544947_i07bksk5p
+2026-09-30T22:45:58-07:00,Likelihood Function,card,hard,13,decks,STAT 132 Cards - Ladder 07 Likelihood,decks:log_1790833558380_n24tnuabt
+2026-09-30T22:46:08-07:00,Likelihood Function,card,good,10,decks,STAT 132 Cards - Ladder 07 Likelihood,decks:log_1790833568813_7ao70u7cd
+2026-09-30T22:46:13-07:00,Likelihood Function,card,good,4,decks,STAT 132 Cards - Ladder 07 Likelihood,decks:log_1790833573231_rfmnh75v3
+2026-09-30T22:46:41-07:00,Likelihood Function,card,again,28,decks,STAT 132 Cards - Ladder 07 Likelihood,decks:log_1790833601636_p8ubiznmb
+2026-09-30T22:47:09-07:00,Likelihood Function,card,good,28,decks,STAT 132 Cards - Ladder 07 Likelihood,decks:log_1790833630002_1kb8aqgoh
+2026-09-30T22:47:19-07:00,Likelihood Function,card,easy,9,decks,STAT 132 Cards - Ladder 07 Likelihood,decks:log_1790833639306_y1lewa0p4
+2026-09-30T22:47:32-07:00,Likelihood Function,card,good,13,decks,STAT 132 Cards - Ladder 07 Likelihood,decks:log_1790833652034_z7ujs1ehz
+2026-09-30T22:47:36-07:00,Likelihood Function,card,easy,4,decks,STAT 132 Cards - Ladder 07 Likelihood,decks:log_1790833656141_zu9ihs4gh
+2026-09-30T22:48:40-07:00,Likelihood Function,card,again,64,decks,STAT 132 Cards - Ladder 07 Likelihood,decks:log_1790833720025_1s9l0b7iz
+2026-09-30T22:48:49-07:00,Likelihood Function,card,good,9,decks,STAT 132 Cards - Ladder 07 Likelihood,decks:log_1790833729402_2amfokouh
+2026-09-30T22:49:14-07:00,Binomial Distribution,card,again,19,decks,STAT 132 Cards - Ladder 08 Binomial and Poisson,decks:log_1790833754651_v6xh08b4y
+2026-09-30T22:49:55-07:00,Binomial Distribution,card,good,5,decks,STAT 132 Cards - Ladder 08 Binomial and Poisson,decks:log_1790833795804_0vk81f8xs
+2026-09-30T22:50:19-07:00,Binomial Distribution,card,again,24,decks,STAT 132 Cards - Ladder 08 Binomial and Poisson,decks:log_1790833819378_pvk3agrb3
+2026-09-30T22:50:42-07:00,Binomial Distribution,card,again,23,decks,STAT 132 Cards - Ladder 08 Binomial and Poisson,decks:log_1790833842277_w0zu2bjdh
+2026-09-30T22:50:51-07:00,Binomial Distribution,card,again,9,decks,STAT 132 Cards - Ladder 08 Binomial and Poisson,decks:log_1790833851588_whqqyzlmy
+2026-09-30T22:51:00-07:00,Poisson Distribution,card,again,4,decks,STAT 132 Cards - Ladder 08 Binomial and Poisson,decks:log_1790833860333_jao5mtbmu
+2026-09-30T22:51:17-07:00,Factorial,card,good,6,decks,STAT 132 Cards - Ladder 08 Binomial and Poisson,decks:log_1790833877507_xf6gcic07
+2026-09-30T22:52:14-07:00,Binomial Distribution,card,good,44,decks,STAT 132 Cards - Ladder 08 Binomial and Poisson,decks:log_1790833934249_1vmx4da6c
+2026-09-30T22:52:45-07:00,Binomial Distribution,card,again,31,decks,STAT 132 Cards - Ladder 08 Binomial and Poisson,decks:log_1790833965566_xwgad3inm
+2026-09-30T22:52:56-07:00,Poisson Distribution,card,again,11,decks,STAT 132 Cards - Ladder 08 Binomial and Poisson,decks:log_1790833976605_x038usta0
+2026-09-30T22:53:16-07:00,Poisson Distribution,card,again,6,decks,STAT 132 Cards - Ladder 08 Binomial and Poisson,decks:log_1790833996861_jnqkfyffa
+2026-09-30T22:53:19-07:00,Poisson Distribution,card,again,2,decks,STAT 132 Cards - Ladder 08 Binomial and Poisson,decks:log_1790833999257_kzd11zjo3
+2026-09-30T22:53:23-07:00,Poisson Distribution,card,again,4,decks,STAT 132 Cards - Ladder 08 Binomial and Poisson,decks:log_1790834003085_6rnbcu9wb
+2026-09-30T22:53:34-07:00,Poisson Distribution,card,again,12,decks,STAT 132 Cards - Ladder 08 Binomial and Poisson,decks:log_1790834014760_xv16b1me3
+2026-09-30T22:53:50-07:00,Poisson Distribution,card,again,16,decks,STAT 132 Cards - Ladder 08 Binomial and Poisson,decks:log_1790834031009_bpqzezoy8
+2026-09-30T22:53:52-07:00,Poisson Distribution,card,again,1,decks,STAT 132 Cards - Ladder 08 Binomial and Poisson,decks:log_1790834032512_prbtu781h
+2026-09-30T22:53:53-07:00,Binomial Distribution,card,again,1,decks,STAT 132 Cards - Ladder 08 Binomial and Poisson,decks:log_1790834033718_aenu25tgz
+2026-10-01T06:22:22-07:00,Probability Notation,card,again,28,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790860942238_83bzw19vx
+2026-10-01T06:27:11-07:00,Random variable,card,again,11,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790861231146_cirbqloje
+2026-10-01T06:27:28-07:00,Random variable,card,again,18,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790861248759_wn4xj722f
+2026-10-01T06:28:39-07:00,Random variable,card,again,71,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790861319616_eb5l7dhur
+2026-10-01T06:29:15-07:00,Random variable,card,good,36,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790861355236_m126i80f7
+2026-10-01T06:29:40-07:00,Function Notation,card,again,21,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790861380863_plpbwa6nc
+2026-10-01T06:34:16-07:00,Probability Notation,card,again,276,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790861656810_ue6dawu3b
+2026-10-01T06:34:48-07:00,Probability Notation,card,again,31,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790861688291_wine94vzz
+2026-10-01T06:35:35-07:00,Probability Notation,card,good,38,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790861735250_z32vk5aaz
+2026-10-01T06:36:50-07:00,Probability Notation,card,good,1,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790861810067_3x7otcwbz
+2026-10-01T06:37:04-07:00,Probability Notation,card,good,14,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790861824151_tb2c7e845
+2026-10-01T06:38:28-07:00,Probability Notation,card,good,84,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790861908505_dl7qrz292
+2026-10-01T06:38:33-07:00,Probability Notation,card,good,5,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790861913951_s3o9fjs4r
+2026-10-01T06:38:37-07:00,Probability Notation,card,good,4,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790861917537_c7y9xxhyj
+2026-10-01T06:38:42-07:00,Probability Notation,card,good,5,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790861922862_1syl4pdre
+2026-10-01T06:38:49-07:00,Probability Notation,card,again,7,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790861929558_ur6riz7l4
+2026-10-01T06:41:17-07:00,Probability Notation,card,again,116,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790862077073_15ewmmyyq
+2026-10-01T06:42:08-07:00,Probability Notation,card,again,52,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790862128620_uth98b6ne
+2026-10-01T06:42:29-07:00,Probability Notation,card,again,21,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790862149193_q91dmvior
+2026-10-01T06:42:38-07:00,Probability Notation,card,again,10,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790862158888_17lg3mfd9
+2026-10-01T06:51:31-07:00,Probability Notation,card,good,533,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790862691704_feiyfjjie
+2026-10-01T06:51:39-07:00,Function Notation,card,good,8,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790862699271_d0gnlfvdz
+2026-10-01T06:51:41-07:00,Probability Notation,card,good,2,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790862701596_4qxwbtvve
+2026-10-01T06:51:46-07:00,Probability Notation,card,good,4,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790862706119_shcnb2kec
+2026-10-01T06:51:53-07:00,Probability Notation,card,again,2,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790862713667_tz2iqmm7i
+2026-10-01T06:52:12-07:00,Probability Notation,card,hard,19,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790862732580_eqm3k2van
+2026-10-01T06:52:20-07:00,Probability Notation,card,good,8,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790862740141_cj7olprio
+2026-10-01T06:53:58-07:00,Probability Notation,card,again,98,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790862838187_kzx8f4tn3
+2026-10-01T06:54:08-07:00,Probability Notation,card,good,10,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790862848435_t4dnx3lcq
+2026-10-01T06:54:12-07:00,Probability Notation,card,good,4,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790862852347_k2s4rf23q
+2026-10-01T06:54:18-07:00,Probability Notation,card,again,6,decks,STAT 132 Cards - Ladder 03 Notation,decks:log_1790862858604_f8wgrtogq
+2026-10-01T07:04:41-07:00,Probability density function,card,good,4,decks,STAT 132 Cards - Ladder 09 Continuous,decks:log_1790863481456_g6s40uu42
+2026-10-01T07:05:04-07:00,Probability density function,card,hard,23,decks,STAT 132 Cards - Ladder 09 Continuous,decks:log_1790863504542_j60h1cnnb
+2026-10-01T07:05:10-07:00,Probability density function,card,easy,6,decks,STAT 132 Cards - Ladder 09 Continuous,decks:log_1790863510429_03x9legz3
+2026-10-01T07:05:17-07:00,Uniform distribution,card,good,7,decks,STAT 132 Cards - Ladder 09 Continuous,decks:log_1790863517112_izck0044m
+2026-10-01T07:06:57-07:00,Uniform distribution,card,good,101,decks,STAT 132 Cards - Ladder 09 Continuous,decks:log_1790863617690_sbp8xvp7v
+2026-10-01T07:07:07-07:00,Uniform distribution,card,good,10,decks,STAT 132 Cards - Ladder 09 Continuous,decks:log_1790863627657_sti1pqfez
+2026-10-01T07:07:20-07:00,Exponential distribution,card,again,12,decks,STAT 132 Cards - Ladder 09 Continuous,decks:log_1790863640024_9n28bqa5g
+2026-10-01T07:09:00-07:00,Exponential distribution,card,again,100,decks,STAT 132 Cards - Ladder 09 Continuous,decks:log_1790863740019_3pr32abal
+2026-10-01T07:09:20-07:00,Exponential distribution,card,again,20,decks,STAT 132 Cards - Ladder 09 Continuous,decks:log_1790863760464_tpge0o1m0
+2026-10-01T07:09:44-07:00,Exponential distribution,card,again,24,decks,STAT 132 Cards - Ladder 09 Continuous,decks:log_1790863784937_zu5owl60z
+2026-10-01T07:16:41-07:00,Exponential distribution,card,again,417,decks,STAT 132 Cards - Ladder 09 Continuous,decks:log_1790864201943_bn977emv4
+2026-10-01T07:16:48-07:00,Exponential distribution,card,good,6,decks,STAT 132 Cards - Ladder 09 Continuous,decks:log_1790864208184_i6rw84m1n
+2026-10-01T07:17:23-07:00,Exponential distribution,card,again,36,decks,STAT 132 Cards - Ladder 09 Continuous,decks:log_1790864243840_iij5hn808
+2026-10-01T07:17:34-07:00,Exponential distribution,card,good,11,decks,STAT 132 Cards - Ladder 09 Continuous,decks:log_1790864254667_v928xzgfu
+2026-10-01T07:19:16-07:00,Exponential distribution,card,again,102,decks,STAT 132 Cards - Ladder 09 Continuous,decks:log_1790864356718_oz62tofvq
+2026-10-01T07:19:29-07:00,Exponential distribution,card,good,13,decks,STAT 132 Cards - Ladder 09 Continuous,decks:log_1790864369697_ykt973aa5
+2026-10-01T07:21:47-07:00,Exponential distribution,card,again,138,decks,STAT 132 Cards - Ladder 09 Continuous,decks:log_1790864507593_y0kia17gz
+2026-10-01T07:21:56-07:00,Exponential distribution,card,again,9,decks,STAT 132 Cards - Ladder 09 Continuous,decks:log_1790864516903_qu9baatbp
+2026-10-01T07:30:58-07:00,Exponential distribution,card,hard,31,decks,STAT 132 Cards - Ladder 09 Continuous,decks:log_1790865058336_rzgb5wb7c
+2026-10-01T07:31:30-07:00,Exponential distribution,card,hard,32,decks,STAT 132 Cards - Ladder 09 Continuous,decks:log_1790865090026_88iavozch
+2026-10-05T09:32:03-07:00,Population,card,good,11,decks,STAT 132 Cards - Lecture_01 Prep,decks:log_1791217923838_kim72vwfe
+2026-10-05T09:32:11-07:00,Sample in statistics,card,easy,8,decks,STAT 132 Cards - Lecture_01 Prep,decks:log_1791217931386_tec9xz91v
+2026-10-05T09:33:31-07:00,Sample in statistics,card,again,80,decks,STAT 132 Cards - Lecture_01 Prep,decks:log_1791218011396_o9q10at23
+2026-10-05T09:33:45-07:00,Probability distribution,card,again,14,decks,STAT 132 Cards - Lecture_01 Prep,decks:log_1791218025411_666gi4hdo
+2026-10-05T09:33:55-07:00,Parameters,card,again,10,decks,STAT 132 Cards - Lecture_01 Prep,decks:log_1791218035052_5ho69lyt7
+2026-10-05T09:34:09-07:00,Sample Notation,card,good,5,decks,STAT 132 Cards - Lecture_01 Prep,decks:log_1791218049522_vx847qnms
+2026-10-05T09:34:16-07:00,Sample Notation,card,good,7,decks,STAT 132 Cards - Lecture_01 Prep,decks:log_1791218056195_sqj3z8dkl
+2026-10-05T09:34:40-07:00,Sample Notation,card,again,24,decks,STAT 132 Cards - Lecture_01 Prep,decks:log_1791218080349_993x24d6w
+2026-10-05T09:34:48-07:00,Sample in statistics,card,again,8,decks,STAT 132 Cards - Lecture_01 Prep,decks:log_1791218088869_h9o8n2qmr
+2026-10-05T09:34:53-07:00,Probability distribution,card,again,5,decks,STAT 132 Cards - Lecture_01 Prep,decks:log_1791218093441_pcsrju5wb
+2026-10-05T09:34:59-07:00,Function as a Dictionary,card,again,6,decks,STAT 132 Cards - Lecture_01 Prep,decks:log_1791218099379_f2c6d3wx2
+2026-10-05T12:40:28-07:00,Axioms of Probability,card,again,64,decks,STAT 132 Cards - Lecture_01,decks:log_1791229228968_1pduhdcce
+2026-10-05T12:40:37-07:00,Conditional Probability,card,again,8,decks,STAT 132 Cards - Lecture_01,decks:log_1791229237125_focu8yf9q
+2026-10-05T12:40:40-07:00,Conditional Probability,card,again,3,decks,STAT 132 Cards - Lecture_01,decks:log_1791229240634_6r7w6jawr
+2026-10-05T12:41:09-07:00,Bayes' Rule,card,again,12,decks,STAT 132 Cards - Lecture_01,decks:log_1791229269893_ptaskrumz
+2026-10-05T12:41:14-07:00,Bayes' Rule,card,again,4,decks,STAT 132 Cards - Lecture_01,decks:log_1791229274131_jm6fd6ucl
+2026-10-05T12:46:55-07:00,Random variable,card,again,341,decks,STAT 132 Cards - Lecture_01,decks:log_1791229615138_f2ogxgsh8
+2026-10-05T12:49:37-07:00,Discrete vs Continuous Random Variable,card,easy,7,decks,STAT 132 Cards - Lecture_01,decks:log_1791229777544_1wzm0yvov
+2026-10-05T12:49:57-07:00,"PMF, PDF and CDF",card,again,20,decks,STAT 132 Cards - Lecture_01,decks:log_1791229797189_jjhbdb84v
+2026-10-05T12:53:03-07:00,"PMF, PDF and CDF",card,again,186,decks,STAT 132 Cards - Lecture_01,decks:log_1791229983374_t2cqliew2
+2026-10-05T12:53:05-07:00,"PMF, PDF and CDF",card,again,2,decks,STAT 132 Cards - Lecture_01,decks:log_1791229985908_ys6piaw2e
+2026-10-12T19:15:22-07:00,What Is Statistical Inference,drill,missed,14,app,,brain:2026-10-12T19:15:22-07:00:212987
+2026-10-12T19:15:44-07:00,What Is Statistical Inference,drill,perfect,20,app,,brain:2026-10-12T19:15:44-07:00:213157
+2026-10-12T19:15:49-07:00,What Is Statistical Inference,drill,perfect,4,app,,brain:2026-10-12T19:15:49-07:00:213185
+2026-10-12T19:18:03-07:00,Beta Distribution,card,again,2,app,,brain:2026-10-12T19:18:03-07:00:217992
+2026-10-12T19:18:08-07:00,Sample Mean and Sample Variance,card,again,2,app,,brain:2026-10-12T19:18:08-07:00:218030
+2026-10-12T19:18:25-07:00,Point Estimate vs Interval Estimate,card,again,5,app,,brain:2026-10-12T19:18:25-07:00:218136
+2026-10-12T19:18:29-07:00,Point Estimate vs Interval Estimate,card,again,4,app,,brain:2026-10-12T19:18:29-07:00:218163
+2026-10-12T19:18:37-07:00,Point Estimate vs Interval Estimate,drill,missed,7,app,,brain:2026-10-12T19:18:37-07:00:218191
+2026-10-12T19:18:43-07:00,Point Estimate vs Interval Estimate,drill,missed,5,app,,brain:2026-10-12T19:18:43-07:00:218212
+2026-10-12T19:18:48-07:00,Point Estimate vs Interval Estimate,drill,missed,4,app,,brain:2026-10-12T19:18:48-07:00:218217
+2026-10-12T19:18:57-07:00,Point Estimate vs Interval Estimate,drill,missed,8,app,,brain:2026-10-12T19:18:57-07:00:218276
+2026-10-12T19:21:05-07:00,Point Estimate vs Interval Estimate,drill,missed,128,app,,brain:2026-10-12T19:21:05-07:00:218740
+2026-10-12T19:21:09-07:00,Point Estimate vs Interval Estimate,drill,missed,2,app,,brain:2026-10-12T19:21:09-07:00:218763
+2026-10-12T19:21:25-07:00,Point Estimate vs Interval Estimate,card,good,16,app,,brain:2026-10-12T19:21:25-07:00:219073
+2026-10-12T19:21:39-07:00,Population,drill,perfect,3,app,,brain:2026-10-12T19:21:39-07:00:219136
+2026-10-12T19:21:43-07:00,Population,drill,perfect,2,app,,brain:2026-10-12T19:21:43-07:00:219153
+2026-10-12T19:21:46-07:00,Population,drill,perfect,1,app,,brain:2026-10-12T19:21:46-07:00:219155
+2026-10-12T19:21:49-07:00,Population,drill,perfect,2,app,,brain:2026-10-12T19:21:49-07:00:219168
+2026-10-12T19:22:57-07:00,Factorial,card,again,7,app,,brain:2026-10-12T19:22:57-07:00:219480
+2026-10-22T17:46:44-07:00,Unbiased Estimator,problem,solved,,assignment-view,STAT 132 Discussion 7,brain:2026-10-22T17:46:44-07:00:121247
+2026-10-22T17:46:46-07:00,Moments and Central Moments,problem,solved,,assignment-view,STAT 132 Discussion 7,brain:2026-10-22T17:46:46-07:00:121256
+2026-10-22T17:46:46-07:00,Sample Mean,problem,solved,,assignment-view,STAT 132 Discussion 7,brain:2026-10-22T17:46:46-07:00:121260

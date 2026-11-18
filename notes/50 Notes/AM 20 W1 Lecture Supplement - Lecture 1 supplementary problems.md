@@ -6,7 +6,7 @@ course: "AM 20"
 status: draft
 week: 1
 item_type: lecture-supplement
-source: "AM20/Lectures/AM20 Lecture 1 - supplementary problems.pdf"
+source: "AM20/Lectures/AM20 Lecture 01 - practice problems.pdf"
 date: 2026-09-25
 pages: 12
 problems: 16
@@ -17,7 +17,7 @@ time_debt_min: 192
 ---
 # AM 20 week 1 lecture supplement: Lecture 1 supplementary problems
 
-Lecture Supplement dated 2026-09-25. Source: `AM20/Lectures/AM20 Lecture 1 - supplementary problems.pdf`.
+Lecture Supplement dated 2026-09-25. Source: `AM20/Lectures/AM20 Lecture 01 - practice problems.pdf`.
 
 ## Done?
 Score 0 of 5. No evidence of work. Section (Mon 9/28) is where TAs go over these.

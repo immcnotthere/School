@@ -6,7 +6,7 @@ course: "STAT 132"
 status: draft
 week: 2
 item_type: discussion
-source: "STATS132/Homework and discussions/STAT132 Discussion 1 - priors and likelihoods.pdf"
+source: "STAT132/Homework and discussions/STAT132 Discussion 01 - priors and likelihoods (W25 worksheet).pdf"
 date: 2026-09-28
 pages: 1
 problems: 5
@@ -17,7 +17,7 @@ time_debt_min: 100
 ---
 # STAT 132 week 2 discussion: Discussion 1 - priors and likelihoods
 
-Discussion dated 2026-09-28. Source: `STATS132/Homework and discussions/STAT132 Discussion 1 - priors and likelihoods.pdf`.
+Discussion dated 2026-09-28. Source: `STAT132/Homework and discussions/STAT132 Discussion 01 - priors and likelihoods (W25 worksheet).pdf`.
 
 ## Done?
 Score 0 of 5. Todoist task (Q1, Q2, Q5) still open.

@@ -8,7 +8,7 @@ week: 3
 date: 2026-10-06
 lecturer: "Chenyue Hu"
 chapter: "Bekaert & Hodrick ch 8 (purchasing power parity and real exchange rates)"
-source: "70 Files/Courses/econ131/econ131-lecture04-purchasing-power-parity.pdf"
+source: "70 Files/Courses/econ131/econ131-lec04.pdf"
 status: draft
 mastery: 0
 aliases:
@@ -21,7 +21,7 @@ prereqs:
 ---
 # ECON 131 Lecture 4: Purchasing Power Parity
 
-Handout: [[econ131-lecture04-purchasing-power-parity.pdf]] (2 pages). Reading: [[ECON 131 W2 Reading - Textbook Ch 8 - Purchasing Power Parity and Real Exchange Rates]]. Midterm 1, Tue 10-20.
+Handout: [[econ131-lec04.pdf]] (2 pages). Reading: [[ECON 131 W2 Reading - Textbook Ch 8 - Purchasing Power Parity and Real Exchange Rates]]. Midterm 1, Tue 10-20.
 
 How to use this: text in quote blocks (>) is copied from the handout as closely as I can read it from the page. Anything under **Claude's explanation**, the folded answers, the tables I added and the **Fill in** lines are not in the handout. Your own class notes are left exactly as you typed them. After every folded answer and every explanation of mine there is a **My correction** box for you to overwrite me. Open the folded answers only after you've written your own.
 

@@ -6,7 +6,7 @@ course: "STAT 132"
 status: draft
 week: 2
 item_type: reading
-source: "STATS132/Readings/STAT132 Reading 02 - Frequentist and Bayesian inference, posterior (goes with Lectures 02-03).pdf"
+source: "STAT132/Readings/STAT132 Reading 02 - Frequentist and Bayesian inference, posterior (goes with Lectures 02-03).pdf"
 date: 2026-09-29
 pages: 34
 problems: 0
@@ -17,7 +17,7 @@ time_debt_min: 109
 ---
 # STAT 132 week 2 reading: Reading 02 - Frequentist and Bayesian inference, posterior
 
-Reading dated 2026-09-29. Source: `STATS132/Readings/STAT132 Reading 02 - Frequentist and Bayesian inference, posterior (goes with Lectures 02-03).pdf`.
+Reading dated 2026-09-29. Source: `STAT132/Readings/STAT132 Reading 02 - Frequentist and Bayesian inference, posterior (goes with Lectures 02-03).pdf`.
 
 ## Done?
 Score 1 of 5. Read PDF pp 1-17 (chapter 2) on 9/30; chapter 3 (pp 18-34) not read.

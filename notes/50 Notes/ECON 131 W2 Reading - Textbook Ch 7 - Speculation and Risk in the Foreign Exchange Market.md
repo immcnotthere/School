@@ -6,7 +6,7 @@ course: "ECON 131"
 status: draft
 week: 2
 item_type: reading
-source: "Econ131/Textbook/ECON131 Textbook - Bekaert and Hodrick, International Financial Management 2e.pdf" # PDF pages 237-277
+source: "ECON131/Textbook/ECON131 Textbook - Bekaert and Hodrick, International Financial Management 2e.pdf" # PDF pages 237-277
 date: 2026-09-29
 pages: 41
 problems: 0
@@ -17,7 +17,7 @@ time_debt_min: 90
 ---
 # ECON 131 week 2 reading: Textbook Ch 7 - Speculation and Risk in the Foreign Exchange Market
 
-Reading dated 2026-09-29. Source: `Econ131/Textbook/ECON131 Textbook - Bekaert and Hodrick, International Financial Management 2e.pdf`, PDF pages 237-277.
+Reading dated 2026-09-29. Source: `ECON131/Textbook/ECON131 Textbook - Bekaert and Hodrick, International Financial Management 2e.pdf`, PDF pages 237-277.
 
 ## Done?
 Score 0 of 5. No evidence.

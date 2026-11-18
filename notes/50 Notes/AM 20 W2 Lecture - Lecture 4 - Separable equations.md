@@ -6,7 +6,7 @@ course: "AM 20"
 status: draft
 week: 2
 item_type: lecture
-source: "AM20/Lectures/AM20 Lecture 4 - Separable equations.pdf"
+source: "AM20/Lectures/AM20 Lecture 04 - Separable equations.pdf"
 date: 2026-10-02
 pages: 5
 problems: 0
@@ -17,7 +17,7 @@ time_debt_min: 72
 ---
 # AM 20 week 2 lecture: Lecture 4 - Separable equations
 
-Lecture dated 2026-10-02. Source: `AM20/Lectures/AM20 Lecture 4 - Separable equations.pdf`.
+Lecture dated 2026-10-02. Source: `AM20/Lectures/AM20 Lecture 04 - Separable equations.pdf`.
 
 ## Done?
 Score 1 of 5. Lecture today; nothing after it yet.

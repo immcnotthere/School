@@ -4,7 +4,7 @@ parent: "[[AM20]]"
 domain: math
 course: "AM 20"
 status: draft
-source: "~/Documents/AM20/Homework and discussions/AM20 HW 2 (due Oct 10).pdf"
+source: "~/Documents/AM20/Homework and discussions/AM20 HW 02 (due Oct 10).pdf"
 uses:
   - "[[Integrating-Factor]]"
   - "[[Canonical Form of a First-Order Linear ODE]]"

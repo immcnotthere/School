@@ -4,7 +4,7 @@ parent: "[[STAT 132]]"
 domain: stats
 course: "STAT 132"
 status: draft
-source: "~/Documents/STATS132/Lectures/STAT132 Lecture 03 - Posterior distribution and conjugate priors.pdf"
+source: "~/Documents/STAT132/Lectures/STAT132 Lecture 03 - Posterior distribution and conjugate priors.pdf"
 ---
 # STAT 132 Lecture 3: The Posterior Distribution
 

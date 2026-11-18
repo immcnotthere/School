@@ -6,7 +6,7 @@ course: "ECON 131"
 status: draft
 week: 2
 item_type: reading
-source: "Econ131/Textbook/ECON131 Textbook - Bekaert and Hodrick, International Financial Management 2e.pdf" # PDF pages 101-132
+source: "ECON131/Textbook/ECON131 Textbook - Bekaert and Hodrick, International Financial Management 2e.pdf" # PDF pages 101-132
 date: 2026-09-29
 pages: 32
 problems: 0
@@ -17,7 +17,7 @@ time_debt_min: 36
 ---
 # ECON 131 week 2 reading: Textbook Ch 3 - Forward Markets and Transaction Exchange Risk
 
-Reading dated 2026-09-29. Source: `Econ131/Textbook/ECON131 Textbook - Bekaert and Hodrick, International Financial Management 2e.pdf`, PDF pages 101-132.
+Reading dated 2026-09-29. Source: `ECON131/Textbook/ECON131 Textbook - Bekaert and Hodrick, International Financial Management 2e.pdf`, PDF pages 101-132.
 
 ## Done?
 Score 2 of 5. 10/2: answered questions 1-7 in writing, checked claim by claim (in the econ131-ch3-questions worktree, not merged yet).

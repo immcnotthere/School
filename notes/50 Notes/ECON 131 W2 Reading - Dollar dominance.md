@@ -6,7 +6,7 @@ course: "ECON 131"
 status: draft
 week: 2
 item_type: reading
-source: "Econ131/Readings/ECON131 Reading - Dollar dominance.pdf"
+source: "ECON131/Readings/ECON131 Reading - Dollar dominance.pdf"
 date: 2026-09-29
 pages: 12
 problems: 0
@@ -17,7 +17,7 @@ time_debt_min: 35
 ---
 # ECON 131 week 2 reading: Dollar dominance
 
-Reading dated 2026-09-29. Source: `Econ131/Readings/ECON131 Reading - Dollar dominance.pdf`.
+Reading dated 2026-09-29. Source: `ECON131/Readings/ECON131 Reading - Dollar dominance.pdf`.
 
 ## Done?
 Score 0 of 5. No evidence.

@@ -6,7 +6,7 @@ course: "ECON 131"
 status: draft
 week: 2
 item_type: reading
-source: "Econ131/Textbook/ECON131 Textbook - Bekaert and Hodrick, International Financial Management 2e.pdf" # PDF pages 278-312
+source: "ECON131/Textbook/ECON131 Textbook - Bekaert and Hodrick, International Financial Management 2e.pdf" # PDF pages 278-312
 date: 2026-09-29
 pages: 35
 problems: 0
@@ -17,7 +17,7 @@ time_debt_min: 90
 ---
 # ECON 131 week 2 reading: Textbook Ch 8 - Purchasing Power Parity and Real Exchange Rates
 
-Reading dated 2026-09-29. Source: `Econ131/Textbook/ECON131 Textbook - Bekaert and Hodrick, International Financial Management 2e.pdf`, PDF pages 278-312.
+Reading dated 2026-09-29. Source: `ECON131/Textbook/ECON131 Textbook - Bekaert and Hodrick, International Financial Management 2e.pdf`, PDF pages 278-312.
 
 ## Done?
 Score 0 of 5. No evidence.

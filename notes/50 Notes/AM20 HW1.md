@@ -4,7 +4,7 @@ parent: "[[AM20]]"
 domain: math
 course: "AM 20"
 status: draft
-source: "~/Documents/AM20/Homework and discussions/AM20 HW 1 (due Oct 3).pdf"
+source: "~/Documents/AM20/Homework and discussions/AM20 HW 01 (due Oct 3).pdf"
 uses:
   - "[[Separable Equation]]"
   - "[[Initial Value Problem]]"

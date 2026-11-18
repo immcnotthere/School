@@ -6,7 +6,7 @@ course: "AM 20"
 status: draft
 week: 2
 item_type: lecture
-source: "AM20/Lectures/AM20 Lecture 3 - Four methods for first-order equations.pdf"
+source: "AM20/Lectures/AM20 Lecture 03 - Four methods for first-order equations.pdf"
 date: 2026-09-30
 pages: 7
 problems: 0
@@ -17,7 +17,7 @@ time_debt_min: 36
 ---
 # AM 20 week 2 lecture: Lecture 3 - Four methods for first-order equations
 
-Lecture dated 2026-09-30. Source: `AM20/Lectures/AM20 Lecture 3 - Four methods for first-order equations.pdf`.
+Lecture dated 2026-09-30. Source: `AM20/Lectures/AM20 Lecture 03 - Four methods for first-order equations.pdf`.
 
 ## Done?
 Score 2 of 5. Lost in lecture; on 10/2 worked one integrating-factor example with help (00 Inbox/2026-10-02 AM20 - Integrating factor lecture catch-up).

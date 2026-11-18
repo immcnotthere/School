@@ -6,7 +6,7 @@ course: "ECON 131"
 ---
 # ECON 131: International Financial Markets
 
-Text: Bekaert & Hodrick, *International Financial Management* (3rd ed. 2017; 2nd ed. also fine). Have the 2nd ed. PDF: `~/Documents/Econ131/Textbook/ECON131 Textbook - Bekaert and Hodrick, International Financial Management 2e.pdf`.
+Text: Bekaert & Hodrick, *International Financial Management* (3rd ed. 2017; 2nd ed. also fine). Have the 2nd ed. PDF: `~/Documents/ECON131/Textbook/ECON131 Textbook - Bekaert and Hodrick, International Financial Management 2e.pdf`.
 
 ## Reading tracker
 
@@ -35,8 +35,31 @@ Midterm 1 (Tue 10-20) covers chapters 1-8. Short reads tied to lectures so far: 
 ## Files (Fall 2026)
 
 - [[econ131-syllabus.pdf]]
-- [[econ131-lecture02-exchange-rates.pdf]] (notes: [[ECON 131 Lecture 2 - Exchange Rates]])
-- [[econ131-lecture03-interest-rate-parity.pdf]] (notes: [[ECON 131 Lecture 3 - Interest Rate Parity]])
+- [[econ131-lec01.pdf]] (notes: [[ECON 131 Lecture 1 - Globalization and Multinationals]])
+- [[econ131-lec02.pdf]] (notes: [[ECON 131 Lecture 2 - Exchange Rates]])
+- [[econ131-lec03.pdf]] (notes: [[ECON 131 Lecture 3 - Interest Rate Parity]])
+- [[econ131-lec04.pdf]] (notes: [[ECON 131 Lecture 4 - Purchasing Power Parity]])
+- [[econ131-lec05.pdf]] (notes: [[ECON 131 Lecture 5 - Balance of Payments]])
+- Problem set (handwritten, due Tue 10-13): [[ECON 131 Problem Set 2 - Hedging and PPP]]
+
+## Recently filed course materials
+
+- [[econ131-lec10.pdf|Lecture 10 - Stock]]
+- [[econ131-lec11.pdf|Lecture 11 - International stock markets]]
+- [[econ131-lec12.pdf|Lecture 12 - Portfolio analysis]]
+- [[econ131-exam-practice-midterm-2.pdf|Midterm 2 practice exam]]
+- [[econ131-exam-practice-midterm-2-key.pdf|Midterm 2 practice exam key]]
+
+Essay drafts and source files are in `~/Documents/ECON131/Homework and discussions/Essay 01 - drafts and sources/`.
+
+## Related slide decks
+
+- [[econ131-slides-ai-boom.pdf|AI boom]]
+- [[econ131-slides-asian-financial-crisis-1997.pdf|1997 Asian financial crisis]]
+- [[econ131-slides-cryptocurrency.pdf|Cryptocurrency]]
+- [[econ131-slides-euro-crisis.pdf|Euro crisis]]
+- [[econ131-slides-latin-american-debt-crisis.pdf|Latin American debt crisis]]
+- [[econ131-slides-usd-cny-trade-war.pdf|USD-CNY trade war]]
 
 ## Under this topic
 

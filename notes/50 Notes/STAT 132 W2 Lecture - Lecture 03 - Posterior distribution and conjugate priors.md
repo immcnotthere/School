@@ -6,7 +6,7 @@ course: "STAT 132"
 status: draft
 week: 2
 item_type: lecture
-source: "STATS132/Lectures/STAT132 Lecture 03 - Posterior distribution and conjugate priors.pdf"
+source: "STAT132/Lectures/STAT132 Lecture 03 - Posterior distribution and conjugate priors.pdf"
 date: 2026-10-01
 pages: 7
 problems: 0
@@ -17,7 +17,7 @@ time_debt_min: 48
 ---
 # STAT 132 week 2 lecture: Lecture 03 - Posterior distribution and conjugate priors
 
-Lecture dated 2026-10-01. Source: `STATS132/Lectures/STAT132 Lecture 03 - Posterior distribution and conjugate priors.pdf`.
+Lecture dated 2026-10-01. Source: `STAT132/Lectures/STAT132 Lecture 03 - Posterior distribution and conjugate priors.pdf`.
 
 ## Done?
 Score 2 of 5. 10/1 night: worked the free-throw posterior example with help through step 4 of 6.

@@ -6,7 +6,7 @@ course: "ECON 131"
 status: draft
 week: 1
 item_type: reading
-source: "Econ131/Textbook/ECON131 Textbook - Bekaert and Hodrick, International Financial Management 2e.pdf" # PDF pages 68-100
+source: "ECON131/Textbook/ECON131 Textbook - Bekaert and Hodrick, International Financial Management 2e.pdf" # PDF pages 68-100
 date: 2026-09-24
 pages: 33
 problems: 0
@@ -17,7 +17,7 @@ time_debt_min: 90
 ---
 # ECON 131 week 1 reading: Textbook Ch 2 - The Foreign Exchange Market
 
-Reading dated 2026-09-24. Source: `Econ131/Textbook/ECON131 Textbook - Bekaert and Hodrick, International Financial Management 2e.pdf`, PDF pages 68-100.
+Reading dated 2026-09-24. Source: `ECON131/Textbook/ECON131 Textbook - Bekaert and Hodrick, International Financial Management 2e.pdf`, PDF pages 68-100.
 
 ## Done?
 Score 0 of 5. 10 questions listed in your note, none answered.

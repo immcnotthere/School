@@ -4,7 +4,7 @@ parent: "[[AM20]]"
 domain: math
 course: "AM 20"
 status: draft
-source: "~/Documents/AM20/Homework and discussions/AM20 HW 8 (due Nov 21).pdf"
+source: "~/Documents/AM20/Homework and discussions/AM20 HW 08 (due Nov 21).pdf"
 uses:
   - "[[Homogeneous Linear System]]"
   - "[[Eigenvalue and Eigenvector Definition]]"

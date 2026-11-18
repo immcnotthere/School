@@ -1,0 +1,81 @@
+Forward FEX markets their use is hedging transaction exchange risk
+
+a spread is the difference between the buy price (ask) and the sell price (bid) of a currency pair
+this is larger than in the spot market due to less liquidity
+Spot market is immediate exchange
+Pip - Percentage in point
+lot size is the quantity traded
+Pips are literally just decimal points usually 4 decimal places (.1 thou)
+A move by 25 pips is a move by .0025
+Some currencies only do 2 decimal places (ten thou), in those currency pairs a movement of pips is hundreths. +25 pips would be then +.25
+Lot size determines revenue on Pip size, that is spending more for minor decimal differences scales profit. 
+
+---
+Swap rates are quoted as the number of pips that must be added to the spot bid and ask rates or subtracted from the spot rates
+
+When the 'points' (What are points here?) they are quoted with the smaller number first and when they must be subtracted they are quoted with the smaller number second
+
+The effect is that the bid-ask spread in the foreward market is always larger than the spread in teh spot market.
+
+--
+
+If the forward price of a currency is higher than the spot, that currency is trading at a forward premium e.g. ()
+If the forward price of a currency is lower than the spot price, that currency is said to be trading at a forward discount
+
+---
+
+The extent of transcation exchange risk is proportional to the (conditiaonal) volalitility of exchange rate changes. This volatilty changes over time.
+
+what is a forward exchange rate: From memory, it's a way to hedge future risk for fex-rate volatility for transactions that will occur. You pay a rate for certain loss for fear of greater uncertain loss, but risk uncertain gain. Delivery occurs on a 90-day forward contract on the 90th day where you have an obligation (not the option) to buy the currency at an agreed upon rate traditionally from a bank such that the bank should make a profit regardless relative to the price of the currency at the time of the contract's formation, It is on that day that you buy presumably more currency than your base currency would buy after 90-days successfully allowing you to have hedged the risk, however, it could be that your currency could be able to now buy the same or more not less, making the forward a loss for you. Alternatively, you could have guessed correctly, and the bank takes a loss having sold an asset (in currency) for less than it's worth (i.e. the dollar could buy 100 yen 90 days ago, but now it can buy 90 yen. The bank forwards at 95 even tho it is losing 5 yen relative to the spot rate price because of this trade.)
+
+If the yen is selling at a premium relative to the euro in the forward market...
+first that means that the yen's forward price to buy euros is buying fewer euros (higher price) in the long term than the spot (immediate ex) rate would. That means that it would be wiser to wait to see if you could buy at a discount (lower price) more euros per yen as that would mean you're effectively guarenteeing a profit by buying more currency for less.
+..., is the forward price of EUR per JPY larger or smaller than the spot price of EUR per JPY?"
+As discussed if selling at a premium EUR buys fewer JPY, so the forward price is larger than the spot price of EUR per JPY.
+
+Expected future spot rate, would be the expectation (not mathematical avg here) of the immediate rate of currency exchange in the future.
+
+The amount of the probability distribution of future spot rates between +- 2 stdev are 95% assuming no voltalitility. If volatility is included the probabibility becomes conditional, and thus non-normal in distribution requiring different probability distribution models. That said the books suggest we are okay to treat prices in the standard case,
+
+"Armed with the conditional mean and conditional standard deviation of the future ex-
+change rate, we can determine the probability that the future exchange rate will fall within
+any given range of exchange rates. For example, for the normal distribution, slightly more
+than two-thirds, or 68.27%, of the probability distribution is within plus or minus 1 standard
+deviation of the mean. In our example, this range is from
+$1.47>£ = $1.53>£ - $0.06>£
+to
+$1.59>£ = $1.53>£ + $0.06>£
+Consequently, the area under the curve between the two vertical lines emanating from $1.47>£
+and $1.59>£ represents 68.27% of the total area. Also, for the normal distribution, 95.45% of
+the probability distribution is within plus or minus 2 standard deviations of the mean. Thus,
+the range of future exchange rates that encompasses all but 4.55% of the future possible val-
+ues of dollar–pound exchange rates is $1.41>£ to $1.65>£."
+
+ergo all but 4.55% will live within 2stdev and by the LLN that concentrated reality will only further ossify as more data gathers.
+
+---
+
+5
+
+---
+
+If I am a US firm and I owe 10mil JPY in 180 days my transaction exchange risk can be calculated in two ways depending on my certaintiy.
+
+If I am certain that the currency will change by X% over the next 180 days than I can calculate the realized cost in 180 days as S(t+180,$/JPY) x (10mil JPY) (THIS FUNCTION DOESNT MAKE SENSE TO ME WHY IS IT TAKING TIME+180 and EXCHANGE RATE? What is the internal transofmration in S? In our equation we do (1.5/EUR) * (1+.02) which is not the two values that S takes in. Our result from that S is we get 1.53/EUR) so idk how that happens with t+90 but hey) 
+
+Alternatively if there is uncertaintiy (which irl there is), then we must speak about uncertain values, and thus probabibilities. A primary finding is that in for major floating currencies a normal probability distribution is a reasonable description of monthly percentage changes. It is a very poor description of emergent market currencies however (this is why many peg to other currencies). As is shown in the book, the examples of our ignorance are statistical statements about samples of past behavior. For those major currencies the dist. is roughly normal, for emergeing economies the dist. has a 'fat taik' or leptokurtosis
+
+We see that future exchange spot rates as well are calculated using the aforementioned equation via S(t)
+
+but now looking into S(t) we see S(t+90)=S(t) * [1+ s(t+90)], where s(t+90) denotes percentage
+
+I'm skipping this, you claude can fill in the details after.
+NEXT QUESTION
+---
+A spot forward swap is...
+When banks give up each other's home (whatever the currency they normally trade in) currency and gain the other currency for the period of time of the swap. If there is a high interest currency (likely to appreciate in value (evaluate)) then less money is given as they will receive equivalent value simiarlly more is given for the low interest rate currency in a new data called "basis points"? the end effect is one party pays less currency in anticipation of future rates which pay the full amount and the other party the converse (or is it inverse? can you make a card on that?).
+
+---
+What is a forward–forward swap?
+I can't find it in the book but I presume a situation where both parties forward a currency in anticipation of both currencies at obligation's termination paying them out the correct amount corresponding with the risk assessed payout of each currency relative to the predicted future spot price.
+---

@@ -1,0 +1,55 @@
+ts,node,kind,outcome,seconds,source,note,ref
+2026-09-30T18:54:29-07:00,Function,card,good,46,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790819669813_jynzn9ydv
+2026-09-30T19:02:08-07:00,Function,card,good,12,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790820128276_atln34m6c
+2026-09-30T19:02:12-07:00,Function,card,good,4,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790820132349_hpam6rv1b
+2026-09-30T19:02:16-07:00,Function,card,good,4,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790820136264_2atnbvrcq
+2026-09-30T19:02:27-07:00,Function,card,good,12,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790820147985_q2ks8qw1p
+2026-09-30T19:02:56-07:00,Function,card,good,29,decks,STAT 132 Cards - Ladder 02 Random Variables,decks:log_1790820176731_bnkc2wm8b
+2026-10-12T14:07:47-07:00,Basic Derivative Formulas,drill,perfect,12,panel,,brain:2026-10-12T14:07:47-07:00:0
+2026-10-12T20:03:17-07:00,Verifying a Solution to an ODE,problem,solved,800,report,Worked problems 1 to 9 of Lecture1-supp-problems,report:20261012-200317:0
+2026-10-12T20:03:17-07:00,Independent vs Dependent Variable,problem,solved,800,report,Worked problems 1 to 9 of Lecture1-supp-problems,report:20261012-200317:1
+2026-10-12T20:03:17-07:00,Initial Value Problem,problem,solved,800,report,Worked problems 1 to 9 of Lecture1-supp-problems,report:20261012-200317:2
+2026-10-12T20:03:17-07:00,Terminal Velocity,problem,solved,800,report,Worked problems 1 to 9 of Lecture1-supp-problems,report:20261012-200317:3
+2026-10-12T20:03:17-07:00,Equilibrium Solution,problem,solved,800,report,Worked problems 1 to 9 of Lecture1-supp-problems,report:20261012-200317:4
+2026-10-12T20:03:17-07:00,Autonomous vs Non-Autonomous ODE,problem,solved,800,report,Worked problems 1 to 9 of Lecture1-supp-problems,report:20261012-200317:5
+2026-10-12T20:03:17-07:00,Constant Coefficient ODE,problem,solved,800,report,Worked problems 1 to 9 of Lecture1-supp-problems,report:20261012-200317:6
+2026-10-12T20:03:17-07:00,Separable Equation,problem,solved,800,report,Worked problems 1 to 9 of Lecture1-supp-problems,report:20261012-200317:7
+2026-10-12T20:03:17-07:00,Order of a Differential Equation,problem,solved,800,report,Worked problems 1 to 9 of Lecture1-supp-problems,report:20261012-200317:8
+2026-10-13T12:32:56-07:00,Wronskian,problem,solved,,daily 2026-10-13,Lecture 8: computed a Wronskian; W=0 read as dependent,brain:2026-10-13T12:32:56-07:00:256916
+2026-10-13T12:32:56-07:00,Linear Independence,problem,hint,,daily 2026-10-13,"Lecture 8: knows W=0 means dependent, shaky on why",brain:2026-10-13T12:32:56-07:00:256919
+2026-10-13T12:32:56-07:00,Fundamental Set of Solutions,problem,hint,,daily 2026-10-13,"Lecture 8: worked the definition, intuitive only",brain:2026-10-13T12:32:56-07:00:256922
+2026-10-13T12:32:56-07:00,Abels Formula,problem,failed,,daily 2026-10-13,"Lecture 8 problem 9 eq 5: does not know Abel's theorem, why only p enters, why the minus sign",brain:2026-10-13T12:32:56-07:00:256924
+2026-10-13T12:32:57-07:00,Integrating-Factor,problem,hint,,daily 2026-10-13,Confuses mu=e^(int p) with Abel's e^(-int p),brain:2026-10-13T12:32:57-07:00:256926
+2026-10-14T17:16:19-07:00,Canonical Form of a First-Order Linear ODE,problem,solved,975,report,Worked problems 1 to 1 of HW2,report:20261014-171619:0
+2026-10-14T17:16:19-07:00,Integrating-Factor,problem,solved,975,report,Worked problems 1 to 1 of HW2,report:20261014-171619:1
+2026-10-14T17:16:19-07:00,Initial Value Problem,problem,solved,975,report,Worked problems 1 to 1 of HW2,report:20261014-171619:2
+2026-10-14T17:16:19-07:00,Constant-Coefficient Linear ODE General Solution,problem,solved,975,report,Worked problems 1 to 1 of HW2,report:20261014-171619:3
+2026-10-14T17:16:19-07:00,Homogeneous Equation (First Order),problem,solved,975,report,Worked problems 1 to 1 of HW2,report:20261014-171619:4
+2026-10-14T17:16:19-07:00,Linear ODE,problem,solved,975,report,Worked problems 1 to 1 of HW2,report:20261014-171619:5
+2026-10-14T17:16:19-07:00,Differential Equation,problem,solved,975,report,Worked problems 1 to 1 of HW2,report:20261014-171619:6
+2026-10-14T17:16:19-07:00,ODE,problem,solved,975,report,Worked problems 1 to 1 of HW2,report:20261014-171619:7
+2026-10-14T17:17:09-07:00,Canonical Form of a First-Order Linear ODE,problem,solved,780,report,Worked problems 1 to 1 of HW2,report:20261014-171709:0
+2026-10-14T17:17:09-07:00,Integrating-Factor,problem,solved,780,report,Worked problems 1 to 1 of HW2,report:20261014-171709:1
+2026-10-14T17:17:09-07:00,Initial Value Problem,problem,solved,780,report,Worked problems 1 to 1 of HW2,report:20261014-171709:2
+2026-10-14T17:17:09-07:00,Constant Coefficient ODE,problem,solved,780,report,Worked problems 1 to 1 of HW2,report:20261014-171709:3
+2026-10-14T17:17:09-07:00,Linear ODE,problem,solved,780,report,Worked problems 1 to 1 of HW2,report:20261014-171709:4
+2026-10-14T17:17:09-07:00,Separation of Variables,problem,solved,780,report,Worked problems 1 to 1 of HW2,report:20261014-171709:5
+2026-10-14T17:17:09-07:00,Differential Equation,problem,solved,780,report,Worked problems 1 to 1 of HW2,report:20261014-171709:6
+2026-10-14T17:17:09-07:00,Homogeneous Equation (First Order),problem,solved,780,report,Worked problems 1 to 1 of HW2,report:20261014-171709:8
+2026-10-14T17:17:09-07:00,Antiderivative,problem,solved,780,report,Worked problems 1 to 1 of HW2,report:20261014-171709:9
+2026-10-18T13:44:53-07:00,Differential Equation,problem,solved,,chat 2026-10-18,"Did all of AM 20 Lecture 1 (Ex 1-7, supp P1-P16); self-report in chat, no misses named",brain:2026-10-18T13:44:53-07:00:72504
+2026-10-18T13:44:53-07:00,Verifying a Solution to an ODE,problem,solved,,chat 2026-10-18,"Did all of AM 20 Lecture 1 (Ex 1-7, supp P1-P16); self-report in chat, no misses named",brain:2026-10-18T13:44:53-07:00:72506
+2026-10-18T13:44:54-07:00,Chain Rule,problem,solved,,chat 2026-10-18,"Did all of AM 20 Lecture 1 (Ex 1-7, supp P1-P16); self-report in chat, no misses named",brain:2026-10-18T13:44:54-07:00:72508
+2026-10-18T13:44:54-07:00,Independent vs Dependent Variable,problem,solved,,chat 2026-10-18,"Did all of AM 20 Lecture 1 (Ex 1-7, supp P1-P16); self-report in chat, no misses named",brain:2026-10-18T13:44:54-07:00:72510
+2026-10-18T13:44:54-07:00,Order and Variables of an ODE,problem,solved,,chat 2026-10-18,"Did all of AM 20 Lecture 1 (Ex 1-7, supp P1-P16); self-report in chat, no misses named",brain:2026-10-18T13:44:54-07:00:72513
+2026-10-18T13:44:54-07:00,Second Law of Motion,problem,solved,,chat 2026-10-18,"Did all of AM 20 Lecture 1 (Ex 1-7, supp P1-P16); self-report in chat, no misses named",brain:2026-10-18T13:44:54-07:00:72515
+2026-10-18T13:44:55-07:00,Equilibrium Solution,problem,solved,,chat 2026-10-18,"Did all of AM 20 Lecture 1 (Ex 1-7, supp P1-P16); self-report in chat, no misses named",brain:2026-10-18T13:44:55-07:00:72519
+2026-10-18T13:44:55-07:00,Asymptotic Stability,problem,solved,,chat 2026-10-18,"Did all of AM 20 Lecture 1 (Ex 1-7, supp P1-P16); self-report in chat, no misses named",brain:2026-10-18T13:44:55-07:00:72521
+2026-10-18T13:44:55-07:00,Terminal Velocity,problem,solved,,chat 2026-10-18,"Did all of AM 20 Lecture 1 (Ex 1-7, supp P1-P16); self-report in chat, no misses named",brain:2026-10-18T13:44:55-07:00:72523
+2026-10-18T13:44:56-07:00,Initial Value Problem,problem,solved,,chat 2026-10-18,"Did all of AM 20 Lecture 1 (Ex 1-7, supp P1-P16); self-report in chat, no misses named",brain:2026-10-18T13:44:56-07:00:72525
+2026-10-18T13:44:56-07:00,Separation of Variables,problem,solved,,chat 2026-10-18,"Did all of AM 20 Lecture 1 (Ex 1-7, supp P1-P16); self-report in chat, no misses named",brain:2026-10-18T13:44:56-07:00:72527
+2026-10-18T13:44:56-07:00,General Solution,problem,solved,,chat 2026-10-18,"Did all of AM 20 Lecture 1 (Ex 1-7, supp P1-P16); self-report in chat, no misses named",brain:2026-10-18T13:44:56-07:00:72536
+2026-10-18T13:44:57-07:00,Bisection Method,problem,solved,,chat 2026-10-18,"Did all of AM 20 Lecture 1 (Ex 1-7, supp P1-P16); self-report in chat, no misses named",brain:2026-10-18T13:44:57-07:00:72539
+2026-10-18T17:36:04-07:00,Order of a Differential Equation,problem,solved,,brain,,brain:2026-10-18T17:36:04-07:00:162113
+2026-10-18T17:36:05-07:00,Linear ODE,problem,solved,,brain,,brain:2026-10-18T17:36:05-07:00:162114
+2026-10-18T17:37:08-07:00,Linear ODE,problem,solved,,brain,"skipped, logged on request",brain:2026-10-18T17:37:08-07:00:162383

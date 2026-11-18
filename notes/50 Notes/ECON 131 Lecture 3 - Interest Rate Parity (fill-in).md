@@ -4,7 +4,7 @@ parent: "[[ECON 131 Lecture 3 - Interest Rate Parity]]"
 domain: econ
 course: "ECON 131"
 lecture: 3
-source: "70 Files/Courses/econ131/econ131-lecture03-interest-rate-parity.pdf"
+source: "70 Files/Courses/econ131/econ131-lec03.pdf"
 status: draft
 prereqs:
   - "[[Spot vs Forward Contract]]"
@@ -13,7 +13,7 @@ prereqs:
 ---
 # ECON 131 Lecture 3: Interest Rate Parity (fill-in)
 
-Handout: [[econ131-lecture03-interest-rate-parity.pdf]] (2 pages). Full worked notes: [[ECON 131 Lecture 3 - Interest Rate Parity]]. Midterm 1, Tue 10-20.
+Handout: [[econ131-lec03.pdf]] (2 pages). Full worked notes: [[ECON 131 Lecture 3 - Interest Rate Parity]]. Midterm 1, Tue 10-20.
 
 How to use this: text in quote blocks (>) is copied from the handout as closely as I can read it from the page. Anything under **Claude's explanation**, the folded answers, the tables I added and the **Fill in** lines are not in the handout. Your own class notes are left exactly as you typed them. After every folded answer and every explanation of mine there is a **My correction** box for you to overwrite me. Open the folded answers only after you've written your own.
 

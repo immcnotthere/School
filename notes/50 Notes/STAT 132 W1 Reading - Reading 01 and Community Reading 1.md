@@ -6,7 +6,7 @@ course: "STAT 132"
 status: draft
 week: 1
 item_type: reading
-source: "STATS132/Readings/STAT132 Reading 01 - Probability and the logic of inference (goes with Lecture 01).pdf"
+source: "STAT132/Readings/STAT132 Reading 01 - Probability and the logic of inference (goes with Lecture 01).pdf"
 date: 2026-09-28
 pages: 25
 problems: 0
@@ -17,7 +17,7 @@ time_debt_min: 80
 ---
 # STAT 132 week 1 reading: Reading 01 and Community Reading 1
 
-Reading dated 2026-09-28. Source: `STATS132/Readings/STAT132 Reading 01 - Probability and the logic of inference (goes with Lecture 01).pdf`.
+Reading dated 2026-09-28. Source: `STAT132/Readings/STAT132 Reading 01 - Probability and the logic of inference (goes with Lecture 01).pdf`.
 
 ## Done?
 Score 1 of 5. Annotation submitted on time but skimmed.

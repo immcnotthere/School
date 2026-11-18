@@ -6,7 +6,7 @@ course: "AM 20"
 status: draft
 week: 2
 item_type: hw
-source: "AM20/Homework and discussions/AM20 HW 1 (due Oct 3).pdf"
+source: "AM20/Homework and discussions/AM20 HW 01 (due Oct 3).pdf"
 date: 2026-10-03
 pages: 1
 problems: 7
@@ -17,7 +17,7 @@ time_debt_min: 105
 ---
 # AM 20 week 2 hw: HW 1
 
-HW dated 2026-10-03. Source: `AM20/Homework and discussions/AM20 HW 1 (due Oct 3).pdf`.
+HW dated 2026-10-03. Source: `AM20/Homework and discussions/AM20 HW 01 (due Oct 3).pdf`.
 
 ## Done?
 Score 0 of 5. Todoist tasks for Q1-Q5 still open. Due Sat 10/3 (open all Saturday).

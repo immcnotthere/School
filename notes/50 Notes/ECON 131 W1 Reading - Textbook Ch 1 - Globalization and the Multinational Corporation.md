@@ -6,7 +6,7 @@ course: "ECON 131"
 status: draft
 week: 1
 item_type: reading
-source: "Econ131/Textbook/ECON131 Textbook - Bekaert and Hodrick, International Financial Management 2e.pdf" # PDF pages 33-67
+source: "ECON131/Textbook/ECON131 Textbook - Bekaert and Hodrick, International Financial Management 2e.pdf" # PDF pages 33-67
 date: 2026-09-24
 pages: 35
 problems: 0
@@ -17,7 +17,7 @@ time_debt_min: 14
 ---
 # ECON 131 week 1 reading: Textbook Ch 1 - Globalization and the Multinational Corporation
 
-Reading dated 2026-09-24. Source: `Econ131/Textbook/ECON131 Textbook - Bekaert and Hodrick, International Financial Management 2e.pdf`, PDF pages 33-67.
+Reading dated 2026-09-24. Source: `ECON131/Textbook/ECON131 Textbook - Bekaert and Hodrick, International Financial Management 2e.pdf`, PDF pages 33-67.
 
 ## Done?
 Score 3 of 5. All 13 end-of-chapter questions answered with quotes; problem 1 started; about 1.5 hours.
