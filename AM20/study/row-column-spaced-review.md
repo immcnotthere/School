@@ -131,3 +131,16 @@ Since \(e^{-2t}\) varies with time, there is no fixed constant \(c\) with \(g=cf
 **Next H/J drill:** Given two explicitly supplied solution vectors \(\mathbf x^{(1)}(t)=[e^t,0]^T\), \(\mathbf x^{(2)}(t)=[0,e^{-t}]^T\), form the matrix with those vectors as *columns*, then compute its determinant as a function of \(t\). After that, interpret nonzero for all \(t\). Ask one step at a time and do not show the solution beforehand.
 
 **Coverage reminder:** Superposition and dependence understood on scalar examples; vector-system proof and Wronskian application still need demonstrations. Avoid treating “we covered Wronskians” as entire-topic mastery.
+
+
+## Lecture 18.2 — Flagged concept: solution space (2026-11-18)
+
+**New atomic checkpoint H22 (in progress, NOT passed):** Explain what the "solution space" consists of, what the elements are, what scalars are, what operations mean, and what "span" means in this context.
+
+**Student's own account:** "solution space" intuitively makes sense, but isn't tractable beyond "a space (set with operations ... almost always here the reals) where each point on the reals that can be reached by the sol. set is reachable with just these vectors and scalar multiples thereof." The insightful part is recognizing a space closed under linear combinations and a spanning collection. The gap is confusing **solutions as entire functions** with the **real-valued outputs those functions attain**. Preserve that distinction in future testing; don't substitute formal vector-space jargon without motivating it.
+
+**Precise minimal definition:** Given a homogeneous linear differential equation/system, its solution space is the **set of all entire functions** \(\mathbf x:I\to\mathbb R^n\) that satisfy the system on an interval \(I\). Addition and multiplication by real constants are performed **pointwise on those functions**. Thus the elements of the solution space are functions, not individual real points, even though at a fixed time \(t_0\), their values lie in \(\mathbb R^n\). A fundamental set is a basis of this function space: linearly independent solution functions whose constant-coefficient combinations produce every solution function.
+
+**Teaching sequence:** (1) Identify whether an object is an entire function or its value at a specific time; (2) distinguish \(\mathbb R^n\) (state space) and solution space (functions/trajectories); (3) verify pointwise function addition; (4) give one example showing that solutions span the space; (5) ask student to state the difference in their own words. Only then assess H22 as passed in-session; schedule a separate cold retest.
+
+**Additional evidence from preceding exchange:** Student computed the function-valued Wronskian \(\det\operatorname{diag}(e^t,e^{-t})=1\), correctly answered that constant \(W=5\) means independence, and defined a fundamental set in terms of independence and span. They momentarily said \(W=1\) implied dependence but corrected on immediate retest. J10 should remain in progress pending independent construction, general interpretation, and delayed recall.
