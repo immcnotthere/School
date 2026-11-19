@@ -132,3 +132,9 @@ Log **answer receipt time** in America/Los_Angeles, not the GitHub save time. In
 At the Nov 18 audit: **170 atomic checks**, 10 passed in-session, 5 cold retests due, 6 in progress, 149 unassessed. Do **not** compare the 5.9% atomic in-session tally to the older ~8% Brain/FSRS estimate as though they measured the same thing.
 
 Reference: [Nov 18 audit](session-2026-11-18-lecture18-audit.md), [timestamped record](attempt-log-2026-11-18.csv), [current tracker](final-atomic-checkpoints.csv), [memorization prompts](row-column-spaced-review.md).
+
+## K. November 19 — Problem 4 eigenvector error (cold retest required)
+
+While solving A = [[3,-2],[2,-2]], the student correctly found eigenvalues r=2 and r=-1 but repeatedly reversed the component relationship when translating (A-rI)xi=0 into a column vector. For r=-1, A+I=[[4,-2],[2,-1]], so 4xi_1-2xi_2=0 gives xi_2=2xi_1. Choosing xi_1=1 yields (1,2)^T; (2,1)^T fails direct substitution. Also confused r=-1 with r=+1 when forming A-rI, initially obtaining [[2,-2],[2,-3]]. For r=2, xi_1=2xi_2 gives (2,1)^T, not (1,2)^T. Student specifically identified this as a likely exam point loss and requested later review. **Do not mark mastered.** Cold quiz: (1) form A-rI for a negative eigenvalue, (2) independently rearrange a new homogeneous row equation, (3) write ordered vector components, (4) verify (A-rI)xi=0. Avoid intervening hints.
+
+**Progress:** Problem 3 deferred; Problem 4 characteristic polynomial and eigenvectors completed with guidance; now beginning general-solution substitution x(t)=c_1 xi^(1)e^(2t)+c_2 xi^(2)e^(-t), not yet independently completed. Exact answer timestamps unavailable; recorded on 2026-11-19 (America/Los_Angeles).
