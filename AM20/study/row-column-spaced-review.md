@@ -91,3 +91,30 @@ Given x(t)=[u(t),v(t)]ᵀ and P=[[1,-4],[3,2]], write both scalar derivative equ
 5. Recognize linear dependence \(g=3f\); then investigate a pair not related by constant multiplication. Test independence and fundamental sets only after notation is clear.
 
 **Mastery rule:** Credit current in-session scalar proof but retain H16/H17 as in-progress for the actual systems theorem; do not award full Lecture 18.2 mastery until vector proof and delayed independent retrieval.
+
+
+## Memorization bundle — Lecture 18.2: linear independence by ratio (2026-11-18; session)
+
+**Why this is being drilled:** Distinguish a constant multiple (dependent solutions) from a time-varying ratio (independent functions). This is preparatory for fundamental sets and the Wronskian, not evidence of mastered systems theory.
+
+**Rule to retrieve from memory:** For two functions \(f,g\), where \(f\neq0\) on the interval, ask whether \(g(t)/f(t)\) is **one constant for every \(t\)**. If so, \(g=cf\) and the pair is linearly dependent. If the ratio changes with \(t\), they cannot be constant multiples and are linearly independent. This quick ratio test is for a pair of scalar functions; later, use determinant/Wronskian for systems of vector solutions.
+
+**Worked pair, exactly as taught:**
+\[
+f(t)=e^t,\qquad g(t)=e^{-t},\qquad
+\frac{g(t)}{f(t)}=\frac{e^{-t}}{e^t}=e^{-2t}.
+\]
+Since \(e^{-2t}\) varies with time, there is no fixed constant \(c\) with \(g=cf\) for all \(t\), so \(f\) and \(g\) are linearly independent.
+
+**Contrast:** If \(f(t)=e^t\), \(g(t)=3e^t\), then \(g/f=3\), constant, so they are linearly dependent.
+
+**Student evidence:** Correctly said the ratio changes, also observed \(\ln f=-\ln g\), which is true for this positive pair but does **not** prove dependence. Correctly substituted \(c_1=2,c_2=-3\) into \(y=c_1e^t+c_2e^{-t}\) to obtain \(y=2e^t-3e^{-t}\). Recognition correct in-session; **no cold retrieval tested**.
+
+### Spaced memorization prompts (ask one at a time, without displaying the answer)
+1. For \(f=e^t\) and \(g=e^{-t}\), calculate \(g/f\). Why does its dependence on \(t\) settle the test?
+2. For \(f=e^{2t}\) and \(g=7e^{2t}\), are the two functions linearly dependent? Name the constant.
+3. For \(f=e^{2t}\) and \(g=e^{-3t}\), determine independence using only the ratio.
+4. Explain why \(\ln f=-\ln g\) is **not** evidence that \(g=cf\) for some constant \(c\).
+5. If \(y=c_1e^t+c_2e^{-t}\), substitute \(c_1=2,\ c_2=-3\) correctly and describe what the constants do.
+
+**Scheduling:** First future cold review after a delay, then on a later day with new coefficients. Timestamp each actual attempt, record independent/guided correctness, and do not mark cold mastery without successful recall. Keep separate from superposition theorem proof and from fundamental matrix/ Wronskian criteria.
