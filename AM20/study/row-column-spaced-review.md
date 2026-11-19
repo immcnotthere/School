@@ -159,3 +159,8 @@ System \(x_1'=x_1,\ x_2'=-x_2\); candidate \(\mathbf x(t)=[e^t,e^{-t}]^T\).
 Ask: “To check whether this vector *solves* the system, what must we substitute or compare?” Wait for student explanation before doing arithmetic. Then independently verify both equations and explain “for every \(t\).” Later ask a near-miss candidate to test rejection, and ask student to reconstruct the precise phrase “homogeneous linear system of differential equations” in plain English.
 
 **Status:** H23 **in progress**, not passed. User asks direct oral quiz; do not replace with long multiple-choice drill or assume the earlier Wronskian computation establishes solution verification.
+
+## Session audit and time provenance (2026-11-18)
+- [Full day-level learning review](session-2026-11-18-lecture18-audit.md).
+- [Event log with date/time quality](attempt-log-2026-11-18.csv). Exact timestamps in this file's original entries typically reflect approximate lesson moments or GitHub commits; they are **not** verified exact student-answer times. Next review must record answer time directly.
+- Later in the session, student correctly computed W(t)=-5e^t for a nontrivial pair of solution vectors and correctly distinguished one particular solution from the general solution. J10 and H23 remain in progress until independent full verification and retention.
