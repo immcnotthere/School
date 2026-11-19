@@ -69,3 +69,25 @@ Given x(t)=[u(t),v(t)]ᵀ and P=[[1,-4],[3,2]], write both scalar derivative equ
 - **New counted atomic checkpoint H21:** Translate `x_i'=a(t)x_1+b(t)x_2` aloud, identifying whose rate is on the left, whose present values are on the right, and the signs of the two contributions.
 - Guided answers for `x_1'=3x_1+2x_2` and `x_2'=-x_1-0.125x_2` showed partial understanding but confusion between state variables and “inverse correlation” phrasing. **Status: in progress; not passed.**
 - [Read the full saved lesson and drilling instructions](lecture18-reading-systems-notation.md) before the next tutoring session. Prioritize this fluency check before jumping to superposition/eigenvalues.
+
+
+## Lecture 18.2 — Superposition and dependence (observed 2026-11-18, around 17:57 PST)
+
+**Theorem in plain language:** If two vector functions solve the same homogeneous linear system, any constant-weighted sum of them also solves that system. Superscript labels \(x^{(1)}\), \(x^{(2)}\) name whole solution vectors, unlike subscripts \(x_1,x_2\), which name their components.
+
+**Evidence and limits:** Student independently differentiated \(3e^{2t}\) to get \(6e^{2t}\), recognized the equality \(y'=2y\), and independently reconstructed the scalar proof for \(h=3f+2g\), \(f'=4f\), \(g'=4g\): \(h'=3(4f)+2(4g)=4h\). Ask to write the intermediate factorization \(4(3f+2g)\). This is a **scalar in-session pass**, not a demonstration of vector/matrix superposition or delayed mastery. H16 and H17 remain in progress in the atomic register pending vector transfer and cold testing.
+
+**Student's definition:** A combination of functions inherits a property of its constituent functions. Refine to: a **linear combination** inherits the specific property of **solving the same homogeneous linear equation**, not every property.
+
+**Misconception to drill:** Student predicted superposition would still work for \(f'=4f+1,\ g'=4g+1\) because "you just added a constant." Counterexample \(h=f+g\) gives \(h'=4h+2\), not \(4h+1\). Difference \(f-g\) has derivative \(4(f-g)\): the forcing cancels, so it solves the associated homogeneous equation, *not* the original nonhomogeneous equation. Student explicitly requested more intuition and slower symbol-reading rather than more superficial repetition.
+
+**Dependence check, after introducing fundamental sets:** For \(f=e^t\) and \(g=3e^t\), student independently answered \(g=3f\). **Passed recognition in-session**, but not cold-retained. Explain these two functions are linearly dependent because one is a constant multiple of the other. Next step: contrast \(e^t\) and \(e^{-t}\) without assuming their independence is obvious.
+
+### Next one-at-a-time drills
+1. Explain the words "linear combination" and "same homogeneous linear system" without algebra.
+2. For \(h=2f-g\), \(f'=3f\), \(g'=3g\), derive \(h'=3h\) without hints, showing the factorization.
+3. For \(f'=3f+2,\ g'=3g+2\), find the exact differential equation satisfied by \(h=f+g\), and explain why it is not the original.
+4. Move from scalar \(f,g\) to 2-component solution **vectors**, clearly distinguishing solution labels \(x^{(1)}\) from component labels \(x_1\).
+5. Recognize linear dependence \(g=3f\); then investigate a pair not related by constant multiplication. Test independence and fundamental sets only after notation is clear.
+
+**Mastery rule:** Credit current in-session scalar proof but retain H16/H17 as in-progress for the actual systems theorem; do not award full Lecture 18.2 mastery until vector proof and delayed independent retrieval.
