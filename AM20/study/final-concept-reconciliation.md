@@ -34,8 +34,8 @@
 ## Reconciled evidence from Nov 18
 | Status | Number | Interpretation |
 |---|---:|---|
-| unassessed_at_atomic_level | 152 | No atomic evidence reconciled; may have older course-level reps |
-| passed_in_session | 9 | Student produced correct independent answer in session; not yet cold retained |
+| unassessed_at_atomic_level | 149 | No atomic evidence reconciled; may have older course-level reps |
+| passed_in_session | 10 | Student produced correct independent answer in session; not yet cold retained |
 | cold_retest_due | 5 | Correct or improved in session; needs delayed recall |
 | in_progress | 2 | Prompt open; no earned pass yet |
 
@@ -55,3 +55,5 @@ Complete the scaling and superposition proof in Lecture 18, cold-retake row-colu
 
 ## Named gaps in the generator
 The Brain vault's upstream concept collection should eventually be updated with the eight missing umbrella nodes plus finer-grained dependency nodes; the sync script's existing prerequisite closure will then incorporate them. Re-run the local `sync.py` for a regenerated `PROGRESS.md` instead of editing generated outputs here.
+
+**2026-11-18 evening update (Lecture 18.2):** The atomic ledger is now **10 session passes / 168 checkpoints = 5.95% (~6.0%)**, 5 cold retests due, 4 in progress, and 149 unassessed. Student independently calculated a 2×2 determinant as −2 and interpreted nonzero as column independence: G08 marked passed in session; J10 (time-dependent Wronskian for a fundamental set) remains in progress. Scalar superposition proof practiced but H16/H17 remain in progress for vector/matrix generalization and delayed retrieval. This is an *in-session skill tally*, not a cold-retention mastery estimate or a replacement for legacy 8% FSRS. See [timestamped drill log](row-column-spaced-review.md).
