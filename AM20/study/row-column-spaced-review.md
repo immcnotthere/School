@@ -144,3 +144,18 @@ Since \(e^{-2t}\) varies with time, there is no fixed constant \(c\) with \(g=cf
 **Teaching sequence:** (1) Identify whether an object is an entire function or its value at a specific time; (2) distinguish \(\mathbb R^n\) (state space) and solution space (functions/trajectories); (3) verify pointwise function addition; (4) give one example showing that solutions span the space; (5) ask student to state the difference in their own words. Only then assess H22 as passed in-session; schedule a separate cold retest.
 
 **Additional evidence from preceding exchange:** Student computed the function-valued Wronskian \(\det\operatorname{diag}(e^t,e^{-t})=1\), correctly answered that constant \(W=5\) means independence, and defined a fundamental set in terms of independence and span. They momentarily said \(W=1\) implied dependence but corrected on immediate retest. J10 should remain in progress pending independent construction, general interpretation, and delayed recall.
+
+
+## Lecture 18.2 — H23: What does it mean to solve a system? (2026-11-18)
+
+**Explicit student questions:** “two-dimensional homogeneous linear system nothing about that said differential?” and “what does it mean to say both vectors solve the same system, what is solving the system? Can you quiz me on that and push this confusion to the knowledge repo”.
+
+**Terminology correction:** On its own, “two-dimensional homogeneous linear system” is ambiguous: it might refer to *algebraic* linear equations, among other systems. In this AM 20 lesson the intended precise phrase is **two-dimensional homogeneous linear system of first-order differential equations**, typically \(\mathbf x'(t)=P(t)\mathbf x(t)\). Be explicit rather than silently inferring the word “differential.”
+
+**Meaning of a solution:** A proposed solution is an entire vector-valued *function of time*, e.g. \(\mathbf x(t)=[f(t),g(t)]^T\), that makes **each equation in the system true after substituting its components and their derivatives**, on the stated time interval. This is not “solving for the matrix,” producing one output number, or merely finding independent vectors. Two solutions to the *same* system are two potentially different time-dependent vector functions which individually satisfy the same collection of differential equations. Independence and Wronskian are separate questions; determinant nonzero alone does not show a function solves the system.
+
+**Initial low-load oral quiz (one question at a time):**
+System \(x_1'=x_1,\ x_2'=-x_2\); candidate \(\mathbf x(t)=[e^t,e^{-t}]^T\).
+Ask: “To check whether this vector *solves* the system, what must we substitute or compare?” Wait for student explanation before doing arithmetic. Then independently verify both equations and explain “for every \(t\).” Later ask a near-miss candidate to test rejection, and ask student to reconstruct the precise phrase “homogeneous linear system of differential equations” in plain English.
+
+**Status:** H23 **in progress**, not passed. User asks direct oral quiz; do not replace with long multiple-choice drill or assume the earlier Wronskian computation establishes solution verification.
