@@ -118,3 +118,16 @@ Since \(e^{-2t}\) varies with time, there is no fixed constant \(c\) with \(g=cf
 5. If \(y=c_1e^t+c_2e^{-t}\), substitute \(c_1=2,\ c_2=-3\) correctly and describe what the constants do.
 
 **Scheduling:** First future cold review after a delay, then on a later day with new coefficients. Timestamp each actual attempt, record independent/guided correctness, and do not mark cold mastery without successful recall. Keep separate from superposition theorem proof and from fundamental matrix/ Wronskian criteria.
+
+
+## Lecture 18.2 — Wronskian entry check (2026-11-18, evening PST)
+
+**Prompt shown:** Compute the determinant of the 2×2 matrix with rows \([1,2]\) and \([3,4]\), then interpret nonzero as independence.
+
+**Independent student answer:** “-2 so lin ind.” Correct: \(W=\det\begin{bmatrix}1&2\\3&4\end{bmatrix}=1\cdot4-2\cdot3=-2\neq0\). Thus its two column vectors are linearly independent.
+
+**Assessment distinction:** G08 (calculate a 2×2 determinant) **passed in session**. J10 (Wronskian/determinant test for a time-dependent fundamental set) **in progress**; a constant numerical matrix is an entry-level prerequisite, not full independent computation and interpretation of the Wronskian \(W(t)\) of actual solution vectors throughout an interval. No delayed/cold retention measured.
+
+**Next H/J drill:** Given two explicitly supplied solution vectors \(\mathbf x^{(1)}(t)=[e^t,0]^T\), \(\mathbf x^{(2)}(t)=[0,e^{-t}]^T\), form the matrix with those vectors as *columns*, then compute its determinant as a function of \(t\). After that, interpret nonzero for all \(t\). Ask one step at a time and do not show the solution beforehand.
+
+**Coverage reminder:** Superposition and dependence understood on scalar examples; vector-system proof and Wronskian application still need demonstrations. Avoid treating “we covered Wronskians” as entire-topic mastery.
