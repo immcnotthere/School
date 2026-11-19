@@ -47,3 +47,19 @@ Given x(t)=[u(t),v(t)]ᵀ and P=[[1,-4],[3,2]], write both scalar derivative equ
 ## Link to final skills tracker
 - [Atomic checklist](final-atomic-checkpoints.csv) (167 individually testable operations)
 - [Reconciled scope and original 121-node graph](final-concept-reconciliation.md)
+
+## Conceptual Step 04a — General vs autonomous systems (logged 2026-11-18 15:56 PST; approximate session timestamp)
+- **General / potentially time-dependent system:** \(\mathbf{x}'=\mathbf F(t,\mathbf x)\). The rule may depend explicitly on time \(t\) as well as the current state \(\mathbf x\). Example: \(x'=tx+x^2\).
+- **Autonomous system:** \(\mathbf{x}'=\mathbf F(\mathbf x)\). The rule does **not** explicitly contain time. Example: \(x'=x^2\). Its solution \(x(t)\) can still change over time.
+- **Vector shorthand:** \(\mathbf x=[x_1,\ldots,x_n]^T\); writing \(F(t,x_1,\ldots,x_n)\) lists each component of the state, while \(F(t,\mathbf x)\) abbreviates them.
+- **Nuance:** \(F(t,\mathbf x)\) is a notation broad enough to include autonomous rules; the mere appearance of \(t\) in an argument list does not prove that a particular rule explicitly depends on time.
+- **Observed learning need:** User asked why the textbook wrote \(t,x_1,\ldots\) instead of just \(x\), then asked whether “general” and “autonomous” needed memorization. Explained that recognizing explicit time dependence matters, but the terminology is not yet a priority.
+- **Status:** introduced/explained, **not independently tested**; do not mark passed or mastered. Prioritize conceptual recognition over jargon.
+
+### Step 04a timestamped retrieval drill
+1. **2026-11-18 15:56 PST — introduction, not a scored attempt.** Ask: In \(x'=t+x^2\), does the rule explicitly depend on time? Why?
+2. **Next cold attempt (timestamp when answered):** Compare \(x'=2x\) with \(x'=tx\). Which is autonomous? What does \(t\) change?
+3. **Later cold attempt (timestamp when answered):** Explain in one sentence why \(x'=F(x)\) may still have a changing \(x(t)\).
+4. **Notation check (timestamp when answered):** If \(\mathbf x=[x_1,x_2]^T\), rewrite \(F(t,x_1,x_2)\) using vector shorthand.
+
+**Scoring:** Record exact attempt time, response, correctness, hint level, and next review due date. Only count an independent correct response as a pass; require a later cold retest for retention.
