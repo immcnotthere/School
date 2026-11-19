@@ -22,3 +22,8 @@ The GitHub connector currently supports text writes and Git blobs, but this sess
 - A status of `Mastered` means solving the skill unaided.
 - 0: unknown; 1: follow explanation; 2: solve with hints; 3: independent.
 - Mark skills by ID (`CN-07`, `L09-04`, etc.). Topic Checklist feeds the Lecture View and Overview tabs.
+
+## Dated study audits and evidence
+- [November 18 session audit](session-2026-11-18-lecture18-audit.md) — chronological concept map, precise timestamp provenance, skill results, and ten-problem worksheet inventory.
+- [November 18 structured attempt log](attempt-log-2026-11-18.csv) — 21 sortable event rows, with explicit distinction between answer times, approximate times, and GitHub save times.
+- [Current atomic checklist](final-atomic-checkpoints.csv) — live statuses for 170 atomic checkpoints, as of the November 18 evening session.
