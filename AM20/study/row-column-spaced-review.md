@@ -45,7 +45,8 @@ Given x(t)=[u(t),v(t)]ᵀ and P=[[1,-4],[3,2]], write both scalar derivative equ
 - **Status: zero-solution substep passed; constant-scaling/sum proof in progress.**
 
 ## Link to final skills tracker
-- [Atomic checklist](final-atomic-checkpoints.csv) (167 individually testable operations)
+- [Atomic checklist](final-atomic-checkpoints.csv) (168 individually testable operations)
+- [Lecture 18 Equations (3)–(5), notation-reading lesson + H21 retrieval drill](lecture18-reading-systems-notation.md)
 - [Reconciled scope and original 121-node graph](final-concept-reconciliation.md)
 
 ## Conceptual Step 04a — General vs autonomous systems (logged 2026-11-18 15:56 PST; approximate session timestamp)
@@ -63,3 +64,8 @@ Given x(t)=[u(t),v(t)]ᵀ and P=[[1,-4],[3,2]], write both scalar derivative equ
 4. **Notation check (timestamp when answered):** If \(\mathbf x=[x_1,x_2]^T\), rewrite \(F(t,x_1,x_2)\) using vector shorthand.
 
 **Scoring:** Record exact attempt time, response, correctness, hint level, and next review due date. Only count an independent correct response as a pass; require a later cold retest for retention.
+
+## Step 04b — Equation-reading fluency (2026-11-18, ~16:56 PST)
+- **New counted atomic checkpoint H21:** Translate `x_i'=a(t)x_1+b(t)x_2` aloud, identifying whose rate is on the left, whose present values are on the right, and the signs of the two contributions.
+- Guided answers for `x_1'=3x_1+2x_2` and `x_2'=-x_1-0.125x_2` showed partial understanding but confusion between state variables and “inverse correlation” phrasing. **Status: in progress; not passed.**
+- [Read the full saved lesson and drilling instructions](lecture18-reading-systems-notation.md) before the next tutoring session. Prioritize this fluency check before jumping to superposition/eigenvalues.
