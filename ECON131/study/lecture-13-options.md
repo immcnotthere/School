@@ -88,6 +88,12 @@ Plot three connected parts: descending line ending at (50,0); flat from (50,0) t
 
 ## Lesson 3 — Put-call parity (European, same K and T)
 
+> **Core interpretation to review:** “Put-call parity establishes that these two ways of obtaining the same financial outcome must have equal costs today, under the model's assumptions.”
+
+**The two ways:** (1) buy a call and invest enough today to have the strike price at expiration; (2) buy one share today and a protective put with the same strike and expiration. Both end with the greater of the stock price and the strike price. The investment on the call side is a separate **pot of money**; it is not the price of the call or a reduction of the contractual strike.
+
+**Active recall:** Without looking at the equation, explain what is owned on each side, what happens when the stock finishes above versus below the strike, and why identical payoffs imply equal initial costs under no-arbitrage assumptions.
+
 **C_0 + PV(K) = P_0 + S_0**.
 
 Reason: at maturity, call + risk-free amount K yields max(S_T,K). Put + stock yields the same max(S_T,K) in every state. If equivalent future payoffs have unequal initial prices, there is arbitrage (under simplifying assumptions such as no dividends/transaction costs).
