@@ -104,6 +104,18 @@ Example: S=50, K=50, r=5%, one year, put P=5: C = 5 + 50 - 50/1.05 = $7.3810.
 
 ## Lesson 4 — Five factors
 
+> **FINAL EXAM WATCHLIST — MULTIPLE CHOICE (student-flagged, 2026-11-19).** Review this as a likely MCQ topic: identify all five factors and predict which way call and put values move when one factor increases, holding the others fixed. This is the student's exam-priority note, not an independently verified professor announcement.
+
+| Factor increases | Call value | Put value |
+|---|---|---|
+| Underlying stock price | Up | Down |
+| Strike / exercise price | Down | Up |
+| Time to expiration | Generally up | Generally up, with qualifications |
+| Stock-price volatility | Up | Up |
+| Risk-free interest rate | Generally up | Generally down |
+
+**MCQ recall trigger:** *Stock up → call up; strike up → put up; volatility up → both up; interest up → call up; more time → generally more valuable.* For time and interest-rate effects, assumptions (European versus American exercise, dividends) matter; do not turn the heuristics into unconditional laws.
+
 The handout lists stock price, exercise price, time to expiration, volatility, risk-free rate.
 
 **Extension; usual comparative statics for otherwise identical vanilla options:** higher share price helps calls / hurts puts; higher strike hurts calls / helps puts; greater volatility generally increases both calls and puts; higher risk-free rate generally raises calls / lowers puts; time effects usually favor options but American/European exercise and dividends can create qualifications, especially for puts.
