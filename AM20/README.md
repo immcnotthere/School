@@ -29,3 +29,8 @@ Do not hand-edit generated `PROGRESS.md`, `progress.csv`, or `reps.csv`: `sync.p
 - [Nov 18 study audit and concept map](study/session-2026-11-18-lecture18-audit.md) / [sortable timestamped event log](study/attempt-log-2026-11-18.csv).
 
 **Progress at handoff (Nov 18 audit):** 170 atomic checks: 10 session passes, 5 cold retests due, 6 in progress, 149 unassessed. These are distinct from the legacy Brain/FSRS readiness calculations. Future independent answers must be timestamped when given, not inferred from commit times.
+
+## Lecture 19 — mandatory restart entry (Nov 20 audit)
+
+- **[START HERE: Lecture 19 learner-specific audit and ranked checkpoints](study/LECTURE19_REVIEW_REGISTER.md)** — 16 atomic review targets, eigenvector/complex/generalized-eigenvector explanations, and a quick origin-classification decision tree. **Read this before any future Lecture 19 instruction; do not assume mastery from prior walkthroughs.**
+- [Lecture 19 to-do queue (Nov 21, 1:00–2:30 PM)](study/LECTURE19_TODO.md) — drills Problems 4–10 with cold checks and unresolved P9–P10 work. Todoist was not connected at the time of writing.
