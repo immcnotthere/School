@@ -36,3 +36,10 @@ The GitHub connector currently supports text writes and Git blobs, but this sess
 - [Lecture 18 supplementary problem index and answer checks](LECTURE18_SUPPLEMENT_REFERENCE.md) — all 10 professor problems mapped to checking results; answer key is not assessed mastery.
 - [Full Nov 18 audit](session-2026-11-18-lecture18-audit.md) and [21-event log](attempt-log-2026-11-18.csv) — dated learning map, evidence and reliable timestamp provenance.
 - [Atomic checkpoint tracker](final-atomic-checkpoints.csv) — 170 current skills; 10 in-session passes, 5 cold retests due, 6 in progress, 149 unassessed as of last audited session.
+
+## Lecture 19 — START HERE (November 20 audit)
+
+**[Lecture 19 ranked review register and phase-plane decision tree](LECTURE19_REVIEW_REGISTER.md)** — 16 numbered checkpoints mapping Problems 1–10 to current blockers. **Always read before a Lecture 19 study session; Problems 4, 6–10 require special attention and no cold mastery is recorded.**
+
+- [Saturday November 21, 1:00–2:30 PM study queue and Todoist-ready task](LECTURE19_TODO.md) — 90-minute timed drill plus unresolved P9/P10 backlog.
+- Source: [Lecture 19 practice PDF](../files/lectures/AM20%20Lecture%2019%20-%20practice%20problems.pdf).
