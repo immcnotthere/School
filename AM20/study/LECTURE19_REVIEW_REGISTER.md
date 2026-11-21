@@ -12,6 +12,33 @@ The bottleneck is the map **eigenvalues/eigenvectors → independent real soluti
 
 **Do not conflate:** solving an eigenvalue problem, obtaining two independent real solutions, proving they solve x' = Ax, and classifying the origin.
 
+## Learner's original comments — directly quoted and marked
+
+These are **verbatim excerpts of the November 20 spoken reflection**, not corrected mathematical assertions. Each is linked to a numbered review checkpoint below. **The original full message is not reproduced here**; the table makes the learner's own wording visible so future sessions can distinguish what was said from the teaching interpretation.
+
+| Worksheet / theme | Learner's own words (verbatim excerpt) | Marked review checkpoint / evidence |
+| --- | --- | --- |
+| Phase-plane intuition | “one value usually is quite prominent and speeds towards the origin and the other one is really quite slow.” | **R06, R07 — RETEST:** distinguish modal decay rates; not a universal rule |
+| Complex prerequisite | “At the top I have complex conjugate. That's something I need to study.” | **R04 — RETEST** |
+| P4 | “R1 suffices as R1 has no new information. That's something that definitely I would not know status quo.” | **R05 — PRIORITY:** why conjugate information is redundant for a real basis |
+| P5 / complex procedure | “if I see a complex value that I should immediately use Euler's formula to substitute it in, eliminate the imaginary part of the solution and then have only the real solutions present.” | **R04–R05 — RETEST:** method recognized, understanding of independent solutions incomplete; mathematically refine, don't erase learner wording |
+| P5 / significance | “The significance and the reason behind why we need those two values, I would not be able to articulate” | **R05 — PRIORITY:** two real solution functions, not two newly created eigenvalues |
+| P5 / classification | “Origin classification, alpha equals minus one. So it's stable asymptotic and spiraled. I have no idea what that says. Wind around and shrink towards it.” | **R07–R08 — PRIORITY:** translate technical labels into trajectory behavior |
+| P6 / generalized vector | “Also generalized eigenvector. I presume that's a method that's introduced in lecture 19 or one that we're supposed to remember from AM 10.” | **R09–R10 — PRIORITY:** recognize one-eigenvector defective case |
+| P6 / verification | “And so far as the generalized eigenvector, we solve for it and then we should verify it by differentiating.” | **R11 — REDO:** direct product-rule proof of x'=Ax |
+| P6 / revisit | “So I definitely recover and review problem 6.” | **R09–R11 — REDO** |
+| P7 | “Problem 7, definitely circle back on that. That one did not make a lick of sense to me.” | **R12 — REDO:** no presumed understanding |
+| P7 / specific algebra | “the fact that we got the eigenvalue of 3.” | **R12 — REDO:** check exact worksheet; find derivation, not a guessed factor |
+| P8 | “number 8 is just a fantastic review for the final” | **R13 — PRIORITY:** parameter-sensitive classification |
+| P9–P10 | “For 9 and 10, I won't pretend that 10 makes a ton of sense to me. And I've just left it and 9 I've left as well to really go through rigorously.” | **R15–R16 — NOT ASSESSED:** full independent solutions still due |
+| Independence wording | “one independent eigenvector. This language confuses me.” | **R09, R14 — PRIORITY:** independence vs. orthogonality |
+| Transpose | “A transpose for shorthand for verticality.” | **R14 — STUDY:** correct interpretation is row/column interchange; perpendicularity from dot product zero |
+| Row-sum cue | “The row sum trick or the finding of constant row sum or the finding of eigenvalues by inspection” | **R03 — RETEST:** show precisely when inspection is legitimate |
+| Product rule speed | “It would be good to throw in the product rule on top of that. Just was a little slow to it.” | **R02, R11 — RETEST** |
+| P8 / complex separation | “bringing around with complex values. I and separating the real and the imaginary part.” | **R04–R05, R13 — RETEST:** carry complex-to-real method into parameter cases |
+
+**Instruction for subsequent tutoring:** Before starting Lecture 19, read the quoted learner comments and the ranked register; address the exact named misunderstandings. Ask for cold derivations rather than recording a walkthrough as independent mastery. Do not overwrite these quotes with a cleaned-up mathematical paraphrase.
+
 ## Numbered practice queue — ranked by conceptual complexity
 
 Each item needs an **unaided, explained** response before marking complete. Lower ranks are prerequisites, not automatically mastered.
