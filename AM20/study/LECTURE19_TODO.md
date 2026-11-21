@@ -1,6 +1,6 @@
 # AM 20 — Lecture 19 follow-up queue (2026-11-21)
 
-> **Scheduled study recommendation:** Saturday, November 21, 2026, **1:00–2:30 PM PST (America/Los_Angeles)**. Based on calendar check Nov 20: 8:00 AM–12:00 PM aspirational build block, sleep 10:00 PM–6:00 AM; 1–2:30 PM had no listed event. **This is a recommended block, not a confirmed Todoist task or calendar event.**
+> **Scheduled in Todoist:** Saturday, November 21, 2026, **1:00–2:30 PM PST (America/Los_Angeles)**, School → AM 20, priority P1. Primary calendar has a planned 8:00 AM–12:00 PM build block and no timed event during 1:00–2:30 PM. The all-day Small Assignments calendar entry is **AM 20 HW8 due Nov 21**, a deadline rather than a timed study meeting. **This is a Todoist task, not a new Google Calendar event.**
 >
 > **Primary study context:** [LECTURE19_REVIEW_REGISTER.md](LECTURE19_REVIEW_REGISTER.md), ranked checkpoints **L19-R01 through L19-R16**.
 
@@ -23,14 +23,15 @@
 - [ ] Interleave cold no-hint versions with altered coefficients, negative signs, awkward trig terms and complex values; do not mark a skill mastered after one assisted example.
 - [ ] Reconcile independently observed scores into the AM 20 source-of-truth tracker instead of editing generated CSV/PROGRESS snapshots.
 
-## Ready-to-create Todoist task
+## Confirmed Todoist tasks — created 2026-11-20
 
-**Title:** AM 20 — Lecture 19 phase-plane / eigenvalue review (P4–P10)
+School project → **AM 20** section; confirmed creation of all four tasks:
 
-**Due:** Sat Nov 21, 2026, 1:00 PM PST
+1. **L19 90-minute diagnostic** — **2026-11-21 at 1:00 PM PST**, duration 90m, P1; task ID `6j3x5MF946cF9Gv4`. Problems 4–8, cold checks on R01–R14 and triage P9–P10.
+2. **L19 Problem 9 rigorous solution** — unscheduled backlog, P2; task ID `6j3x5MFf4c2JFvm4` (R15).
+3. **L19 Problem 10 rigorous solution** — unscheduled backlog, P2; task ID `6j3x5MCr6cXmMH64` (R16).
+4. **L19 classification flashcard recall** — unscheduled backlog, P3; task ID `6j3x5MM6c83WFR24` (R06–R08, R14).
 
-**Duration suggestion:** 90 minutes
+The P9/P10 tasks are intentionally **not marked completed** when the 90-minute diagnostic ends. The rank-specific evidence and next-step rules are in [LECTURE19_REVIEW_REGISTER.md](LECTURE19_REVIEW_REGISTER.md); every future L19 session should consult it first.
 
-**Description:** Cold-test eigenvector scaling, product rule, conjugates and Euler; P4–5 real solutions + origin classification; P6 generalized eigenvector η and verify x'=Ax; P7 explain factor 3; P8 parameter cases; first passes at P9–10. Start in https://github.com/immcnotthere/School/blob/main/AM20/study/LECTURE19_REVIEW_REGISTER.md . No assisted answer counted as mastered.
-
-**Connection state:** Todoist was not connected during this Nov 20 audit; this queue is saved in the School repository, **not** claimed as a Todoist task.
+**Calendar caveat:** HW8 is due the same Saturday, so protect submission time and reschedule this review if the homework is incomplete.
