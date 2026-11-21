@@ -4,7 +4,7 @@
 >
 > Audit recorded **2026-11-20** from the learner's spoken post-practice reflection. This class lecture had **not yet been formally covered** when these observations were recorded. The original worksheet is at [Lecture 19 practice problems](../files/lectures/AM20%20Lecture%2019%20-%20practice%20problems.pdf). Problem-specific notes below are based on learner recall, not a line-by-line transcription of the PDF; verify exact matrices and wording on resumption.
 >
-> **Next review target:** Saturday **2026-11-21, 1:00–2:30 p.m. PST**, subject to the learner's calendar. Session plan and checkbox queue: [LECTURE19_TODO.md](LECTURE19_TODO.md).
+> **Next review target (Todoist confirmed):** Saturday **2026-11-21, 1:00–2:30 p.m. PST**, School → AM 20, P1 task `6j3x5MF946cF9Gv4`. The all-day HW8 due date is also November 21. Session plan, four confirmed Todoist tasks, and checkbox queue: [LECTURE19_TODO.md](LECTURE19_TODO.md).
 
 ## Primary diagnosis
 
