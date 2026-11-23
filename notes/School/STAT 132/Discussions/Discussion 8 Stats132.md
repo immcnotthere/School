@@ -21,17 +21,19 @@ created: 2026-11-22
 ---
 # Discussion 8 Stats132
 
+[[Discussions Stats132|All discussions]] · [[Discussion 7 Stats132|Previous discussion]] · [[Discussion 9 Stats132|Next discussion]]
+
 **Source:** [Discussion 8 W25 worksheet](https://github.com/immcnotthere/School/blob/main/STAT132/files/homework/STAT132%20Discussion%2008%20%28W25%20worksheet%29.pdf). Prompts preserve the source's mathematical task, but are typeset afresh for readable Obsidian Markdown.
 
 **Method:** Start with the prompt (without reading the solution), identify the first applicable cue, follow the Mermaid branch, and solve. The concept links in each cue table point to existing notes or intentionally unresolved Obsidian notes for future creation. **Nothing is marked complete until an independent attempt is reported.**
 
 | Question | Focus | Status |
 |---|---|---|
-| [[#Problem 1 — Power and level of exponential threshold test|1]] | Power and level of exponential threshold test | ☐ Not assessed |
-| [[#Problem 2 — Power and level of Uniform-maximum test|2]] | Power and level of Uniform-maximum test | ☐ Not assessed |
-| [[#Problem 3 — Two-sided Normal test rejection threshold|3]] | Two-sided Normal test rejection threshold | ☐ Not assessed |
-| [[#Problem 4 — Power increasing in Normal mean and 5% cutoff|4]] | Power increasing in Normal mean and 5% cutoff | ☐ Not assessed |
-| [[#Problem 5 — Neyman–Pearson test for two exponential rates|5]] | Neyman–Pearson test for two exponential rates | ☐ Not assessed |
+| [[#Problem 1 — Power and level of exponential threshold test\|1]] | Power and level of exponential threshold test | ☐ Not assessed |
+| [[#Problem 2 — Power and level of Uniform-maximum test\|2]] | Power and level of Uniform-maximum test | ☐ Not assessed |
+| [[#Problem 3 — Two-sided Normal test rejection threshold\|3]] | Two-sided Normal test rejection threshold | ☐ Not assessed |
+| [[#Problem 4 — Power increasing in Normal mean and 5% cutoff\|4]] | Power increasing in Normal mean and 5% cutoff | ☐ Not assessed |
+| [[#Problem 5 — Neyman–Pearson test for two exponential rates\|5]] | Neyman–Pearson test for two exponential rates | ☐ Not assessed |
 
 ---
 
@@ -75,6 +77,8 @@ flowchart TD
 
 **Failure-trace hook:** None observed yet. On an actual attempt, mark the *first* broken S-step, the exact general prerequisite skill, the cue missed, and the student's complete unedited words in the embedded log. Do not infer an FSRS rep from reading the walkthrough.
 
+**Next task:** [[#Problem 2 — Power and level of Uniform-maximum test|Problem 2]].
+
 ---
 
 ## Problem 2 — Power and level of Uniform-maximum test
@@ -116,6 +120,8 @@ flowchart TD
 **Answer checkpoint:** piecewise power and level .75^n.
 
 **Failure-trace hook:** None observed yet. On an actual attempt, mark the *first* broken S-step, the exact general prerequisite skill, the cue missed, and the student's complete unedited words in the embedded log. Do not infer an FSRS rep from reading the walkthrough.
+
+**Next task:** [[#Problem 3 — Two-sided Normal test rejection threshold|Problem 3]].
 
 ---
 
@@ -159,6 +165,8 @@ flowchart TD
 
 **Failure-trace hook:** None observed yet. On an actual attempt, mark the *first* broken S-step, the exact general prerequisite skill, the cue missed, and the student's complete unedited words in the embedded log. Do not infer an FSRS rep from reading the walkthrough.
 
+**Next task:** [[#Problem 4 — Power increasing in Normal mean and 5% cutoff|Problem 4]].
+
 ---
 
 ## Problem 4 — Power increasing in Normal mean and 5% cutoff
@@ -201,6 +209,8 @@ flowchart TD
 
 **Failure-trace hook:** None observed yet. On an actual attempt, mark the *first* broken S-step, the exact general prerequisite skill, the cue missed, and the student's complete unedited words in the embedded log. Do not infer an FSRS rep from reading the walkthrough.
 
+**Next task:** [[#Problem 5 — Neyman–Pearson test for two exponential rates|Problem 5]].
+
 ---
 
 ## Problem 5 — Neyman–Pearson test for two exponential rates
@@ -242,6 +252,8 @@ flowchart TD
 **Answer checkpoint:** reject for sum Xi sufficiently small.
 
 **Failure-trace hook:** None observed yet. On an actual attempt, mark the *first* broken S-step, the exact general prerequisite skill, the cue missed, and the student's complete unedited words in the embedded log. Do not infer an FSRS rep from reading the walkthrough.
+
+**Next task:** [[Discussion 9 Stats132|Discussion 9]].
 
 ---
 
