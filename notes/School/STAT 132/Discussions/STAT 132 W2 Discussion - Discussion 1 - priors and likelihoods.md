@@ -42,3 +42,4 @@ Each problem, with how it starts:
 
 ## Links
 - Hub: [[2026-10-02 Catch-up inventory - weeks 1-2]]
+- Worked problems, Mermaid flows, prerequisite map, and failure trace: [[STAT 132 Discussion 1 - Worked Solutions, Decision Trees, and Skill Traces]]
