@@ -21,17 +21,19 @@ created: 2026-11-22
 ---
 # Discussion 4 Stats132
 
+[[Discussions Stats132|All discussions]] · [[Discussion 3 Stats132|Previous discussion]] · [[Discussion 5 Stats132|Next discussion]]
+
 **Original:** [Discussion 4 W25 worksheet](https://github.com/immcnotthere/School/blob/main/STAT132/files/homework/STAT132%20Discussion%2004%20%28W25%20worksheet%29.pdf). Rephrased mathematical prompts and solutions below are anchored to this worksheet. The worksheet is from Winter 2025; the study work is in 2026.
 
 **How to study:** Hide each worked solution, attempt unaided, and find the *first* Mermaid step that stalls. The cue table points to reusable Obsidian concept notes; unresolved `[[wikilinks]]` are suggestions for missing notes. All 5 problems start **not assessed**. Reading solutions is not a completed attempt.
 
 | Problem | Topic | Status |
 |---|---|---|
-| [[#Problem 1 — Uniform maximum sample-size guarantee|1]] | Uniform maximum sample-size guarantee | ☐ Not assessed |
-| [[#Problem 2 — Normal mean mean-square precision|2]] | Normal mean mean-square precision | ☐ Not assessed |
-| [[#Problem 3 — Normal mean 95% probability precision|3]] | Normal mean 95% probability precision | ☐ Not assessed |
-| [[#Problem 4 — Sampling CDF of exponential rate MLE|4]] | Sampling CDF of exponential rate MLE | ☐ Not assessed |
-| [[#Problem 5 — Bernoulli mean uniform MSE bound|5]] | Bernoulli mean uniform MSE bound | ☐ Not assessed |
+| [[#Problem 1 — Uniform maximum sample-size guarantee\|1]] | Uniform maximum sample-size guarantee | ☐ Not assessed |
+| [[#Problem 2 — Normal mean mean-square precision\|2]] | Normal mean mean-square precision | ☐ Not assessed |
+| [[#Problem 3 — Normal mean 95% probability precision\|3]] | Normal mean 95% probability precision | ☐ Not assessed |
+| [[#Problem 4 — Sampling CDF of exponential rate MLE\|4]] | Sampling CDF of exponential rate MLE | ☐ Not assessed |
+| [[#Problem 5 — Bernoulli mean uniform MSE bound\|5]] | Bernoulli mean uniform MSE bound | ☐ Not assessed |
 
 ---
 ## Problem 1 — Uniform maximum sample-size guarantee
@@ -73,6 +75,8 @@ flowchart TD
 **When to stop:** minimum n is 29.
 
 **Attempt record:** Not assessed; no learner failure or time has been inferred. At the next actual attempt record: `problem=P1`, the first stalled `step=S#`, the general prerequisite `node`, the observed outcome, and the learner's *exact original words* in quotes. Distinguish a cue-recognition miss from a calculation miss.
+
+**Next task:** [[#Problem 2 — Normal mean mean-square precision|Problem 2]].
 
 ---
 
@@ -116,6 +120,8 @@ flowchart TD
 
 **Attempt record:** Not assessed; no learner failure or time has been inferred. At the next actual attempt record: `problem=P2`, the first stalled `step=S#`, the general prerequisite `node`, the observed outcome, and the learner's *exact original words* in quotes. Distinguish a cue-recognition miss from a calculation miss.
 
+**Next task:** [[#Problem 3 — Normal mean 95% probability precision|Problem 3]].
+
 ---
 
 ## Problem 3 — Normal mean 95% probability precision
@@ -157,6 +163,8 @@ flowchart TD
 **When to stop:** minimum n is 1537.
 
 **Attempt record:** Not assessed; no learner failure or time has been inferred. At the next actual attempt record: `problem=P3`, the first stalled `step=S#`, the general prerequisite `node`, the observed outcome, and the learner's *exact original words* in quotes. Distinguish a cue-recognition miss from a calculation miss.
+
+**Next task:** [[#Problem 4 — Sampling CDF of exponential rate MLE|Problem 4]].
 
 ---
 
@@ -204,6 +212,8 @@ flowchart TD
 
 **Attempt record:** Not assessed; no learner failure or time has been inferred. At the next actual attempt record: `problem=P4`, the first stalled `step=S#`, the general prerequisite `node`, the observed outcome, and the learner's *exact original words* in quotes. Distinguish a cue-recognition miss from a calculation miss.
 
+**Next task:** [[#Problem 5 — Bernoulli mean uniform MSE bound|Problem 5]].
+
 ---
 
 ## Problem 5 — Bernoulli mean uniform MSE bound
@@ -245,6 +255,8 @@ flowchart TD
 **When to stop:** minimum n is 25.
 
 **Attempt record:** Not assessed; no learner failure or time has been inferred. At the next actual attempt record: `problem=P5`, the first stalled `step=S#`, the general prerequisite `node`, the observed outcome, and the learner's *exact original words* in quotes. Distinguish a cue-recognition miss from a calculation miss.
+
+**Next task:** [[Discussion 5 Stats132|Discussion 5]].
 
 ---
 
