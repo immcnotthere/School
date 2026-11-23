@@ -94,15 +94,25 @@ $$
 =\frac{2}{9(3\alpha+1)}.
 $$
 
-**S5 — Solve for the two shape parameters.**
+**S5 — Solve for the two shape parameters.** One clean route is to cross-multiply:
 
-$$
+$
 9(3\alpha+1)=90
 \ \Longrightarrow\
 3\alpha+1=10
 \ \Longrightarrow\
 \boxed{\alpha=3,\quad\beta=6}.
-$$
+$
+
+**S5a — Check the algebra if you simplify the fraction first.** Cancelling $\alpha^2$ in S4 and then multiplying by $9/2$ correctly gives
+
+$
+\frac1{45}=\frac{2}{9(3\alpha+1)}
+\quad\Longrightarrow\quad
+\frac1{10}=\frac1{3\alpha+1}.
+$
+
+The next legitimate move is to take **reciprocals of the whole nonzero quantities**, giving $10=3\alpha+1$, then subtract 1 and divide by 3. The expression $3\alpha+1$ is *one denominator*. **Multiplying both sides by 3** would give $3/10=3/(3\alpha+1)$, **not** $3/10=1/(\alpha+1)$. If you instead factor out 3 from the denominator, $3\alpha+1=3(\alpha+1/3)$: the constant must be divided too.
 
 **S6 — Write and normalize the Beta density.** Its general formula is
 
@@ -143,14 +153,20 @@ flowchart TD
   D -->|"No: alpha still on RHS"| E["REPAIR: collect like terms; 3alpha-alpha=beta"]
   E --> F["beta=2alpha"]
   D -->|"Yes"| F
-  F --> G["S4: Substitute into variance"]
-  G --> H["S5: Solve alpha=3, beta=6"]
+  F --> G["S4: Substitute into variance and cancel alpha²"]
+  G --> H0["S5a: Simplify to 1/10 = 1/(3alpha+1)"]
+  H0 --> H1{"S5a: Does the operation affect the ENTIRE denominator?"}
+  H1 -->|"No: rewrote as 3/10 = 1/(alpha+1)"| H2["FAILURE 2: Changed only 3alpha, not the +1"]
+  H2 --> H3["REPAIR: Reciprocal gives 10 = 3alpha+1"]
+  H1 -->|"Yes: reciprocal of whole sides"| H3
+  H3 --> H["S5: alpha=3, beta=6"]
   H --> I["S6: Beta normalizing constant, Gamma/factorials"]
   I --> J["Output PDF and support; check moments"]
   style E stroke:#b45309,stroke-width:3px
+  style H2 stroke:#b45309,stroke-width:3px
 ~~~
 
-**Known observed break:** At **S3**, becoming committed to isolating $\alpha$ and stopping at an equation where $\alpha$ remained on both sides. The relevant repair is elementary algebra, **not** memorizing a new Beta formula. The diagram marks the precise decision point.
+**Known observed breaks:** **S3** — becoming committed to isolating $\alpha$ while it remained on both sides. **S5a** — after the correct simplification to $1/10=1/(3\alpha+1)$, treating multiplication by 3 as though it could change just the $3\alpha$ term and leave $+1$ unaffected. Both are elementary-algebra prerequisite failures, **not** failures to identify the Beta distribution. Both decision points are marked in the diagram.
 
 ### 4. Dependency and cue trace
 
@@ -160,7 +176,8 @@ flowchart TD
 | S2 | Clearing denominators; Equivalent equations | Fraction equals $1/3$ | Multiply by the denominator on both sides |
 | **S3** | **Collect like terms; Isolate a variable; Substitution strategy** | The same symbol on both sides; two unknowns and two equations | Move like terms; isolate whichever variable yields the simplest one-variable substitute |
 | S4 | Algebraic substitution; Powers and cancellation | Known relationship $\beta=2\alpha$ | Replace *every* $\beta$ in the variance equation, including sums and products |
-| S5 | Solving linear equations; Multiplication/division | One equation, one unknown | Solve and check positivity |
+| **S5a** | **Equivalent equations; Fractions with compound denominators; Distributive property** | $1/10=1/(3\alpha+1)$ and the urge to "multiply by 3" | Treat $3\alpha+1$ as one unit; a factor removed from a sum must apply to **both** terms. Easier cue: take reciprocals first. |
+| S5 | Solving linear equations; Multiplication/division | One equation, one unknown after reciprocal | Subtract 1, then divide by 3; check positivity |
 | S6 | Beta PDF; Gamma function; Factorials | Asked for the "prior pdf", not just $\alpha,\beta$ | Substitute into density, give support, check moments |
 
 **Remediation drill (unscored until attempted independently):** Solve $5a=a+b$, $2a=(a+b)/4$, and $a/(a+b)=2/5$ for whichever variable gives the easiest substitution. State aloud why $a=(a+b)/3$ does *not* isolate $a$.
@@ -178,6 +195,20 @@ flowchart TD
 - **Existing external attempt reference provided by user:** brain:2026-11-22T18:34:25-08:00:218357. Do **not** append a second row for that event.
 - **Mastery status:** not independently demonstrated in this document. Review by solving fresh algebra questions without the model.
 - **If logging a future, real attempt:** general node = "Collect like terms"; location = "STAT 132 Discussion 1, Problem 1"; step = "P1.S3"; record actual outcome via brain study log; add exact *full* student words to rep-words.jsonl under brain's returned ref (no paraphrase).
+
+#### Failure point 2 — P1.S5a: Operating on a compound denominator
+
+- **Problem position:** P1 → S5a, after cancellation and the correct step $1/10=1/(3\alpha+1)$.
+- **Observed concept to drill:** **Distributive property** (related: **Equivalent equations**, **Fractions with compound denominators**).
+- **Classification:** Selective operation on part of a sum / failure to preserve equality while manipulating a denominator. Do not classify as an error in Beta moments, substitution, or cancelling $\alpha^2$: those were performed correctly.
+- **Cue missed:** Parentheses in $1/(3\alpha+1)$ mean that $3\alpha+1$ is a single denominator; an operation on that denominator must affect **both terms**. From $1/10=1/(3\alpha+1)$, reciprocal of both sides immediately gives $10=3\alpha+1$.
+- **Student's exact words (verbatim, full statement; no editorial edits):**
+
+> Did we get seven over three? I don't think that's right. Here's my math. We have two over nine after we cancel out the alpha squares. I just say when I get rid of them for now. So we multiply by nine and we get nine over forty-five. Then we divide by two. We divide by two. We get nine over ninety. That gives us one tenth. We then have one over three alpha plus one. We then multiply the entire equation by three. We get three tenths. And then we have three tenths is equivalent to one over alpha plus one. We take the reciprocal of both. So now we have ten over three is equivalent to alpha plus one. We subtract one from both sides, giving us seven over three is equivalent to alpha
+
+- **Agent note (interpretation, separate from student's words):** The student correctly reached $1/10=1/(3\alpha+1)$ but then inferred $3/10=1/(\alpha+1)$. Multiplying the entire equality by 3 would instead yield $3/10=3/(3\alpha+1)$; factoring $3$ from $3\alpha+1$ gives $3(\alpha+1/3)$, not $3(\alpha+1)$. The shortest correction is to take reciprocals, then collect like terms.
+- **Retention status:** Diagnostic failure documented **in this Markdown trace only**; **no new** brain study log event or System/reps.csv row has been created. If a logged event is added with brain locally, use its actual returned ref when attaching these exact words in System/rep-words.jsonl; do not invent a timestamp or reference.
+- **Unscored remedial drill:** Transform $1/7=1/(2x+3)$, $4/(6x+2)=1/5$, and $1/(4x+2)=1/10$ using whole-expression operations. Distinguish multiplying a fraction from dividing a sum by a constant.
 
 ---
 
@@ -523,6 +554,7 @@ Use this lightweight Markdown metadata under the corresponding problem after **e
 | problem | step | concept | observed status | existing reference |
 |---|---|---|---|---|
 | P1 | S3 | Collect like terms | failed at isolating a convenient variable | brain:2026-11-22T18:34:25-08:00:218357 (user-provided) |
+| P1 | S5a | Distributive property | selectively changed a compound denominator; documented, not logged | none — needs an actual brain study log event |
 | P2–P5 | — | — | not assessed in this note | — |
 
 **Single source of truth:** the vault's System/reps.csv receives each true attempt via brain study log. System/rep-words.jsonl stores exactly spoken or typed words, associated through the *same ref*. A failed problem can expose several candidate prerequisite weaknesses, but add only actually observed, concept-addressed attempt data; do not treat every edge in the dependency graph as a failed rep. System/index/memory.json is generated output from the FSRS-6 replay and should never be hand-edited to "make due dates."
