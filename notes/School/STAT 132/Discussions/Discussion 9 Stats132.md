@@ -21,15 +21,17 @@ created: 2026-11-22
 ---
 # Discussion 9 Stats132
 
+[[Discussions Stats132|All discussions]] · [[Discussion 8 Stats132|Previous discussion]]
+
 **Source:** [Discussion 9 W25 worksheet](https://github.com/immcnotthere/School/blob/main/STAT132/files/homework/STAT132%20Discussion%2009%20%28W25%20worksheet%29.pdf). Prompts preserve the source's mathematical task, but are typeset afresh for readable Obsidian Markdown.
 
 **Method:** Start with the prompt (without reading the solution), identify the first applicable cue, follow the Mermaid branch, and solve. The concept links in each cue table point to existing notes or intentionally unresolved Obsidian notes for future creation. **Nothing is marked complete until an independent attempt is reported.**
 
 | Question | Focus | Status |
 |---|---|---|
-| [[#Problem 1 — One- vs two-sided t tests|1]] | One- vs two-sided t tests | ☐ Not assessed |
-| [[#Problem 2 — Two-sided t test from raw sums|2]] | Two-sided t test from raw sums | ☐ Not assessed |
-| [[#Problem 3 — Pooled two-sample t test for two drugs|3]] | Pooled two-sample t test for two drugs | ☐ Not assessed |
+| [[#Problem 1 — One- vs two-sided t tests\|1]] | One- vs two-sided t tests | ☐ Not assessed |
+| [[#Problem 2 — Two-sided t test from raw sums\|2]] | Two-sided t test from raw sums | ☐ Not assessed |
+| [[#Problem 3 — Pooled two-sample t test for two drugs\|3]] | Pooled two-sample t test for two drugs | ☐ Not assessed |
 
 ---
 
@@ -72,6 +74,8 @@ flowchart TD
 **Answer checkpoint:** t=2, df=8; reject a, not b.
 
 **Failure-trace hook:** None observed yet. On an actual attempt, mark the *first* broken S-step, the exact general prerequisite skill, the cue missed, and the student's complete unedited words in the embedded log. Do not infer an FSRS rep from reading the walkthrough.
+
+**Next task:** [[#Problem 2 — Two-sided t test from raw sums|Problem 2]].
 
 ---
 
@@ -119,6 +123,8 @@ flowchart TD
 
 **Failure-trace hook:** None observed yet. On an actual attempt, mark the *first* broken S-step, the exact general prerequisite skill, the cue missed, and the student's complete unedited words in the embedded log. Do not infer an FSRS rep from reading the walkthrough.
 
+**Next task:** [[#Problem 3 — Pooled two-sample t test for two drugs|Problem 3]].
+
 ---
 
 ## Problem 3 — Pooled two-sample t test for two drugs
@@ -164,6 +170,8 @@ flowchart TD
 **Answer checkpoint:** t~1.693, p~.058, reject at .10.
 
 **Failure-trace hook:** None observed yet. On an actual attempt, mark the *first* broken S-step, the exact general prerequisite skill, the cue missed, and the student's complete unedited words in the embedded log. Do not infer an FSRS rep from reading the walkthrough.
+
+**Next task:** [[Discussions Stats132|All discussions]].
 
 ---
 
