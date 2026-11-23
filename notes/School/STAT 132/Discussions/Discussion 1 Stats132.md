@@ -122,7 +122,11 @@ $
 
 The next legitimate move is to take **reciprocals of the whole nonzero quantities**, giving $10=3\alpha+1$, then subtract 1 and divide by 3. The expression $3\alpha+1$ is *one denominator*. **Multiplying both sides by 3** would give $3/10=3/(3\alpha+1)$, **not** $3/10=1/(\alpha+1)$. If you instead factor out 3 from the denominator, $3\alpha+1=3(\alpha+1/3)$: the constant must be divided too.
 
-**S6 — Write and normalize the Beta density.** Its general formula is
+**S6 — Choose and retrieve the correct distribution formula.** The exercise explicitly says **Beta**, and its parameter $\theta$ lies in $(0,1)$. The student's $6^3x^{3-1}e^{-6x}/\Gamma(3)$ is a correctly assembled **Gamma(shape 3, rate 6)** density (full constant $108$), but **not** the requested Beta(3,6) density. Lecture 1 §1.5 lists both families and may be consulted as an allowed formula reference. Retrieving a provided formula is a distinct skill from choosing the correct row of the reference sheet.
+
+**S6a — Recognize the cue and practice retrieving the family formula without looking it up.** Cue: *"prior is a beta distribution"* → [[Beta Distribution]], **not** [[Gamma Distribution]]. This occasion required consulting Lecture 1: mark **independent formula recall not yet demonstrated**, without classifying the permitted reference-sheet use itself as a mathematical failure.
+
+**S6b — Normalize the selected Beta density.** Its general formula is
 
 $$
 \pi(\theta)=
@@ -172,14 +176,23 @@ flowchart TD
   H2 --> H3["REPAIR: Reciprocal gives 10 = 3alpha+1"]
   H1 -->|"Yes: reciprocal of whole sides"| H3
   H3 --> H["S5: alpha=3, beta=6"]
-  H --> I["S6: Beta normalizing constant, Gamma/factorials"]
-  I --> J["Output PDF and support; check moments"]
+  H --> I0{"S6a: Can I recall the relevant PDF without notes?"}
+  I0 -->|"No: consulted Lecture 1"| I1["RECALL GAP: retrieve Beta PDF from reference; drill later"]
+  I0 -->|"Yes"| I2{"S6: Does the formula match Beta, not Gamma?"}
+  I1 --> I2
+  I2 -->|"No: used 6^3 x^2 exp(-6x)/Gamma(3)"| I3["FAMILY MISMATCH: that is Gamma(3,6)"]
+  I3 --> I4["REPAIR: Beta uses x^(a-1)(1-x)^(b-1)/B(a,b)"]
+  I2 -->|"Yes"| I4
+  I4 --> I["S6b: Beta normalizing constant, Gamma/factorials"]
+  I --> J["Output Beta PDF and support; check moments"]
   style E stroke:#b45309,stroke-width:3px
   style G1 stroke:#b45309,stroke-width:3px
   style H2 stroke:#b45309,stroke-width:3px
+  style I1 stroke:#b45309,stroke-width:2px
+  style I3 stroke:#b45309,stroke-width:3px
 ~~~
 
-**Known observed breaks:** **S3** — becoming committed to isolating $\alpha$ while it remained on both sides. **S4a** — squaring $\alpha$ but not the coefficient 3 in $(3\alpha)^2$. **S5a** — after the correct simplification to $1/10=1/(3\alpha+1)$, treating multiplication by 3 as though it could change just the $3\alpha$ term and leave $+1$ unaffected. All three are elementary-algebra prerequisite failures, **not** failures to identify the Beta distribution. All three decision points are marked in the diagram.
+**Known observed breaks:** **S3** — becoming committed to isolating $\alpha$ while it remained on both sides. **S4a** — squaring $\alpha$ but not the coefficient 3 in $(3\alpha)^2$. **S5a** — after the correct simplification to $1/10=1/(3\alpha+1)$, treating multiplication by 3 as though it could change just the $3\alpha$ term and leave $+1$ unaffected. The three earlier failures are elementary-algebra prerequisites. The new **S6a** point is a **formula recall gap** (looking up a permitted formula), while **S6** records a separate **distribution-family selection mismatch**: the formula stated belongs to Gamma, not Beta. The diagram marks the exact locations without conflating these skills.
 
 ### 4. Dependency and cue trace
 
@@ -192,7 +205,9 @@ flowchart TD
 | **S4a** | [[Exponent laws]]; [[Squaring a product]] | $(3\alpha)^2$ has a coefficient **and** a variable inside parentheses | Square both: $(3\alpha)^2=9\alpha^2$, not $3\alpha^2$ |
 | **S5a** | **[[Equivalent equations]]; [[Fractions with compound denominators]]; [[Distributive Law\|Distributive property]]** | $1/10=1/(3\alpha+1)$ and the urge to "multiply by 3" | Treat $3\alpha+1$ as one unit; a factor removed from a sum must apply to **both** terms. Easier cue: take reciprocals first. |
 | S5 | [[Solving linear equations]]; [[Fractions and Decimals\|Multiplication/division]] | One equation, one unknown after reciprocal | Subtract 1, then divide by 3; check positivity |
-| S6 | [[Beta Distribution\|Beta PDF]]; [[Gamma and Beta Functions\|Gamma function]]; [[Factorial\|Factorials]] | Asked for the "prior pdf", not just $\alpha,\beta$ | Substitute into density, give support, check moments |
+| **S6a** | [[Beta Distribution]]; [[Recall a distribution's PDF]] | Allowed formula sheet available, but no unaided retrieval | Consult Lecture 1 as permitted; separately drill tabula-rasa recall |
+| **S6** | [[Choosing a Distribution]]; [[Beta Distribution]]; [[Gamma Distribution]] | Problem explicitly says "beta"; Gamma formula has an exponential tail on $x>0$ | Match the **named family** and support before inserting parameters |
+| S6b | [[Beta Distribution\|Beta PDF]]; [[Gamma and Beta Functions\|Gamma function]]; [[Factorial\|Factorials]] | Asked for the "prior pdf", not just $\alpha,\beta$ | Substitute into Beta density, give support, check moments |
 
 **Remediation drill (unscored until attempted independently):** Solve $5a=a+b$, $2a=(a+b)/4$, and $a/(a+b)=2/5$ for whichever variable gives the easiest substitution. State aloud why $a=(a+b)/3$ does *not* isolate $a$.
 
@@ -236,6 +251,19 @@ flowchart TD
 - **Agent note (interpretation, separate from student's words):** The student correctly reached $1/10=1/(3\alpha+1)$ but then inferred $3/10=1/(\alpha+1)$. Multiplying the entire equality by 3 would instead yield $3/10=3/(3\alpha+1)$; factoring $3$ from $3\alpha+1$ gives $3(\alpha+1/3)$, not $3(\alpha+1)$. The shortest correction is to take reciprocals, then collect like terms.
 - **Retention status:** Diagnostic failure documented **in this Markdown trace only**; **no new** brain study log event or System/reps.csv row has been created. If a logged event is added with brain locally, use its actual returned ref when attaching these exact words in System/rep-words.jsonl; do not invent a timestamp or reference.
 - **Unscored remedial drill:** Transform $1/7=1/(2x+3)$, $4/(6x+2)=1/5$, and $1/(4x+2)=1/10$ using whole-expression operations. Distinguish multiplying a fraction from dividing a sum by a constant.
+#### Formula recall and family selection — P1.S6a/S6
+
+- **Date observed:** 2026-11-22; the precise time of the utterance is not established.
+- **Position:** P1.S6a (retrieval of the named distribution formula) and P1.S6 (distribution-family check).
+- **Two distinct general skills:** [[Recall a distribution's PDF]] (could not independently generate it; looked at Lecture 1, which is permitted) and [[Choosing a Distribution]] / [[Beta Distribution]] versus [[Gamma Distribution]] (the expression supplied was a Gamma density despite Problem 1 requiring a Beta prior).
+- **Recognition cue:** The question says **Beta distribution**, so the density is proportional to $\theta^{\alpha-1}(1-\theta)^{\beta-1}$ on $(0,1)$. The cited formula $6^3 x^{3-1} e^{-6x}/\Gamma(3)$ is Gamma(3,6), supported on $(0,\infty)$, and has full coefficient $216/2=108$.
+- **Student's exact words (full, unchanged):**
+
+> Okay, so I did have to look at lecture one to get the distribution, which is allowed because I will have those distributions provided to me on the final on all homeworks. But it's still good to have it memorized. So just list the fact that I wasn't able to auto-generate that information. I inputted six to the third x three minus one, so two. And then e to the x six over the gamma of three, or gamma function of three, which is proportional to x squared e minus six x, or e to the minus, or the negative six x. And then that six to the third is, let's see, 36 times six is 18 216. So 216. That's a scalar if there ever was one. But it's six to the three. I think I've gotten that right, haven't I?
+
+- **Agent note (separate interpretation):** Correctly computed $6^3=216$, $\Gamma(3)=2$, $x^{3-1}=x^2$, and the proportional Gamma kernel. Retrieval required reading the allowable reference table, so independent recall is *not demonstrated*. The mathematical issue is that the named target was Beta(3,6), whose density is $168\theta^2(1-\theta)^5$, not Gamma(3,6).
+- **Retention status:** Observed in chat and transcribed here only; no real brain study log reference has been generated, and no changes have been made to System/reps.csv.
+
 
 ---
 
@@ -524,7 +552,7 @@ Every skill in the five step-level prerequisite tables above is an **Obsidian wi
 
 **Concept links awaiting dedicated notes (22):** [[Clearing denominators]], [[Collect like terms]], [[Conditional expectation]], [[Definite integration]], [[Dimensional analysis]], [[Equivalent equations]], [[Exponent laws]], [[Exponential Distribution]], [[Fractions with compound denominators]], [[Improper expectations]], [[Isolate a variable]], [[Model criticism versus calculation]], [[Natural logarithms]], [[Piecewise functions]], [[Polynomial integration]], [[Power rule for integration]], [[Prior predictive reasoning]], [[Sigma and product notation]], [[Solving linear equations]], [[Squaring a product]], [[Substitution strategy]], [[Symmetry]].
 
-**Highest-priority missing notes, based on demonstrated breakdowns:** [[Collect like terms]] → [[Equivalent equations]] → [[Fractions with compound denominators]], plus [[Squaring a product]]. The repository already has [[Distributive Law]]; use that established general concept for the S5a failure rather than inventing a second near-duplicate.
+**Highest-priority missing notes, based on demonstrated breakdowns:** [[Collect like terms]] → [[Equivalent equations]] → [[Fractions with compound denominators]], plus [[Squaring a product]] and [[Recall a distribution's PDF]]. The repository already has [[Distributive Law]]; use that established general concept for the S5a failure rather than inventing a second near-duplicate.
 
 **How to create notes:** Click an unresolved wikilink in Obsidian; make the concept reusable across courses, add `aliases` in its YAML frontmatter, and add its own prerequisite links. Do **not** create another note named after a specific Problem 1 step.
 
@@ -576,18 +604,19 @@ flowchart LR
 
 ## Embedded dated failure history (CSV)
 
-This is the **in-document CSV trace**, not the live FSRS input file. Each row identifies the **general skill**, the exact problem and flowchart step, the observed outcome, the date, a ledger reference *only when actually known*, the student's **complete unedited words** in `said`, and the separate agent interpretation in `agent_note`. No original attempt time has been invented for S4a or S5a.
+This is the **in-document CSV trace**, not the live FSRS input file. Each row identifies the **general skill**, the exact problem and flowchart step, the observed outcome, the date, a ledger reference *only when actually known*, the student's **complete unedited words** in `said`, and the separate agent interpretation in `agent_note`. No original attempt time has been invented for S4a, S5a, or S6a/S6.
 
 ```csv
 date,problem,step,node,outcome,ledger_ref,ledger_status,said,agent_note
 2026-11-22,P1,S3,Collect like terms,failed,brain:2026-11-22T18:34:25-08:00:218357,existing brain record; do not duplicate,what would the failure of intuition to have around once in 3a=a+b solving for b bc I was tryna get a by itself for some stupid reaason and so had a = a+b/3 and was puzzled why my substitution didn't work,Isolated alpha only partially and overlooked beta=2alpha when collecting like terms from 3alpha=alpha+beta.
 2026-11-22,P1,S4a,Squaring a product,failed,,markdown only; not logged,"Okay, so back to the problem. So we substitute in beta is equivalent to two alpha. And then we have the problem as two alpha squared, three alpha squared over, excuse me, two alpha squared over three alpha squared times three alpha plus one. Is that correct?",After substituting beta=2alpha the denominator used 3alpha-squared where (3alpha)^2 requires squaring both factors to get 9alpha-squared.
 2026-11-22,P1,S5a,Distributive Law,failed,,markdown only; not logged,"Did we get seven over three? I don't think that's right. Here's my math. We have two over nine after we cancel out the alpha squares. I just say when I get rid of them for now. So we multiply by nine and we get nine over forty-five. Then we divide by two. We divide by two. We get nine over ninety. That gives us one tenth. We then have one over three alpha plus one. We then multiply the entire equation by three. We get three tenths. And then we have three tenths is equivalent to one over alpha plus one. We take the reciprocal of both. So now we have ten over three is equivalent to alpha plus one. We subtract one from both sides, giving us seven over three is equivalent to alpha","Correctly simplified to 1/10=1/(3alpha+1) but rewrote 3/10=1/(alpha+1), selectively altering a term inside the denominator; the valid shortcut is to take reciprocals."
+2026-11-22,P1,S6a/S6,Recall a distribution's PDF; Choosing a Distribution,reference consulted; wrong family selected,,markdown only; not logged,"Okay, so I did have to look at lecture one to get the distribution, which is allowed because I will have those distributions provided to me on the final on all homeworks. But it's still good to have it memorized. So just list the fact that I wasn't able to auto-generate that information. I inputted six to the third x three minus one, so two. And then e to the x six over the gamma of three, or gamma function of three, which is proportional to x squared e minus six x, or e to the minus, or the negative six x. And then that six to the third is, let's see, 36 times six is 18 216. So 216. That's a scalar if there ever was one. But it's six to the three. I think I've gotten that right, haven't I?","Lookup in Lecture 1 permitted but unaided recall not demonstrated; computed a correct Gamma(3,6) density instead of requested Beta(3,6); 6^3=216 and Gamma(3)=2."
 ```
 
-**How to use:** Keep this table in the present Markdown note as an audit and transcription record. The one previously logged attempt (**P1.S3**) has its real brain `ref` and must not be entered twice. **P1.S4a** and **P1.S5a** are *observed but not logged*; to affect the forgetting curve, record each actual attempt through the local `brain study log` workflow and associate its returned reference with verbatim words. Simply displaying these CSV rows inside Obsidian does **not** update `System/reps.csv` or `System/index/memory.json`. Do not copy these rows directly into the ledger: their schema is richer than brain's input and exact original timestamps are missing.
+**How to use:** Keep this table in the present Markdown note as an audit and transcription record. The one previously logged attempt (**P1.S3**) has its real brain `ref` and must not be entered twice. **P1.S4a**, **P1.S5a**, and **P1.S6a/S6** are *observed but not logged*; to affect the forgetting curve, record each actual attempt through the local `brain study log` workflow and associate its returned reference with verbatim words. Simply displaying these CSV rows inside Obsidian does **not** update `System/reps.csv` or `System/index/memory.json`. Do not copy these rows directly into the ledger: their schema is richer than brain's input and exact original timestamps are missing.
 
-**Skill linkage:** [[Collect like terms]] (S3), [[Squaring a product]] (S4a), and [[Distributive Law|Distributive property]] + [[Fractions with compound denominators]] (S5a). Each corresponds to a specific decision node in the P1 Mermaid chart and can be drilled across assignments.
+**Skill linkage:** [[Collect like terms]] (S3), [[Squaring a product]] (S4a), [[Distributive Law|Distributive property]] + [[Fractions with compound denominators]] (S5a), and [[Recall a distribution's PDF]] / [[Choosing a Distribution]] (S6a/S6). Each corresponds to a specific decision node in the P1 Mermaid chart and can be drilled across assignments.
 
 ---
 
@@ -614,6 +643,7 @@ Use this lightweight Markdown metadata under the corresponding problem after **e
 | P1 | S3 | Collect like terms | failed at isolating a convenient variable | brain:2026-11-22T18:34:25-08:00:218357 (user-provided) |
 | P1 | S4a | Squaring a product | omitted square on coefficient; observed in chat, not logged | none — no attempt ref |
 | P1 | S5a | Distributive property | selectively changed a compound denominator; documented, not logged | none — needs an actual brain study log event |
+| P1 | S6a/S6 | Recall a distribution's PDF; Choosing a Distribution | formula lookup required (permitted); Gamma formula applied to a Beta problem | none — documented only |
 | P2–P5 | — | — | not assessed in this note | — |
 
 **Single source of truth:** the vault's System/reps.csv receives each true attempt via brain study log. System/rep-words.jsonl stores exactly spoken or typed words, associated through the *same ref*. A failed problem can expose several candidate prerequisite weaknesses, but add only actually observed, concept-addressed attempt data; do not treat every edge in the dependency graph as a failed rep. System/index/memory.json is generated output from the FSRS-6 replay and should never be hand-edited to "make due dates."
