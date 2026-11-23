@@ -185,14 +185,14 @@ flowchart TD
 
 | Step | Atomic prerequisite concept (general-purpose node) | Cue to notice | What to do / failure test |
 |---|---|---|---|
-| S1 | Beta distribution; Expected value; Variance | "Beta", "mean", "variance" | Retrieve the *two* equations linking moments to shape parameters |
-| S2 | Clearing denominators; Equivalent equations | Fraction equals $1/3$ | Multiply by the denominator on both sides |
-| **S3** | **Collect like terms; Isolate a variable; Substitution strategy** | The same symbol on both sides; two unknowns and two equations | Move like terms; isolate whichever variable yields the simplest one-variable substitute |
-| S4 | Algebraic substitution; Powers and cancellation | Known relationship $\beta=2\alpha$ | Replace *every* $\beta$ in the variance equation, including sums and products |
-| **S4a** | Exponent laws; Squaring a product | $(3\alpha)^2$ has a coefficient **and** a variable inside parentheses | Square both: $(3\alpha)^2=9\alpha^2$, not $3\alpha^2$ |
-| **S5a** | **Equivalent equations; Fractions with compound denominators; Distributive property** | $1/10=1/(3\alpha+1)$ and the urge to "multiply by 3" | Treat $3\alpha+1$ as one unit; a factor removed from a sum must apply to **both** terms. Easier cue: take reciprocals first. |
-| S5 | Solving linear equations; Multiplication/division | One equation, one unknown after reciprocal | Subtract 1, then divide by 3; check positivity |
-| S6 | Beta PDF; Gamma function; Factorials | Asked for the "prior pdf", not just $\alpha,\beta$ | Substitute into density, give support, check moments |
+| S1 | [[Beta Distribution]]; [[Expectation and Variance|Expected value]]; [[Expectation and Variance|Variance]] | "Beta", "mean", "variance" | Retrieve the *two* equations linking moments to shape parameters |
+| S2 | [[Clearing denominators]]; [[Equivalent equations]] | Fraction equals $1/3$ | Multiply by the denominator on both sides |
+| **S3** | **[[Collect like terms]]; [[Isolate a variable]]; [[Substitution strategy]]** | The same symbol on both sides; two unknowns and two equations | Move like terms; isolate whichever variable yields the simplest one-variable substitute |
+| S4 | [[Substitution strategy|Algebraic substitution]]; [[Exponent laws|Powers and cancellation]] | Known relationship $\beta=2\alpha$ | Replace *every* $\beta$ in the variance equation, including sums and products |
+| **S4a** | [[Exponent laws]]; [[Squaring a product]] | $(3\alpha)^2$ has a coefficient **and** a variable inside parentheses | Square both: $(3\alpha)^2=9\alpha^2$, not $3\alpha^2$ |
+| **S5a** | **[[Equivalent equations]]; [[Fractions with compound denominators]]; [[Distributive Law|Distributive property]]** | $1/10=1/(3\alpha+1)$ and the urge to "multiply by 3" | Treat $3\alpha+1$ as one unit; a factor removed from a sum must apply to **both** terms. Easier cue: take reciprocals first. |
+| S5 | [[Solving linear equations]]; [[Fractions and Decimals|Multiplication/division]] | One equation, one unknown after reciprocal | Subtract 1, then divide by 3; check positivity |
+| S6 | [[Beta Distribution|Beta PDF]]; [[Gamma and Beta Functions|Gamma function]]; [[Factorial|Factorials]] | Asked for the "prior pdf", not just $\alpha,\beta$ | Substitute into density, give support, check moments |
 
 **Remediation drill (unscored until attempted independently):** Solve $5a=a+b$, $2a=(a+b)/4$, and $a/(a+b)=2/5$ for whichever variable gives the easiest substitution. State aloud why $a=(a+b)/3$ does *not* isolate $a$.
 
@@ -305,11 +305,11 @@ flowchart TD
 
 | Step | Atomic prerequisite concept | Cue | Action |
 |---|---|---|---|
-| S1 | Exponential distribution; Rate versus mean; Parameter support | Says "rate parameter" | Use $\lambda e^{-\lambda x}$ rather than $e^{-x/\lambda}/\lambda$ |
-| S2 | Conditional density; Independence; Likelihood | Three separately observed students | Multiply densities, not sum them |
-| S3 | Exponent laws; Sigma/product notation | Repeated $e^{-\lambda x_i}$ | Combine exponents; turn $\lambda\lambda\lambda$ into $\lambda^3$ |
-| S4 | Natural logarithms; Product rule or log differentiation; First and second derivatives | "Sketch" and non-monotone positive function | Identify intercept/limits and stationary point |
-| Finish | Likelihood versus probability density | Horizontal axis is unknown parameter | Sketch *relative support for parameter values*, not an area-one posterior |
+| S1 | [[Exponential Distribution]]; [[Exponential Distribution|Rate versus mean]]; [[Support (Probability)|Parameter support]] | Says "rate parameter" | Use $\lambda e^{-\lambda x}$ rather than $e^{-x/\lambda}/\lambda$ |
+| S2 | [[Conditional PDF|Conditional density]]; [[Independence of Random Variables|Independence]]; [[Likelihood Function|Likelihood]] | Three separately observed students | Multiply densities, not sum them |
+| S3 | [[Exponent laws]]; [[Sigma and product notation]] | Repeated $e^{-\lambda x_i}$ | Combine exponents; turn $\lambda\lambda\lambda$ into $\lambda^3$ |
+| S4 | [[Natural logarithms]]; [[Log-Likelihood|Product rule or log differentiation]]; [[Basic Derivative Formulas|First and second derivatives]] | "Sketch" and non-monotone positive function | Identify intercept/limits and stationary point |
+| Finish | [[Likelihood Function|Likelihood versus probability density]] | Horizontal axis is unknown parameter | Sketch *relative support for parameter values*, not an area-one posterior |
 
 **No observed failure recorded for P2.** Independently test whether the student can start at $f(x\mid\lambda)$, construct $\prod_i f(x_i\mid\lambda)$, and locate the peak.
 
@@ -370,10 +370,10 @@ flowchart TD
 
 | Step | Atomic prerequisite concept | Cue | Action |
 |---|---|---|---|
-| S1 | Exponential mean; Dimensional analysis | "Rate parameter" | Translate $\lambda$ to $E[X\mid\lambda]=1/\lambda$ |
-| S2 | Uniform density; Continuous support; Conditional expectation | Suggested prior interval | Check normalization; convert endpoints and intermediate values to hours |
-| S3 | Prior plausibility; Prior predictive reasoning; Improper expectations | "reasonable prior?" | Decide scientific plausibility separately from mathematical validity |
-| Finish | Model criticism versus calculation | No observed samples in prompt | Explain in words; no posterior calculation required |
+| S1 | [[Exponential Distribution|Exponential mean]]; [[Dimensional analysis]] | "Rate parameter" | Translate $\lambda$ to $E[X\mid\lambda]=1/\lambda$ |
+| S2 | [[Uniform Distribution (Continuous)|Uniform density]]; [[Support (Probability)|Continuous support]]; [[Conditional expectation]] | Suggested prior interval | Check normalization; convert endpoints and intermediate values to hours |
+| S3 | [[Prior Distribution|Prior plausibility]]; [[Prior predictive reasoning]]; [[Improper expectations]] | "reasonable prior?" | Decide scientific plausibility separately from mathematical validity |
+| Finish | [[Model criticism versus calculation]] | No observed samples in prompt | Explain in words; no posterior calculation required |
 
 **No observed failure recorded for P3.** Drill: compare uniform-on-*rate* and uniform-on-*mean*, which are not equivalent.
 
@@ -430,10 +430,10 @@ flowchart TD
 
 | Step | Atomic prerequisite concept | Cue | Action |
 |---|---|---|---|
-| S1 | Sample space; Parameter space; Discrete versus continuous | "Either 0.1 or 0.2" | Restrict support to precisely those two values |
-| S2 | Probability mass function; Subjective prior; Symmetry | No prior preference provided | Choose nonnegative weights summing to 1 |
-| S3 | Piecewise functions; Normalization | "Write $\pi(p)$" | Include "otherwise 0" and check total mass |
-| Finish | Prior vs likelihood vs posterior | No sample data supplied | Stop at prior; do not calculate a posterior |
+| S1 | [[Sample Space]]; [[Parameter Space]]; [[Discrete vs Continuous Random Variable|Discrete versus continuous]] | "Either 0.1 or 0.2" | Restrict support to precisely those two values |
+| S2 | [[Probability Mass Function]]; [[Prior Distribution|Subjective prior]]; [[Symmetry]] | No prior preference provided | Choose nonnegative weights summing to 1 |
+| S3 | [[Piecewise functions]]; [[Normalizing Constant|Normalization]] | "Write $\pi(p)$" | Include "otherwise 0" and check total mass |
+| Finish | [[Data Model vs Prior Model|Prior vs likelihood vs posterior]] | No sample data supplied | Stop at prior; do not calculate a posterior |
 
 **No observed failure recorded for P4.** Recognition drill: a proportion need not have a continuous prior.
 
@@ -506,13 +506,27 @@ flowchart TD
 
 | Step | Atomic prerequisite concept | Cue | Action |
 |---|---|---|---|
-| S1 | PDF normalization; Definite integration; Support | Piecewise density on $[0,1]$ | Integrate density, confirm area 1 |
-| S2 | Expected value of continuous RV; Polynomial integration | "prior mean" | Integrate $p\pi(p)$ |
-| S3 | Raw moments; Power rule for integration | "variance" | Integrate $p^2\pi(p)$ separately |
-| S4 | Variance identity; Fractions | Have $E[p]$ and $E[p^2]$ | Compute $E[p^2]-(E[p])^2$ |
-| Alternative | Beta distribution recognition; Beta moments | PDF proportional to $p^{0}(1-p)^1$ | Recognize $\operatorname{Beta}(1,2)$ as a speed check |
+| S1 | [[PMF, PDF and CDF|PDF normalization]]; [[Definite integration]]; [[Support (Probability)|Support]] | Piecewise density on $[0,1]$ | Integrate density, confirm area 1 |
+| S2 | [[Expectation of a Continuous Random Variable|Expected value of continuous RV]]; [[Polynomial integration]] | "prior mean" | Integrate $p\pi(p)$ |
+| S3 | [[Moments and Central Moments|Raw moments]]; [[Power rule for integration]] | "variance" | Integrate $p^2\pi(p)$ separately |
+| S4 | [[Expectation and Variance|Variance identity]]; [[Fractions and Decimals|Fractions]] | Have $E[p]$ and $E[p^2]$ | Compute $E[p^2]-(E[p])^2$ |
+| Alternative | [[Beta Distribution|Beta distribution recognition]]; [[Prior Parameters from Mean and Variance|Beta moments]] | PDF proportional to $p^{0}(1-p)^1$ | Recognize $\operatorname{Beta}(1,2)$ as a speed check |
 
 **No observed failure recorded for P5.** Do not confuse the second *raw moment* $E[p^2]$ with the variance.
+
+---
+
+## Obsidian prerequisite links and missing-note queue
+
+Every skill in the five step-level prerequisite tables above is an **Obsidian wikilink**. A blue link opens a concept note when present; an unresolved link offers to create that **general, reusable** concept note in Obsidian. This does not mean the student has failed that skill; only observed failures are counted in the attempt trace.
+
+**Existing concept notes referenced (24):** [[Basic Derivative Formulas]], [[Beta Distribution]], [[Conditional PDF]], [[Data Model vs Prior Model]], [[Discrete vs Continuous Random Variable]], [[Distributive Law]], [[Expectation and Variance]], [[Expectation of a Continuous Random Variable]], [[Factorial]], [[Fractions and Decimals]], [[Gamma and Beta Functions]], [[Independence of Random Variables]], [[Likelihood Function]], [[Log-Likelihood]], [[Moments and Central Moments]], [[Normalizing Constant]], [[PMF, PDF and CDF]], [[Parameter Space]], [[Prior Distribution]], [[Prior Parameters from Mean and Variance]], [[Probability Mass Function]], [[Sample Space]], [[Support (Probability)]], [[Uniform Distribution (Continuous)]].
+
+**Concept links awaiting dedicated notes (22):** [[Clearing denominators]], [[Collect like terms]], [[Conditional expectation]], [[Definite integration]], [[Dimensional analysis]], [[Equivalent equations]], [[Exponent laws]], [[Exponential Distribution]], [[Fractions with compound denominators]], [[Improper expectations]], [[Isolate a variable]], [[Model criticism versus calculation]], [[Natural logarithms]], [[Piecewise functions]], [[Polynomial integration]], [[Power rule for integration]], [[Prior predictive reasoning]], [[Sigma and product notation]], [[Solving linear equations]], [[Squaring a product]], [[Substitution strategy]], [[Symmetry]].
+
+**Highest-priority missing notes, based on demonstrated breakdowns:** [[Collect like terms]] → [[Equivalent equations]] → [[Fractions with compound denominators]], plus [[Squaring a product]]. The repository already has [[Distributive Law]]; use that established general concept for the S5a failure rather than inventing a second near-duplicate.
+
+**How to create notes:** Click an unresolved wikilink in Obsidian; make the concept reusable across courses, add `aliases` in its YAML frontmatter, and add its own prerequisite links. Do **not** create another note named after a specific Problem 1 step.
 
 ---
 
