@@ -42,3 +42,8 @@ Each problem, with how it starts:
 
 ## Links
 - Hub: [[2026-10-02 Catch-up inventory - weeks 1-2]]
+
+## Failure points — Problem 1
+
+- **Incomplete variable isolation (algebraic goal selection):** After deriving \(3\alpha=\alpha+\beta\), attempted to solve for \(\alpha\) but stopped at \(\alpha=(\alpha+\beta)/3\), where \(\alpha\) still appears on both sides. This equality is valid but does **not** isolate \(\alpha\). Finish as \(\alpha=\beta/2\) or, more conveniently, isolate \(\beta=2\alpha\) before substituting into the Beta variance equation.
+- **Recognition cue:** Before substituting, check that the isolated variable appears only on the left. Choose whichever variable is simplest to eliminate.
