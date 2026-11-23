@@ -18,7 +18,8 @@ from datetime import date, datetime
 
 MONTHS = {m: i + 1 for i, m in enumerate("Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec".split())}
 STATUSES = "todo working submitted graded skipped"
-SCRIPTS = os.path.expanduser("~/Documents/Second Brain/90 System/scripts")
+SCRIPTS = next((p for p in (os.path.expanduser(f"~/Documents/Second Brain/{d}/scripts") for d in ("System", "90 System"))
+                if os.path.isdir(p)), os.path.expanduser("~/Documents/Second Brain/System/scripts"))
 
 
 SUBDIRS = {"Course info": "course-info", "Lectures": "lectures", "Homework and discussions": "homework",

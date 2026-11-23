@@ -31,7 +31,11 @@ fi
 cd "$REPO" || fail "no repo at $REPO"
 branch=$(git branch --show-current)
 [ "$branch" = main ] || fail "checkout is on '$branch', not main; skipped"
-git pull -q --ff-only origin main || fail "git pull --ff-only failed (main has diverged?)"
+# chats commit on GitHub and brain school commits here: rebase local commits onto theirs, never force
+if ! git pull -q --rebase --autostash origin main; then
+  git rebase --abort 2>/dev/null
+  fail "git pull --rebase failed (a conflict with GitHub; nothing changed, resolve by hand)"
+fi
 python3 -I sync.py >>"$LOG" 2>&1 || fail "sync.py failed"
 
 GEN=(notes AM20 STAT132 ECON131)
