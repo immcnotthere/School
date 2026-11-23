@@ -574,6 +574,23 @@ flowchart LR
 
 **Trace semantics:** A problem depends on concepts through *steps*, not as one opaque success/failure. In particular, a miss at P1.S3 should point to "Collect like terms" and "Isolate a variable"; it should not automatically mark "Beta moments" as failed.
 
+## Embedded dated failure history (CSV)
+
+This is the **in-document CSV trace**, not the live FSRS input file. Each row identifies the **general skill**, the exact problem and flowchart step, the observed outcome, the date, a ledger reference *only when actually known*, the student's **complete unedited words** in `said`, and the separate agent interpretation in `agent_note`. No original attempt time has been invented for S4a or S5a.
+
+```csv
+date,problem,step,node,outcome,ledger_ref,ledger_status,said,agent_note
+2026-11-22,P1,S3,Collect like terms,failed,brain:2026-11-22T18:34:25-08:00:218357,existing brain record; do not duplicate,what would the failure of intuition to have around once in 3a=a+b solving for b bc I was tryna get a by itself for some stupid reaason and so had a = a+b/3 and was puzzled why my substitution didn't work,Isolated alpha only partially and overlooked beta=2alpha when collecting like terms from 3alpha=alpha+beta.
+2026-11-22,P1,S4a,Squaring a product,failed,,markdown only; not logged,"Okay, so back to the problem. So we substitute in beta is equivalent to two alpha. And then we have the problem as two alpha squared, three alpha squared over, excuse me, two alpha squared over three alpha squared times three alpha plus one. Is that correct?",After substituting beta=2alpha the denominator used 3alpha-squared where (3alpha)^2 requires squaring both factors to get 9alpha-squared.
+2026-11-22,P1,S5a,Distributive Law,failed,,markdown only; not logged,"Did we get seven over three? I don't think that's right. Here's my math. We have two over nine after we cancel out the alpha squares. I just say when I get rid of them for now. So we multiply by nine and we get nine over forty-five. Then we divide by two. We divide by two. We get nine over ninety. That gives us one tenth. We then have one over three alpha plus one. We then multiply the entire equation by three. We get three tenths. And then we have three tenths is equivalent to one over alpha plus one. We take the reciprocal of both. So now we have ten over three is equivalent to alpha plus one. We subtract one from both sides, giving us seven over three is equivalent to alpha","Correctly simplified to 1/10=1/(3alpha+1) but rewrote 3/10=1/(alpha+1), selectively altering a term inside the denominator; the valid shortcut is to take reciprocals."
+```
+
+**How to use:** Keep this table in the present Markdown note as an audit and transcription record. The one previously logged attempt (**P1.S3**) has its real brain `ref` and must not be entered twice. **P1.S4a** and **P1.S5a** are *observed but not logged*; to affect the forgetting curve, record each actual attempt through the local `brain study log` workflow and associate its returned reference with verbatim words. Simply displaying these CSV rows inside Obsidian does **not** update `System/reps.csv` or `System/index/memory.json`. Do not copy these rows directly into the ledger: their schema is richer than brain's input and exact original timestamps are missing.
+
+**Skill linkage:** [[Collect like terms]] (S3), [[Squaring a product]] (S4a), and [[Distributive Law|Distributive property]] + [[Fractions with compound denominators]] (S5a). Each corresponds to a specific decision node in the P1 Mermaid chart and can be drilled across assignments.
+
+---
+
 ## Problem trace schema (for subsequent actual attempts)
 
 Use this lightweight Markdown metadata under the corresponding problem after **each real independent attempt**. It is for human auditability; it is **not** a second learning ledger.
