@@ -21,17 +21,19 @@ created: 2026-11-22
 ---
 # Discussion 2 Stats132
 
+[[Discussions Stats132|All discussions]] · [[Discussion 1 Stats132|Previous discussion]] · [[Discussion 3 Stats132|Next discussion]]
+
 **Original:** [Discussion 2 W25 worksheet](https://github.com/immcnotthere/School/blob/main/STAT132/files/homework/STAT132%20Discussion%2002%20%28W25%20worksheet%29.pdf). Rephrased mathematical prompts and solutions below are anchored to this worksheet. The worksheet is from Winter 2025; the study work is in 2026.
 
 **How to study:** Hide each worked solution, attempt unaided, and find the *first* Mermaid step that stalls. The cue table points to reusable Obsidian concept notes; unresolved `[[wikilinks]]` are suggestions for missing notes. All 5 problems start **not assessed**. Reading solutions is not a completed attempt.
 
 | Problem | Topic | Status |
 |---|---|---|
-| [[#Problem 1 — Beta–binomial posterior|1]] | Beta–binomial posterior | ☐ Not assessed |
-| [[#Problem 2 — Normal posterior spread bound|2]] | Normal posterior spread bound | ☐ Not assessed |
-| [[#Problem 3 — Gamma–exponential posterior|3]] | Gamma–exponential posterior | ☐ Not assessed |
-| [[#Problem 4 — Posterior mean as weighted average|4]] | Posterior mean as weighted average | ☐ Not assessed |
-| [[#Problem 5 — Poisson–Gamma Bayes estimator|5]] | Poisson–Gamma Bayes estimator | ☐ Not assessed |
+| [[#Problem 1 — Beta–binomial posterior\|1]] | Beta–binomial posterior | ☐ Not assessed |
+| [[#Problem 2 — Normal posterior spread bound\|2]] | Normal posterior spread bound | ☐ Not assessed |
+| [[#Problem 3 — Gamma–exponential posterior\|3]] | Gamma–exponential posterior | ☐ Not assessed |
+| [[#Problem 4 — Posterior mean as weighted average\|4]] | Posterior mean as weighted average | ☐ Not assessed |
+| [[#Problem 5 — Poisson–Gamma Bayes estimator\|5]] | Poisson–Gamma Bayes estimator | ☐ Not assessed |
 
 ---
 ## Problem 1 — Beta–binomial posterior
@@ -73,6 +75,8 @@ flowchart TD
 **When to stop:** posterior has the Beta family.
 
 **Attempt record:** Not assessed; no learner failure or time has been inferred. At the next actual attempt record: `problem=P1`, the first stalled `step=S#`, the general prerequisite `node`, the observed outcome, and the learner's *exact original words* in quotes. Distinguish a cue-recognition miss from a calculation miss.
+
+**Next task:** [[#Problem 2 — Normal posterior spread bound|Problem 2]].
 
 ---
 
@@ -116,6 +120,8 @@ flowchart TD
 
 **Attempt record:** Not assessed; no learner failure or time has been inferred. At the next actual attempt record: `problem=P2`, the first stalled `step=S#`, the general prerequisite `node`, the observed outcome, and the learner's *exact original words* in quotes. Distinguish a cue-recognition miss from a calculation miss.
 
+**Next task:** [[#Problem 3 — Gamma–exponential posterior|Problem 3]].
+
 ---
 
 ## Problem 3 — Gamma–exponential posterior
@@ -157,6 +163,8 @@ flowchart TD
 **When to stop:** posterior shape and rate are 20.04 and 76.2.
 
 **Attempt record:** Not assessed; no learner failure or time has been inferred. At the next actual attempt record: `problem=P3`, the first stalled `step=S#`, the general prerequisite `node`, the observed outcome, and the learner's *exact original words* in quotes. Distinguish a cue-recognition miss from a calculation miss.
+
+**Next task:** [[#Problem 4 — Posterior mean as weighted average|Problem 4]].
 
 ---
 
@@ -200,6 +208,8 @@ flowchart TD
 
 **Attempt record:** Not assessed; no learner failure or time has been inferred. At the next actual attempt record: `problem=P4`, the first stalled `step=S#`, the general prerequisite `node`, the observed outcome, and the learner's *exact original words* in quotes. Distinguish a cue-recognition miss from a calculation miss.
 
+**Next task:** [[#Problem 5 — Poisson–Gamma Bayes estimator|Problem 5]].
+
 ---
 
 ## Problem 5 — Poisson–Gamma Bayes estimator
@@ -241,6 +251,8 @@ flowchart TD
 **When to stop:** posterior mean is 8/3.
 
 **Attempt record:** Not assessed; no learner failure or time has been inferred. At the next actual attempt record: `problem=P5`, the first stalled `step=S#`, the general prerequisite `node`, the observed outcome, and the learner's *exact original words* in quotes. Distinguish a cue-recognition miss from a calculation miss.
+
+**Next task:** [[Discussion 3 Stats132|Discussion 3]].
 
 ---
 
