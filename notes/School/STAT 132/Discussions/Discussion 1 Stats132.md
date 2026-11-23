@@ -28,6 +28,8 @@ last_authored: 2026-11-22
 ---
 # Discussion 1 Stats132
 
+[[Discussions Stats132|All discussions]] · [[Discussion 2 Stats132|Next discussion]]
+
 > **Purpose:** One traceable worked example per question: mathematical restatement → worked solution → decision flow → atomic prerequisite concepts → recognition cues. The diagrams describe a *solution route*, not evidence that the student has performed it.
 
 **Source:** [Original 2025 worksheet](https://github.com/immcnotthere/School/blob/main/STAT132/files/homework/STAT132%20Discussion%2001%20-%20priors%20and%20likelihoods%20%28W25%20worksheet%29.pdf). This worksheet was written in Winter 2025 and is being studied in 2026. Descriptions below retain its numerical specifications and mathematical intent; wording is normalized into readable Markdown.
@@ -280,6 +282,10 @@ flowchart TD
 
 - **Agent note (interpretation, not student's words):** Consulting the allowed reference establishes only that unaided recall was not demonstrated. The student's later correct Beta kernel $x^2(1-x)^5$ confirms the requested PDF form. The earlier misreading is deliberately **excluded** from the failed-skill ledger.
 - **Retention status:** Documented here only; no new brain study log entry or System/reps.csv row created.
+
+---
+
+**Next task after completed P1:** [[#Problem 2 — Exponential likelihood and sketch|Discussion 1, Problem 2]].
 
 ---
 
