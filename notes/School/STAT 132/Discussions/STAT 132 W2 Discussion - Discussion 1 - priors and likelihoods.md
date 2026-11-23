@@ -6,26 +6,27 @@ type: study
 parent: "[[STAT 132]]"
 domain: stats
 course: "STAT 132"
-status: draft
+status: in-progress
 week: 2
 item_type: discussion
 source: "STAT132/Homework and discussions/STAT132 Discussion 01 - priors and likelihoods (W25 worksheet).pdf"
 date: 2026-09-28
 pages: 1
 problems: 5
-score: 0
+score: 1
+completed_problem_1_on: 2026-11-22
 recording: "none"
 time_full_min: 100
-time_debt_min: 100
+time_debt_min: null
 ---
 # STAT 132 week 2 discussion: Discussion 1 - priors and likelihoods
 
 Discussion dated 2026-09-28. Source: `STAT132/Homework and discussions/STAT132 Discussion 01 - priors and likelihoods (W25 worksheet).pdf`.
 
 ## Done?
-Score 0 of 5. Todoist task (Q1, Q2, Q5) still open.
+Score 1 of 5. Problem 1 completed on 2026-11-22, student-confirmed; Problems 2–5 not yet marked complete. Todoist task status was not checked.
 
-Time: 100 min to do it fully; about 100 min left at this score.
+Time: original planning estimate was 100 min for the full discussion. The remaining time is not recalculated from that estimate; see [[Discussion 1 Stats132]] for the recorded P1 time window and its limits.
 
 ## Vocab
 Draft, pulled from the bold terms in the source. You decide which matter; add one-line meanings as you learn them.
