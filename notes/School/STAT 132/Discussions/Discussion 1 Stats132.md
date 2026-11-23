@@ -13,6 +13,11 @@ week: 2
 worksheet_year: 2025
 status: in-progress
 problems: 5
+completed_problems: [1]
+remaining_problems: 4
+completed_problem_1_on: 2026-11-22
+completion_recorded_at: 2026-11-22T19:28:54-08:00
+completion_basis: user-reported
 source: "STAT132/files/homework/STAT132 Discussion 01 - priors and likelihoods (W25 worksheet).pdf"
 source_repository: "immcnotthere/School"
 review_policy: "Do not create attempts from reading this note; only brain study log writes System/reps.csv"
@@ -28,6 +33,24 @@ last_authored: 2026-11-22
 **Source:** [Original 2025 worksheet](https://github.com/immcnotthere/School/blob/main/STAT132/files/homework/STAT132%20Discussion%2001%20-%20priors%20and%20likelihoods%20%28W25%20worksheet%29.pdf). This worksheet was written in Winter 2025 and is being studied in 2026. Descriptions below retain its numerical specifications and mathematical intent; wording is normalized into readable Markdown.
 
 **Progress convention:** "Walkthrough provided" ≠ "independently solved." Q1 has a documented algebraic failure point; Q2–Q5 are not assigned scores by this note. Retention attempts must not be fabricated or appended directly to a CSV.
+
+## Completion and workload tracking
+
+| Problem | Completion status | Date | Basis |
+|---|---|---|---|
+| **P1** | **Completed** | **2026-11-22** | Student explicitly confirmed completion after obtaining Beta(3,6), with prior correction of intermediate algebra and a permitted formula lookup |
+| P2 | Not yet marked complete | — | No completion claim |
+| P3 | Not yet marked complete | — | No completion claim |
+| P4 | Not yet marked complete | — | No completion claim |
+| P5 | Not yet marked complete | — | No completion claim |
+
+**Discussion 1:** 1/5 complete; **4 problems remain**. Across W25 Discussion 1–9, the worksheets contain 41 numbered top-level problems (5, 5, 5, 5, 5, 4, 4, 5, 3). That is **40 minus any other independently completed problems** across Discussions 2–9, whose personal completion has not been verified here; subsections (a), (b), etc. are counted as parts of their numbered problem.
+
+**Time accounting:** Earliest available P1 attempt timestamp from brain's existing reference is 2026-11-22 18:34:25 −08:00; completion was recorded at 19:28:54 −08:00. This is **54 minutes 29 seconds between recorded points**, *not measured focused study time* or a reliable full start-to-finish duration: the actual start predates the logged difficulty, and the conversation included repository, note, and study-system administration. No active-duration value was supplied to or added to brain's ledger.
+
+**Scope:** This is a progress marker in Markdown, **not** an FSRS attempt. No synthetic `brain study log` result, `System/reps.csv` row, or attempt timestamp has been invented. The allowed reference-sheet lookup remains recorded only as a recall observation.
+
+---
 
 ## Quick index
 
