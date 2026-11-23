@@ -8,6 +8,10 @@ UCSC coursework, private. One folder per class:
 | STAT 132 | [STAT132/files](STAT132/files) | [STAT132/PROGRESS.md](STAT132/PROGRESS.md) |
 | ECON 131 | [ECON131/files](ECON131/files) | [ECON131/PROGRESS.md](ECON131/PROGRESS.md) |
 
+- **Corkscrew** ([CORKSCREW.md](CORKSCREW.md)): one lecture of each class in turn, the class furthest behind first,
+  until every class is up to date. Per lecture or assignment, `<COURSE>/NEEDS.md` graphs what each problem rested on
+  (what I had to understand to get past it). Written by `brain school` (CLI, or the strip on brain desk's Teach tab),
+  which commits and pushes after every change; data in `study/`. Chats opened here follow [CLAUDE.md](CLAUDE.md).
 - **Standard layout per class:** `files/{course-info,lectures,homework,exams,readings,textbook,recordings,review,prereqs,other}`,
   `assignments/` (INDEX.md, per-assignment dependency map in `<slug>/ASSIGNMENT.md`, and `status.csv`, the one file I edit by
   hand: todo / working / submitted / graded), `PROGRESS.md`, `progress.csv`, `reps.csv`, `README.md`. `sync.py` renames
