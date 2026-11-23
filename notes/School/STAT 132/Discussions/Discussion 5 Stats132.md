@@ -21,17 +21,19 @@ created: 2026-11-22
 ---
 # Discussion 5 Stats132
 
+[[Discussions Stats132|All discussions]] · [[Discussion 4 Stats132|Previous discussion]] · [[Discussion 6 Stats132|Next discussion]]
+
 **Original:** [Discussion 5 W25 worksheet](https://github.com/immcnotthere/School/blob/main/STAT132/files/homework/STAT132%20Discussion%2005%20%28W25%20worksheet%29.pdf). Rephrased mathematical prompts and solutions below are anchored to this worksheet. The worksheet is from Winter 2025; the study work is in 2026.
 
 **How to study:** Hide each worked solution, attempt unaided, and find the *first* Mermaid step that stalls. The cue table points to reusable Obsidian concept notes; unresolved `[[wikilinks]]` are suggestions for missing notes. All 5 problems start **not assessed**. Reading solutions is not a completed attempt.
 
 | Problem | Topic | Status |
 |---|---|---|
-| [[#Problem 1 — Mode of chi-square distribution|1]] | Mode of chi-square distribution | ☐ Not assessed |
-| [[#Problem 2 — Smallest circle capturing 99 percent|2]] | Smallest circle capturing 99 percent | ☐ Not assessed |
-| [[#Problem 3 — Rescale squares of Normal sums|3]] | Rescale squares of Normal sums | ☐ Not assessed |
-| [[#Problem 4 — Gamma law of the Normal MLE variance|4]] | Gamma law of the Normal MLE variance | ☐ Not assessed |
-| [[#Problem 5 — Two chi-square probabilities (n=16)|5]] | Two chi-square probabilities (n=16) | ☐ Not assessed |
+| [[#Problem 1 — Mode of chi-square distribution\|1]] | Mode of chi-square distribution | ☐ Not assessed |
+| [[#Problem 2 — Smallest circle capturing 99 percent\|2]] | Smallest circle capturing 99 percent | ☐ Not assessed |
+| [[#Problem 3 — Rescale squares of Normal sums\|3]] | Rescale squares of Normal sums | ☐ Not assessed |
+| [[#Problem 4 — Gamma law of the Normal MLE variance\|4]] | Gamma law of the Normal MLE variance | ☐ Not assessed |
+| [[#Problem 5 — Two chi-square probabilities (n=16)\|5]] | Two chi-square probabilities (n=16) | ☐ Not assessed |
 
 ---
 ## Problem 1 — Mode of chi-square distribution
@@ -73,6 +75,8 @@ flowchart TD
 **When to stop:** mode is max(m-2,0).
 
 **Attempt record:** Not assessed; no learner failure or time has been inferred. At the next actual attempt record: `problem=P1`, the first stalled `step=S#`, the general prerequisite `node`, the observed outcome, and the learner's *exact original words* in quotes. Distinguish a cue-recognition miss from a calculation miss.
+
+**Next task:** [[#Problem 2 — Smallest circle capturing 99 percent|Problem 2]].
 
 ---
 
@@ -116,6 +120,8 @@ flowchart TD
 
 **Attempt record:** Not assessed; no learner failure or time has been inferred. At the next actual attempt record: `problem=P2`, the first stalled `step=S#`, the general prerequisite `node`, the observed outcome, and the learner's *exact original words* in quotes. Distinguish a cue-recognition miss from a calculation miss.
 
+**Next task:** [[#Problem 3 — Rescale squares of Normal sums|Problem 3]].
+
 ---
 
 ## Problem 3 — Rescale squares of Normal sums
@@ -158,6 +164,8 @@ flowchart TD
 
 **Attempt record:** Not assessed; no learner failure or time has been inferred. At the next actual attempt record: `problem=P3`, the first stalled `step=S#`, the general prerequisite `node`, the observed outcome, and the learner's *exact original words* in quotes. Distinguish a cue-recognition miss from a calculation miss.
 
+**Next task:** [[#Problem 4 — Gamma law of the Normal MLE variance|Problem 4]].
+
 ---
 
 ## Problem 4 — Gamma law of the Normal MLE variance
@@ -172,7 +180,7 @@ $X_1,\ldots,X_n$ iid $N(\mu,\sigma^2)$. For $\hat\sigma^2=\frac1n\sum_i(X_i-\bar
 
 **S2 — Relate pivot to estimator.** $\hat\sigma^2=(\sigma^2/n)Q$. Therefore $(n/\sigma^2)\hat\sigma^2\sim\chi^2_{n-1}$.
 
-**S3 — Use chi-square–Gamma equivalence.** $\chi^2_\nu\equiv\operatorname{Gamma}(\nu/2,\text{ rate }1/2)$. Scaling by $\sigma^2/n$ divides the rate by that factor's reciprocal: $\boxed{\hat\sigma^2\sim\operatorname{Gamma}((n-1)/2,\,n/(2\sigma^2))}$.
+**S3 — Use chi-square–Gamma equivalence.** $\chi^2_\nu\equiv\operatorname{Gamma}(\nu/2,\text{ rate }1/2)$. Multiplying a Gamma random variable by $\sigma^2/n$ divides its rate by that scale factor: $\boxed{\hat\sigma^2\sim\operatorname{Gamma}((n-1)/2,\,n/(2\sigma^2))}$.
 
 ### Mermaid decision route
 
@@ -199,6 +207,8 @@ flowchart TD
 **When to stop:** degrees of freedom are n-1.
 
 **Attempt record:** Not assessed; no learner failure or time has been inferred. At the next actual attempt record: `problem=P4`, the first stalled `step=S#`, the general prerequisite `node`, the observed outcome, and the learner's *exact original words* in quotes. Distinguish a cue-recognition miss from a calculation miss.
+
+**Next task:** [[#Problem 5 — Two chi-square probabilities (n=16)|Problem 5]].
 
 ---
 
@@ -241,6 +251,8 @@ flowchart TD
 **When to stop:** use chi-square 16 in a and 15 in b.
 
 **Attempt record:** Not assessed; no learner failure or time has been inferred. At the next actual attempt record: `problem=P5`, the first stalled `step=S#`, the general prerequisite `node`, the observed outcome, and the learner's *exact original words* in quotes. Distinguish a cue-recognition miss from a calculation miss.
+
+**Next task:** [[Discussion 6 Stats132|Discussion 6]].
 
 ---
 
