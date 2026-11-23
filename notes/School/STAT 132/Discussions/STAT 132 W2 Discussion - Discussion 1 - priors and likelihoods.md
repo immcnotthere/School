@@ -1,4 +1,7 @@
 ---
+aliases:
+  - "STAT 132 W2 Discussion 1 Notes"
+  - "Stats132 Discussion 1 Overview"
 type: study
 parent: "[[STAT 132]]"
 domain: stats
@@ -42,4 +45,4 @@ Each problem, with how it starts:
 
 ## Links
 - Hub: [[2026-10-02 Catch-up inventory - weeks 1-2]]
-- Worked problems, Mermaid flows, prerequisite map, and failure trace: [[STAT 132 Discussion 1 - Worked Solutions, Decision Trees, and Skill Traces]]
+- Worked problems, Mermaid flows, prerequisite map, and failure trace: [[Discussion 1 Stats132]]
