@@ -21,16 +21,18 @@ created: 2026-11-22
 ---
 # Discussion 6 Stats132
 
+[[Discussions Stats132|All discussions]] · [[Discussion 5 Stats132|Previous discussion]] · [[Discussion 7 Stats132|Next discussion]]
+
 **Source:** [Discussion 6 W25 worksheet](https://github.com/immcnotthere/School/blob/main/STAT132/files/homework/STAT132%20Discussion%2006%20%28W25%20worksheet%29.pdf). Prompts preserve the source's mathematical task, but are typeset afresh for readable Obsidian Markdown.
 
 **Method:** Start with the prompt (without reading the solution), identify the first applicable cue, follow the Mermaid branch, and solve. The concept links in each cue table point to existing notes or intentionally unresolved Obsidian notes for future creation. **Nothing is marked complete until an independent attempt is reported.**
 
 | Question | Focus | Status |
 |---|---|---|
-| [[#Problem 1 — Make a t distribution from five normals|1]] | Make a t distribution from five normals | ☐ Not assessed |
-| [[#Problem 2 — Prove a Normal-mean confidence interval|2]] | Prove a Normal-mean confidence interval | ☐ Not assessed |
-| [[#Problem 3 — Sample size for a very short 95% CI|3]] | Sample size for a very short 95% CI | ☐ Not assessed |
-| [[#Problem 4 — CI for an exponential mean using a pivot|4]] | CI for an exponential mean using a pivot | ☐ Not assessed |
+| [[#Problem 1 — Make a t distribution from five normals\|1]] | Make a t distribution from five normals | ☐ Not assessed |
+| [[#Problem 2 — Prove a Normal-mean confidence interval\|2]] | Prove a Normal-mean confidence interval | ☐ Not assessed |
+| [[#Problem 3 — Sample size for a very short 95% CI\|3]] | Sample size for a very short 95% CI | ☐ Not assessed |
+| [[#Problem 4 — CI for an exponential mean using a pivot\|4]] | CI for an exponential mean using a pivot | ☐ Not assessed |
 
 ---
 
@@ -74,6 +76,8 @@ flowchart TD
 
 **Failure-trace hook:** None observed yet. On an actual attempt, mark the *first* broken S-step, the exact general prerequisite skill, the cue missed, and the student's complete unedited words in the embedded log. Do not infer an FSRS rep from reading the walkthrough.
 
+**Next task:** [[#Problem 2 — Prove a Normal-mean confidence interval|Problem 2]].
+
 ---
 
 ## Problem 2 — Prove a Normal-mean confidence interval
@@ -115,6 +119,8 @@ flowchart TD
 **Answer checkpoint:** coverage is 1-alpha=gamma.
 
 **Failure-trace hook:** None observed yet. On an actual attempt, mark the *first* broken S-step, the exact general prerequisite skill, the cue missed, and the student's complete unedited words in the embedded log. Do not infer an FSRS rep from reading the walkthrough.
+
+**Next task:** [[#Problem 3 — Sample size for a very short 95% CI|Problem 3]].
 
 ---
 
@@ -158,6 +164,8 @@ flowchart TD
 
 **Failure-trace hook:** None observed yet. On an actual attempt, mark the *first* broken S-step, the exact general prerequisite skill, the cue missed, and the student's complete unedited words in the embedded log. Do not infer an FSRS rep from reading the walkthrough.
 
+**Next task:** [[#Problem 4 — CI for an exponential mean using a pivot|Problem 4]].
+
 ---
 
 ## Problem 4 — CI for an exponential mean using a pivot
@@ -199,6 +207,8 @@ flowchart TD
 **Answer checkpoint:** interval is [2S/qU,2S/qL].
 
 **Failure-trace hook:** None observed yet. On an actual attempt, mark the *first* broken S-step, the exact general prerequisite skill, the cue missed, and the student's complete unedited words in the embedded log. Do not infer an FSRS rep from reading the walkthrough.
+
+**Next task:** [[Discussion 7 Stats132|Discussion 7]].
 
 ---
 
