@@ -23,6 +23,20 @@ you never hand-edit them.
 Each of those commits and pushes by itself. Do not `git add` or commit `study/`, `CORKSCREW.md` or `*/NEEDS.md`
 yourself, and never `git add -A` here: the nightly sync leaves its own uncommitted work in this tree.
 
+## A chat with no `brain` (GitHub connector, phone, cloud)
+Edit the two CSVs directly and commit them; the laptop pulls them before its next change and redraws the pages.
+Leave `CORKSCREW.md` and `*/NEEDS.md` alone (they are redrawn from the CSVs).
+- Hang-up: append a row to `study/needs.csv`, columns
+  `id,course,item,problem,need,rests_on,concept,status,added,got,source`, e.g.
+  `n7,STAT132,L01,P3,what a likelihood is,,,open,2026-11-22,,chat`.
+  `id` = the next free n-number. `course` = STAT132 | AM20 | ECON131. `item` = L01 (two digits), HW1,
+  Discussion 7, Midterm 2. `rests_on` = space-separated ids of the deeper needs it stands on (to put a new need
+  beneath n3, add the new id to n3's `rests_on`). `concept` = an exact vault note title, or an AM 20 checkpoint id
+  from `AM20/study/final-atomic-checkpoints.csv` (A03), or empty.
+- Got it: set that row's `status` to `got` and `got` to the date.
+- Lecture finished: in `study/path.csv`, set its row's `status` to `done` and `finished` to the date
+  (`doing` = in progress, `skipped` = passed over). Do not reorder rows; brain recomputes the order.
+
 ## Files
 - `CORKSCREW.md`: where he is and the whole order (one lecture per class in turn, the class furthest behind first).
 - `<COURSE>/NEEDS.md`: per lecture or assignment, each problem and what it rested on, as a graph (red open, green got).
