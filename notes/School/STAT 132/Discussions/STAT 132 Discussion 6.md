@@ -4,7 +4,7 @@ parent: "[[STAT 132]]"
 domain: stats
 course: "STAT 132"
 status: draft
-source: "School/Courses/stat132/stat132-disc06-w25.pdf"
+source: "School/STAT 132/Discussions/stat132-disc06-w25.pdf"
 uses:
   - "[[t Distribution]]"
   - "[[Sum of Squares of iid Standard Normal Is Chi-Square]]"

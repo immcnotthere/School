@@ -127,7 +127,7 @@ Part (b) of Q1-Q4 is your answer key: if substituting fails, the solution is wro
 | Q8 | $y + (2xy - e^{-2y})y' = 0$: find $\mu$, solve | D8 | $\frac{N_x - M_y}{M}$ has no $x$, so $\mu(y)$; a $\ln$ appears in $\mu$ | 35 | Sat |
 
 ### Textbook answer keys (check after you finish, not before)
-Several HW problems are textbook problems, so Boyce prints the final answer. File: `School/Courses/am20/am20-textbook-boyce-diprima-10e.pdf`.
+Several HW problems are textbook problems, so Boyce prints the final answer. File: `School/AM 20/Reference/am20-textbook-boyce-diprima-10e.pdf`.
 
 | HW problem | Boyce problem | Answer key, PDF page |
 |---|---|---|

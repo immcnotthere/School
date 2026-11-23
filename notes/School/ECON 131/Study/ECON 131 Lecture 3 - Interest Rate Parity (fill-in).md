@@ -4,7 +4,7 @@ parent: "[[ECON 131 Lecture 3 - Interest Rate Parity]]"
 domain: econ
 course: "ECON 131"
 lecture: 3
-source: "School/Courses/econ131/econ131-lec03.pdf"
+source: "School/ECON 131/Lectures/econ131-lec03.pdf"
 status: draft
 prereqs:
   - "[[Spot vs Forward Contract]]"

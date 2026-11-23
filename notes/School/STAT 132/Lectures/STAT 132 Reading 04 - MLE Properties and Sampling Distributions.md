@@ -4,7 +4,7 @@ parent: "[[STAT 132]]"
 domain: stats
 course: "STAT 132"
 week: 4
-source: "School/Courses/stat132/stat132-reading04.pdf"
+source: "School/STAT 132/Readings/stat132-reading04.pdf"
 status: draft
 mastery: 0
 aliases:

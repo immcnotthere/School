@@ -4,7 +4,7 @@ parent: "[[STAT 132]]"
 domain: stats
 course: "STAT 132"
 status: draft
-source: "School/Courses/stat132/stat132-disc07-w25.pdf"
+source: "School/STAT 132/Discussions/stat132-disc07-w25.pdf"
 uses:
   - "[[Unbiased Estimator]]"
   - "[[Linearity of Expectation]]"

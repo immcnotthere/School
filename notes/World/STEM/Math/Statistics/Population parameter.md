@@ -12,7 +12,7 @@ created: 2026-03-03
 status: stable
 course: Econometrics
 type: concept
-parent: "[[World]]"
+parent: "[[Statistics]]"
 domain: stats
 prereqs:
   - "[[Population]]"

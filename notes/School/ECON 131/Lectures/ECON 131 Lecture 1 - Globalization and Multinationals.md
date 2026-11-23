@@ -9,7 +9,7 @@ date: 2026-09-24
 created: 2026-10-13
 lecturer: "Chenyue Hu"
 chapter: "Bekaert & Hodrick ch 1-2"
-source: "School/Courses/econ131/econ131-lec01.pdf"
+source: "School/ECON 131/Lectures/econ131-lec01.pdf"
 status: draft
 mastery: 0
 aliases:

@@ -5,7 +5,7 @@ domain: stats
 course: "STAT 132"
 lecture: 6
 week: 4
-source: "School/Courses/stat132/stat132-lec06.pdf"
+source: "School/STAT 132/Lectures/stat132-lec06.pdf"
 status: draft
 mastery: 0
 aliases:
@@ -285,7 +285,7 @@ Consistency vs unbiasedness, which are easy to mix up:
 ---
 
 ## 5. Run it locally (Claude)
-Script: `School/Courses/stat132/w4_ch6_mle_properties.py`. It computes every example above, checks them by simulation, and draws Figure 6.1 from the reading.
+Script: `School/STAT 132/Code/w4_ch6_mle_properties.py`. It computes every example above, checks them by simulation, and draws Figure 6.1 from the reading.
 
 ```bash
 cd ~/Documents/"Second Brain"/"School/Courses/stat132"

@@ -8,7 +8,7 @@ week: 2
 date: 2026-09-29
 created: 2026-10-01
 lecturer: "Chenyue Hu"
-source: "School/Courses/econ131/econ131-lec02.pdf"
+source: "School/ECON 131/Lectures/econ131-lec02.pdf"
 status: draft
 mastery: 0
 aliases:

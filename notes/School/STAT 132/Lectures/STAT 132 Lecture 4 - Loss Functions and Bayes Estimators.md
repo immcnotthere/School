@@ -5,7 +5,7 @@ domain: stats
 course: "STAT 132"
 lecture: 4
 week: 3
-source: "School/Courses/stat132/stat132-lec04.pdf"
+source: "School/STAT 132/Lectures/stat132-lec04.pdf"
 status: draft
 mastery: 0
 aliases:

@@ -9,7 +9,7 @@ date: 2026-10-01
 created: 2026-10-01
 lecturer: "Chenyue Hu"
 chapter: "Bekaert & Hodrick ch 3 (forwards, transaction risk) and ch 6 (interest rate parity)"
-source: "School/Courses/econ131/econ131-lec03.pdf"
+source: "School/ECON 131/Lectures/econ131-lec03.pdf"
 status: draft
 mastery: 0
 aliases:

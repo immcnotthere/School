@@ -9,7 +9,7 @@ date: 2026-10-08
 created: 2026-10-13
 lecturer: "Chenyue Hu"
 chapter: "Bekaert & Hodrick ch 4 (Exhibit 4.1 is from the textbook)"
-source: "School/Courses/econ131/econ131-lec05.pdf"
+source: "School/ECON 131/Lectures/econ131-lec05.pdf"
 status: draft
 mastery: 0
 aliases:

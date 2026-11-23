@@ -8,7 +8,7 @@ week: 3
 date: 2026-10-06
 lecturer: "Chenyue Hu"
 chapter: "Bekaert & Hodrick ch 8 (purchasing power parity and real exchange rates)"
-source: "School/Courses/econ131/econ131-lec04.pdf"
+source: "School/ECON 131/Lectures/econ131-lec04.pdf"
 status: draft
 mastery: 0
 aliases:

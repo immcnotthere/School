@@ -6,7 +6,7 @@ course: "ECON 131"
 status: draft
 week: 2
 item_type: lecture
-source: "Second Brain/School/Courses/econ131/econ131-lec03.pdf"
+source: "Second Brain/School/ECON 131/Lectures/econ131-lec03.pdf"
 date: 2026-10-01
 pages: 2
 problems: 0
@@ -17,7 +17,7 @@ time_debt_min: 36
 ---
 # ECON 131 week 2 lecture: Lecture 3 - Interest rate parity
 
-Lecture dated 2026-10-01. Source: `Second Brain/School/Courses/econ131/econ131-lec03.pdf`.
+Lecture dated 2026-10-01. Source: `Second Brain/School/ECON 131/Lectures/econ131-lec03.pdf`.
 
 ## Done?
 Score 2 of 5. 10/1 night: P1 right except a dropped minus sign; understood the forward hedge from the wine-shop example.
