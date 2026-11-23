@@ -94,6 +94,14 @@ $$
 =\frac{2}{9(3\alpha+1)}.
 $$
 
+**S4a — Square every factor inside parentheses.**
+
+$
+(3\alpha)^2=3^2\alpha^2=9\alpha^2 \ne 3\alpha^2.
+$
+
+This was an observed missed exponent-law step; the original $3\alpha^2$ denominator was corrected before the later fraction manipulation.
+
 **S5 — Solve for the two shape parameters.** One clean route is to cross-multiply:
 
 $
@@ -153,8 +161,12 @@ flowchart TD
   D -->|"No: alpha still on RHS"| E["REPAIR: collect like terms; 3alpha-alpha=beta"]
   E --> F["beta=2alpha"]
   D -->|"Yes"| F
-  F --> G["S4: Substitute into variance and cancel alpha²"]
-  G --> H0["S5a: Simplify to 1/10 = 1/(3alpha+1)"]
+  F --> G["S4: Substitute beta into variance"]
+  G --> G0{"S4a: Did square apply to BOTH 3 and alpha?"}
+  G0 -->|"No: used 3alpha²"| G1["FAILURE 2: Squaring a product"]
+  G1 --> G2["REPAIR: (3alpha)² = 9alpha²; cancel alpha²"]
+  G0 -->|"Yes"| G2
+  G2 --> H0["S5a: Simplify to 1/10 = 1/(3alpha+1)"]
   H0 --> H1{"S5a: Does the operation affect the ENTIRE denominator?"}
   H1 -->|"No: rewrote as 3/10 = 1/(alpha+1)"| H2["FAILURE 2: Changed only 3alpha, not the +1"]
   H2 --> H3["REPAIR: Reciprocal gives 10 = 3alpha+1"]
@@ -163,10 +175,11 @@ flowchart TD
   H --> I["S6: Beta normalizing constant, Gamma/factorials"]
   I --> J["Output PDF and support; check moments"]
   style E stroke:#b45309,stroke-width:3px
+  style G1 stroke:#b45309,stroke-width:3px
   style H2 stroke:#b45309,stroke-width:3px
 ~~~
 
-**Known observed breaks:** **S3** — becoming committed to isolating $\alpha$ while it remained on both sides. **S5a** — after the correct simplification to $1/10=1/(3\alpha+1)$, treating multiplication by 3 as though it could change just the $3\alpha$ term and leave $+1$ unaffected. Both are elementary-algebra prerequisite failures, **not** failures to identify the Beta distribution. Both decision points are marked in the diagram.
+**Known observed breaks:** **S3** — becoming committed to isolating $\alpha$ while it remained on both sides. **S4a** — squaring $\alpha$ but not the coefficient 3 in $(3\alpha)^2$. **S5a** — after the correct simplification to $1/10=1/(3\alpha+1)$, treating multiplication by 3 as though it could change just the $3\alpha$ term and leave $+1$ unaffected. All three are elementary-algebra prerequisite failures, **not** failures to identify the Beta distribution. All three decision points are marked in the diagram.
 
 ### 4. Dependency and cue trace
 
@@ -176,6 +189,7 @@ flowchart TD
 | S2 | Clearing denominators; Equivalent equations | Fraction equals $1/3$ | Multiply by the denominator on both sides |
 | **S3** | **Collect like terms; Isolate a variable; Substitution strategy** | The same symbol on both sides; two unknowns and two equations | Move like terms; isolate whichever variable yields the simplest one-variable substitute |
 | S4 | Algebraic substitution; Powers and cancellation | Known relationship $\beta=2\alpha$ | Replace *every* $\beta$ in the variance equation, including sums and products |
+| **S4a** | Exponent laws; Squaring a product | $(3\alpha)^2$ has a coefficient **and** a variable inside parentheses | Square both: $(3\alpha)^2=9\alpha^2$, not $3\alpha^2$ |
 | **S5a** | **Equivalent equations; Fractions with compound denominators; Distributive property** | $1/10=1/(3\alpha+1)$ and the urge to "multiply by 3" | Treat $3\alpha+1$ as one unit; a factor removed from a sum must apply to **both** terms. Easier cue: take reciprocals first. |
 | S5 | Solving linear equations; Multiplication/division | One equation, one unknown after reciprocal | Subtract 1, then divide by 3; check positivity |
 | S6 | Beta PDF; Gamma function; Factorials | Asked for the "prior pdf", not just $\alpha,\beta$ | Substitute into density, give support, check moments |
@@ -196,7 +210,20 @@ flowchart TD
 - **Mastery status:** not independently demonstrated in this document. Review by solving fresh algebra questions without the model.
 - **If logging a future, real attempt:** general node = "Collect like terms"; location = "STAT 132 Discussion 1, Problem 1"; step = "P1.S3"; record actual outcome via brain study log; add exact *full* student words to rep-words.jsonl under brain's returned ref (no paraphrase).
 
-#### Failure point 2 — P1.S5a: Operating on a compound denominator
+#### Failure point 2 — P1.S4a: Squaring a product
+
+- **Date observed:** 2026-11-22. Exact time of this specific chat attempt is not established.
+- **Position:** P1.S4a, after correctly substituting $\beta=2\alpha$.
+- **General skill:** [[Squaring a product]]; [[Exponent laws]].
+- **Missed cue:** Parentheses around a product: $(3\alpha)^2$ squares both 3 and $\alpha$.
+- **Student's exact words (full and unedited):**
+
+> Okay, so back to the problem. So we substitute in beta is equivalent to two alpha. And then we have the problem as two alpha squared, three alpha squared over, excuse me, two alpha squared over three alpha squared times three alpha plus one. Is that correct?
+
+- **Agent note:** The denominator was stated with $3\alpha^2$, omitting the square on the coefficient 3. The student was otherwise correctly substituting $\beta=2\alpha$.
+- **Brain ledger status:** Not logged here. No attempt ref exists for this observation; retain only the date and quote until an actual brain study log event is created.
+
+#### Failure point 3 — P1.S5a: Operating on a compound denominator
 
 - **Problem position:** P1 → S5a, after cancellation and the correct step $1/10=1/(3\alpha+1)$.
 - **Observed concept to drill:** **Distributive property** (related: **Equivalent equations**, **Fractions with compound denominators**).
@@ -554,6 +581,7 @@ Use this lightweight Markdown metadata under the corresponding problem after **e
 | problem | step | concept | observed status | existing reference |
 |---|---|---|---|---|
 | P1 | S3 | Collect like terms | failed at isolating a convenient variable | brain:2026-11-22T18:34:25-08:00:218357 (user-provided) |
+| P1 | S4a | Squaring a product | omitted square on coefficient; observed in chat, not logged | none — no attempt ref |
 | P1 | S5a | Distributive property | selectively changed a compound denominator; documented, not logged | none — needs an actual brain study log event |
 | P2–P5 | — | — | not assessed in this note | — |
 
