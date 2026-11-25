@@ -1,1 +1,5 @@
 id,course,item,problem,need,rests_on,concept,status,added,got,source
+n1,STAT132,Discussion 1,P1,Solving Beta mean and variance equations by substitution,n2 n3 n4,Beta Distribution,open,2026-11-25,,chat
+n2,STAT132,Discussion 1,P1,Reciprocals do not distribute over addition,,,open,2026-11-25,,chat
+n3,STAT132,Discussion 1,P1,Multiply like bases by adding exponents and cancel common factors,,,open,2026-11-25,,chat
+n4,STAT132,Discussion 1,P1,Use cross-multiplication to clear denominators in the mean equation,,,open,2026-11-25,,chat
