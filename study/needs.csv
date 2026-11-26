@@ -3,8 +3,9 @@ n1,STAT132,Discussion 1,P1,Solving Beta mean and variance equations by substitut
 n2,STAT132,Discussion 1,P1,Reciprocals do not distribute over addition,,,open,2026-11-25,,chat
 n3,STAT132,Discussion 1,P1,Multiply like bases by adding exponents and cancel common factors,,,open,2026-11-25,,chat
 n4,STAT132,Discussion 1,P1,Use cross-multiplication to clear denominators in the mean equation,,,open,2026-11-25,,chat
-n5,STAT132,Discussion 1,P1,Translate verbal prior description into mathematical distribution and density notation,n6 n7 n8,Prior Given in Words,open,2026-11-25,,chat
+n5,STAT132,Discussion 1,P1,Translate verbal prior description into mathematical distribution and density notation,n6 n7 n8 n10,Prior Given in Words,open,2026-11-25,,chat
 n6,STAT132,Discussion 1,P1,Write theta tilde Beta(alpha beta) with random variable outside distribution arguments,,,open,2026-11-25,,chat
 n7,STAT132,Discussion 1,P1,Define distribution support and distinguish random variable values from parameter restrictions,,,open,2026-11-25,,chat
 n8,STAT132,Discussion 1,P1,Write piecewise Beta density as zero outside support,n7 n9,,open,2026-11-25,,chat
 n9,STAT132,Discussion 1,P1,Recall Gamma(n) equals (n-1)! for positive integers and use in Beta density normalization,,,open,2026-11-25,,chat
+n10,STAT132,Discussion 1,P1,Distinguish distributional notation from functional representation of a probability density,n6,,open,2026-11-25,,chat
