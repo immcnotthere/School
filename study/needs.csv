@@ -9,3 +9,7 @@ n7,STAT132,Discussion 1,P1,Define distribution support and distinguish random va
 n8,STAT132,Discussion 1,P1,Write piecewise Beta density as zero outside support,n7 n9,,open,2026-11-25,,chat
 n9,STAT132,Discussion 1,P1,Recall Gamma(n) equals (n-1)! for positive integers and use in Beta density normalization,,,open,2026-11-25,,chat
 n10,STAT132,Discussion 1,P1,Distinguish distributional notation from functional representation of a probability density,n6,,open,2026-11-25,,chat
+n11,STAT132,Discussion 1,P3,CRITICAL: Distinguish pointwise multiplication of prior and likelihood from function composition; the prior reweights outputs at the same parameter value rather than transforming the input,n12 n13 n14,,open,2026-11-26,,chat
+n12,STAT132,Discussion 1,P3,Define pointwise multiplication as (fg)(theta)=f(theta)g(theta) and distinguish it from composition f(g(theta)),,,open,2026-11-26,,chat
+n13,STAT132,Discussion 1,P3,Recognize that the likelihood assumes no prior and that a prior reweights relative likelihood without altering the sampling model,,Likelihood Function,open,2026-11-26,,chat
+n14,STAT132,Discussion 1,P3,Recognize that a uniform prior preserves relative likelihood within its support and truncates the posterior outside it,n7,,open,2026-11-26,,chat
