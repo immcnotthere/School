@@ -13,3 +13,44 @@ n11,STAT132,Discussion 1,P3,CRITICAL: Distinguish pointwise multiplication of pr
 n12,STAT132,Discussion 1,P3,Define pointwise multiplication as (fg)(theta)=f(theta)g(theta) and distinguish it from composition f(g(theta)),,,open,2026-11-26,,chat
 n13,STAT132,Discussion 1,P3,Recognize that the likelihood assumes no prior and that a prior reweights relative likelihood without altering the sampling model,,Likelihood Function,open,2026-11-26,,chat
 n14,STAT132,Discussion 1,P3,Recognize that a uniform prior preserves relative likelihood within its support and truncates the posterior outside it,n7,,open,2026-11-26,,chat
+n15,STAT132,Discussion 1,P2,Translate a verbal sampling model into X_i given lambda tilde Exp(lambda); distinguish individual observations from the sample mean,n10,Data Model vs Prior Model,open,2026-11-28,,chat
+n16,STAT132,Discussion 1,P2,Read tilde as is distributed as and conditioning on lambda as under the assumption that lambda takes a particular value,n15,Probability Notation,open,2026-11-28,,chat
+n17,STAT132,Discussion 1,P2,Distinguish the rate parameter from the data and from the population mean; exponential mean is reciprocal rate and rate has inverse-time units,n15,,open,2026-11-28,,chat
+n18,STAT132,Discussion 1,P2,Distinguish unknown parameter from prior hyperparameters and recognize shape rate location and scale roles,n10,,open,2026-11-28,,chat
+n19,STAT132,Discussion 1,P2,Distinguish sampling density f(x|theta) from likelihood L(theta;x) and posterior pi(theta|x) by what varies and what is fixed,n15 n16,Likelihood Function,open,2026-11-28,,chat
+n20,STAT132,Discussion 1,P2,Use uppercase X_i for random variables and lowercase x_i for observations; write the observed vector and sample size,n15,Probability Notation,open,2026-11-28,,chat
+n21,STAT132,Discussion 1,P2,Construct the likelihood as a product of individual sampling densities under conditional independence; read capital Pi as product operator,n19 n20,Likelihood Function,open,2026-11-28,,chat
+n22,STAT132,Discussion 1,P2,Simplify exponential likelihood by adding exponents and factoring out common lambda; avoid double-counting n when using the sample sum,n3 n21,,open,2026-11-28,,chat
+n23,STAT132,Discussion 1,P2,Recognize negative exponents as reciprocals and distinguish a sum of observations from n times the sample mean,n2 n22,,open,2026-11-28,,chat
+n24,STAT132,Discussion 1,P2,Sketch likelihood using domain boundary limits maximum and tail; recognize positive power times exponential decay as a right-skewed Gamma-shaped kernel,n22,,open,2026-11-28,,chat
+n25,STAT132,Discussion 1,P2,Use natural logarithm identities for products powers and exponential terms; do not distribute log across addition,n22,,open,2026-11-28,,chat
+n26,STAT132,Discussion 1,P2,Maximize log-likelihood using differentiation and verify maximum; strictly increasing log preserves the maximizer,n25,,open,2026-11-28,,chat
+n27,STAT132,Discussion 1,P2,Distinguish likelihood shape from the sampling distribution of an estimator and distinguish CLT from LLN,n19 n24,,open,2026-11-28,,chat
+n28,STAT132,Discussion 1,P2,CRITICAL: Distinguish frequentist sampling uncertainty from Bayesian posterior parameter uncertainty; both can aggregate the same likelihood,n19 n29 n30 n31 n32,,open,2026-11-28,,chat
+n29,STAT132,Discussion 1,P2,Explain sequential frequentist updating by multiplying likelihoods or retaining sufficient statistics; no need to retain all raw data for the same model,n21,,open,2026-11-28,,chat
+n30,STAT132,Discussion 1,P2,Explain frequentist confidence interval as long-run coverage of the procedure rather than probability for a realized interval; use fixed-arrow variable-axes analogy,n27,,open,2026-11-28,,chat
+n31,STAT132,Discussion 1,P2,Explain credible interval as posterior probability over the parameter given data and prior; distinguish from coverage,n19,Posterior as a Conditional Statement,open,2026-11-28,,chat
+n32,STAT132,Discussion 1,P2,Distinguish likelihood maximization from posterior mean median and MAP; posterior mean is expected parameter under squared-error loss,n19 n26,,open,2026-11-28,,chat
+n33,STAT132,Discussion 1,P2,Recognize OLS as equivalent to MLE only under appropriate Gaussian error assumptions; neither MLE nor Bayes estimate is inherently an arithmetic mean,n32,,open,2026-11-28,,chat
+n34,STAT132,Discussion 1,P2,Explain shrinkage prior strength and bias-variance tradeoff; strong prior can stabilize estimates or bias them under misspecification,n32,,open,2026-11-28,,chat
+n35,STAT132,Discussion 1,P2,Recognize asymptotic agreement under suitable conditions and that neither approach automatically corrects sampling bias,n28 n34,,open,2026-11-28,,chat
+n36,STAT132,Discussion 1,P2,Choose inference framework from goal: long-run error control versus posterior parameter probability; informative prior or partial pooling can favor Bayesian modeling without exclusive claims,n28 n34,,open,2026-11-28,,chat
+n37,STAT132,Discussion 1,P3,CRITICAL: Distinguish a uniform prior on rate lambda from a uniform prior on population mean 1/lambda; reciprocal transformation changes distribution and reverses inequalities,n17 n38 n39 n40,,open,2026-11-28,,chat
+n38,STAT132,Discussion 1,P3,Distinguish probability density height from interval probability; continuous point probability is zero without implying impossibility,n7,,open,2026-11-28,,chat
+n39,STAT132,Discussion 1,P3,Calculate uniform interval probability as width divided by total width; integrate nonconstant densities over the event and use CDF differences,n38,,open,2026-11-28,,chat
+n40,STAT132,Discussion 1,P3,Translate expected study time below one hour into 1/lambda < 1 and hence lambda > 1 using positivity of lambda,n17,,open,2026-11-28,,chat
+n41,STAT132,Discussion 1,P3,Assess prior reasonableness in real-world units rather than merely support compatibility; uniform rate prior implies 90 percent probability of mean study time below one hour,n37,,open,2026-11-28,,chat
+n42,STAT132,Discussion 1,P3,Distinguish parameter-space compatibility from observation support; prior must put probability on valid parameters and posterior integral must be finite and positive,n7 n14,,open,2026-11-28,,chat
+n43,STAT132,Discussion 1,P3,Recognize conjugacy as preservation of the prior distribution family after updating rather than preservation of exact kernel; conjugacy is optional,n11,,open,2026-11-28,,chat
+n44,STAT132,Discussion 1,P3,CRITICAL: Derive pointwise prior times likelihood from Bayes theorem and distinguish posterior proportionality from equality,n11 n19 n45,Posterior as a Conditional Statement,open,2026-11-28,,chat
+n45,STAT132,Discussion 1,P3,Normalize continuous posterior by integrating the kernel over its full support and dividing the kernel by that integral; integration alone is not normalization,n38 n39,,open,2026-11-28,,chat
+n46,STAT132,Discussion 1,P3,Recognize marginal likelihood as the normalizing constant independent of the parameter for fixed data; retrieve known constants when conjugacy identifies the family,n44 n45,,open,2026-11-28,,chat
+n47,STAT132,Discussion 1,P3,"Write prior support using lambda in (0,10) or inequalities and distinguish endpoint conventions for continuous distributions from closed topological support",n7,,open,2026-11-28,,chat
+n48,STAT132,Discussion 1,P3,Read the task before solving: assess proposed prior itself rather than reusing earlier observed data or constructing an unrequested posterior,n41 n42 n43,Prior Given in Words,open,2026-11-28,,chat
+n49,STAT132,Discussion 1,P4,Recognize a two-point prior as discrete support rather than a binomial count; distinguish arbitrary two-point PMF from transformed Bernoulli variable,n7 n10,,open,2026-11-28,,chat
+n50,STAT132,Discussion 1,P4,Construct discrete uniform PMF by assigning equal mass 1/k to k possible values; distinguish from continuous uniform density 1/(b-a),n49 n38,,open,2026-11-28,,chat
+n51,STAT132,Discussion 1,P4,Normalize discrete PMF by summing masses and continuous PDF by integrating density; write piecewise PMF and set support,n50 n45,,open,2026-11-28,,chat
+n52,STAT132,Discussion 1,P5,Compute prior mean by integrating p times pi(p) over support; distinguish p from density and distribute factors exactly once,n10 n38,,open,2026-11-28,,chat
+n53,STAT132,Discussion 1,P5,Compute second raw moment by integrating p squared times the original density; do not square the integration bound or multiply an already weighted integrand by p squared,n52,,open,2026-11-28,,chat
+n54,STAT132,Discussion 1,P5,Distinguish E[p^2] from (E[p])^2 and use variance identity E[p^2]-(E[p])^2,n53,,open,2026-11-28,,chat
+n55,STAT132,Discussion 1,P5,Evaluate definite polynomial integrals using the power rule and simplify fractional arithmetic for first and second moments and variance,n52 n53 n54,,open,2026-11-28,,chat
